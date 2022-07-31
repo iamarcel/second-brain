@@ -4,7 +4,7 @@
 
 
 up:: [[1 Projects/Mindvalley University 2022|Mindvalley University 2022]]
-author:: [[0 Inbox/Bibi Brozozka|Bibi Brozozka]]
+author:: [[4 Archive/Notes/Bibi Brozozka|Bibi Brozozka]]
 tags:: #source/lecture 
 
 published: [[4 Archive/Notes/Bibi Orgasmic instagram story|Bibi Orgasmic instagram story]]

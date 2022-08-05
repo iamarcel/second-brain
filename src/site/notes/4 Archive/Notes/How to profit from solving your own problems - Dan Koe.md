@@ -4,7 +4,7 @@
 
 
 author:: [[4 Archive/Notes/Dan Koe|Dan Koe]]
-tags:: #source/article #on/business #on/entrepeneurship
+tags:: #source/article #on/business #on/entrepeneurship #on/online-business #on/creator-economy #on/problems
 up:: [[1 Projects/Become a Modern Master|Become a Modern Master]]
 [Source](https://thedankoe.com/how-to-profit-from-solving-your-own-problems/)
 

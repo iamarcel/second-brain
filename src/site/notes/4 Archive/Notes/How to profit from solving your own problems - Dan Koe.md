@@ -10,7 +10,7 @@ up:: [[1 Projects/Become a Modern Master|Become a Modern Master]]
 
 The “job first, then happiness” advice may turn people away from well-intentioned pursuits toward a better life.
 
-**With the power of the internet, some marketing knowledge, and the ability to write an attractive message, you can monetize almost anything.**
+**With the power of the internet, some marketing knowledge, and the ability to write an attractive message, you can monetize almost anything.** ^79d37f
 
 Problems aren’t personal, they are systemic.
 
@@ -60,6 +60,6 @@ Flow with the current that few can see without being in the space.
 
 Block out all advice you hear about building an online brand until you execute on this and figure it out for yourself: treat Twitter as a public journal.
 
-**Give your current and past selves advice in public.**
+**Give your current and past selves advice in public.** ^9e53cc
 
 It is an increcibly difficult journey. You will have many mental battles. Write your way through them.

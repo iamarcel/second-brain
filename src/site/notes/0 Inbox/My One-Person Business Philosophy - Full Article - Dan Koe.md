@@ -91,16 +91,13 @@ Your **ideas** for content should revolve around The Content Pyramid.
 
   
 Your **brand** should revolve around the Social Matrix.
-
   
 ![24045055_1637019768C89twitter-matrix.png](https://ci4.googleusercontent.com/proxy/oIbvCocmLJmhaJKu058YOK8GaW7AIf4QhuaBpRSRLVXRdUErnIIU5biILs4u9-4xIT2xKcxP_mqFGc__un5Qn6gaF7jcC-DOV04CFxweiIKLLKzkHfjKTxSBH0NVOTZNxfS-B9fyqd770aU=s0-d-e1-ft#https://kartrausers.s3.amazonaws.com/powershift/24045055_1637019768C89twitter-matrix.png)
 
 Your **content** should revolve around 3 things:
 
 - Education
-
 - Entertainment
-
 - Inspiration
 
 If you follow those steps (and create content that does well on the platform) it's hard to fail.

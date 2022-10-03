@@ -253,6 +253,18 @@ His Notion has a Problems You Might Face list. Start with success and failure in
 
 "If I'm not having enough deep work sessions, I just didn't check enough boxes in this list."
 
+About the system, what I have currently for Alignment is:
+* 🌻 Virtues (aka values. e.g. kindness)
+* 🏦 Life categories with final outcomes (e.g. health - being full of energy (unmeasurable)...)
+* 🎯 Goal outcomes for categories (measurable steps towards the unmeasurable outcomes)
+* 💥 Actions (tasks)
+
+And what makes the system work is:
+* 📄 1000 Protocols (execution of the 1000 factors model)
+* ✏️ Reviews - daily, weekly, monthly...
+* 🔄 Habits & Practices
+* ♟️ Masterplan ~I didn't get to explain this one
+
 # Summary
 Problems: stop seeing them as a tree with a cause. Instead, see rhizomes. You lack the checkboxes checked. Systems problem, not a person problem.
 

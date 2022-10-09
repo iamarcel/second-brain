@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/situational-assessment-right-now-jordan-hall/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-tags:: #source/article #on/philosophy #on/society
+tags:: #source/article #on/philosophy #on/society #on/sense-making 
 author:: [[4 Archive/Notes/Jordan Hall|Jordan Hall]]
 [Source](https://medium.com/deep-code/situational-assessment-right-now-7d9856b562f5)
 
-The Deep Code hypothesis has been that the dynamic attractor of our current civilization (the set of institutions, structures, ideas, habits and feedback loops that keep things hanging together) is in the process of evaporation ([View Highlight](<https://instapaper.com/read/1312341354/13114185>))
+The [[Deep Code|Deep Code]] hypothesis has been that the dynamic attractor of our current civilization (the set of institutions, structures, ideas, habits and feedback loops that keep things hanging together) is in the process of evaporation ([View Highlight](<https://instapaper.com/read/1312341354/13114185>))
 
 
 As we have seen with 9/11 (Patriot Act) these things have a habit of becoming habit. ([View Highlight](<https://instapaper.com/read/1312341354/13114207>))

@@ -115,7 +115,7 @@ Combine these with:
 
 Okay now the Real Hacker's Way: vi. I'll start with the meme so you get an idea of the learning curve:
 
-![300](https://pics.conservativememes.com/3-quitting-from-what-a-beginner-trying-to-quit-vim-42002282.png)
+![](https://pics.conservativememes.com/3-quitting-from-what-a-beginner-trying-to-quit-vim-42002282.png)
 
 It's worth it though. Especially for programming, but also for normal text typing.
 

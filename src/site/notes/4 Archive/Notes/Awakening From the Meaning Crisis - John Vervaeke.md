@@ -2,19 +2,11 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/awakening-from-the-meaning-crisis-john-vervaeke/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
-
-# Author :: [John Vervaeke](20210713175843-john_vervaeke.md)
-
-
-# Link ::
-
-
-# Tags :: [Synapse 3](20210714143254-synapse_3.md)
-
+author:: [John Vervaeke](John%20Vervaeke.md)
+related:: 
+- [Synapse 3](20210714143254-synapse_3.md)
 
 # Introduction
-
 There's a confluence coming between cognitive science and buddhism. Why is there hunger for meaning and why are people finding it in for example [Stoicism](Stoicism.md)? People are starting to talk about *meaning* in life. It's very predictive of how well you're feeling is good. Psychidelics are getting more popular.
 
 Thesis: It's no coincidence that all of these are happening at the same time.
@@ -455,3 +447,25 @@ So the world isn't connected anymore, there's no connection between what the wor
 
 **We are so disconnected from reality. We believe in a scientific world view in which our meaning and purpose ourself and the objects we interact with is all ultimately not *real*. All the purposes, all the meaning, is not real. And fundamentally, I'm not real. You're not real.**
 
+# Martin Luther vs Descartes
+Luther: we don't know anything, our perception is deeply flawed. Believing in God is just that, an arbitrary belief. There's nothing we can do to know for sure if it's real.
+
+You have to believe in God without any other presupposition. Throw away all traditions.
+
+Belief becomes an *individual* thing. This is the start of **cultural narcissism**. God has chosen some people and will save them, you can see that if you succeed when working hard. So this is the start of people in our culture looking for signs that they are special, different from the rest. This individualization.
+
+Problem was that others didn't read the Bible as he did. Without the tradition and structure of the church, many people would lose having a good interpretation.
+
+Start of the *pride* concept in Christianity.
+
+Descartes invents the concept of the **graph**. This is so ingrained in us right now, we practically equate "science" with graphs.
+
+He also invents equations that represent mathematical shapes. This seems to give an answer to the chaos created by Luther: we can reduce everything into a simple equation.
+
+So math seems like the answer of everything. Luther: believe without any proof. Descartes: math proves everything, rationality gives the ultimate answers.
+
+Descartes think about matter and cognition/soul as two different things: mass has *objective* properties, but also *subjective* properties which belong to the *subject*.
+
+Hobbes takes this on: he proposes that even *cognition* can be reduced to *computation*. (With this idea he invents the concept of AI.)
+
+Now not only the universe is destroyed, all matter is reduced to being inert and having no meaning, but now the last thing we humans had—a soul—is also just meaningless computation.

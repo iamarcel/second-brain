@@ -94,6 +94,13 @@ Two keys will be dedicated to go to "a higher layer" or "a lower layer." Having 
 
 Do whatever is most useful for you. Media controls? A full number pad? The world is yours for the taking.
 
+# Let's Go Custom
+We're **far beyond** the point where you can buy this in a computer store. Best you can get is a DIY kit.
+
+But while you're here, why not take a picture of your hand and optimize the column stagger exactly to the shape of your fingers?
+
+Manufacturing a circuit board is pretty cheap, I've done it a few times already.
+
 # Hahahaha You're Still Using Your Mouse?
 Do you KNOW how much time you're **wasting** moving your hand between the keyboard and the mouse? How imprecise and difficult it is just to *select a word* so you can delete it?
 

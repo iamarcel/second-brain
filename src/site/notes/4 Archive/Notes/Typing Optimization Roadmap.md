@@ -119,11 +119,13 @@ Okay now the Real Hacker's Way: vi. I'll start with the meme so you get an idea 
 
 It's worth it though. Especially for programming, but also for normal text typing.
 
-With Vim, *every key gains infinite power*. You can delete a whole sentence with "das" (delete-a-sentence). Change a word with "cw" (change-word). Select a paragraph and move it two paragraphs up with "V{d{{p".
+With Vim, *every key gains infinite power*. You can delete a whole sentence with "das" (delete-a-sentence). Change a word with "cw" (change-word). Select a paragraph and move it two paragraphs up with "V\{d\{\{p".
 
 How? Layers! Or "modes" is what they call it. Normal Mode lets you move and surgical changes to your text. Insert Mode lets you type.
 
-[I recorded a quick overview](https://www.youtube-nocookie.com/embed/cmWjsbm755o).
+Quick overview:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cmWjsbm755o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Here's a cheat sheet:
 

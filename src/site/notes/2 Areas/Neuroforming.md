@@ -4,11 +4,11 @@
 
 tags:: #a/concept #output/concept #a/moc
 
-Terraforming for the mind. The deliberate practice of building and shaping your idea space.
+Terraforming for the mind. The deliberate practice of building and shaping your **knowledge landscape**.
 
 In Machine Learning, every new point of training completely reshapes the entire "brain."
 
-To really anchor in new ideas, we need to make them part of our space.
+To really anchor in new ideas, we need to make them part of our landscape.
 
 ## How To
 - [[0 Inbox/Restructure information to understand it|Restructure information to understand it]]

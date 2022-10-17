@@ -309,3 +309,27 @@ Most sports are ritualized war.
 The attachment to comfort and security is what limits most men in their capacity to make a spiritual touchdown. To be free is to die to your need to be a separate self.
 
 A woman's bliss is not in emptiness, but in fullness. Her means is not release, but surrender. She longs to fill her sense of spiritual emptiness by surrendering her heart and being filled with love.
+
+The essential masculine fear is the loss of self—which is also the essential masculine desire.
+
+### Own Your Darkest Desires
+If a man disowns his dark masculine desire for freedom, then he kinks the host of his masculine force.
+
+When was the last time you really ravished your woman? That is, when was the last time you really "took" her, savagely, lovingly, with no inhibition whatsoever? Or, has it been so long that you are fascinated and even turned on by rape scenes on TV or in the movies?
+
+The desire to ravish is the sexual of the same masculine desire that wants to break through opponents in sports, philosophical barriers to insight, and fear of death into spiritual freedom.
+
+The dark feminine desire, to be forced to surrender, is as strong as the dark masculine desire to penetrate through a woman's resistance. The difference between rape and ravishment is love.
+
+You must learn to let go, absolutely, in love with your woman. Allow this love to ravish your woman to busting, filling her heart and body beyond capacity, so she has no choice but to surrender to the depth and force of your loving.
+
+### She Wants The 'Killer' In You
+The dark masculine energy of the warrior, the one who could face death and kill when necessary, is an essential part of you.
+
+Beneath the nice veneer of most women lies the wrathful goddess who would chop the head off of every mediocre "new age" man.
+
+She wants to feel your persistence in loving, so that her fury cannot turn you away.
+
+Your woman's desire for your dark side, in love, is a gift to you.
+
+### She Needs Your Consciousness to Match Her Energy

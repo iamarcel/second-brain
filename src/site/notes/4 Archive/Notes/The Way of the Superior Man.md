@@ -333,3 +333,22 @@ She wants to feel your persistence in loving, so that her fury cannot turn you a
 Your woman's desire for your dark side, in love, is a gift to you.
 
 ### She Needs Your Consciousness to Match Her Energy
+The goddess of devotion muse be met by the god of all-pervading love. Dark or light, a man can't be stuck in, or avoid, any areas of his masculine capacity or his woman will test him there. She will keep returning to the energy that you cannot match.
+
+**She wants your consciousness—clear, strong, and free—as much as you want her radiance.**
+
+The secret is to match her energy with consciousness *demonstrated through your body*. Your body, tone of voice, and the look in your eyes mean a lot more to her than anything you could say. Don't tell her what to do, but do it with her, with your body. If she's tense and closed down, lift her arms up above her head and kiss her heart.
+
+She will never trust your "lighter" masculine capacities until you have proven your "darker" masculine capacities. She knows that if you are not free to meet her dark destructress energy and ravish her in love, you won't be free to meet  the dark destructress of the world—who will challenge your spiritual freedom—with strength and love.
+
+You need not concern yourself with pleasing her. That's not the point. Her gift, if she is a good woman, is to test you with her darkest moods, over and over and over, until your consciousness is unperturbed by feminine challenge, and you are able to pervade her with your love, just as you are here to pervade the world.
+
+
+## Part Six: Feminine Attractiveness
+
+### The Feminine is Abundant
+Life itself is the feminine. There is never a shortage of feminine energy, only a resistance to receiving, trusting, and embracing it.
+
+Whenever you are feeling isolated and weary, feel the present moment as if it were a woman.
+
+Relax your body and feel the ocean of feminine energy around you. Feel your surroundings as her form, the sounds around you as her moans and laughter, and the light around you as her smile. Actually relax with the moment as you would relax with your lover, not metaphorically but literally, bodily, with full intention and presence.

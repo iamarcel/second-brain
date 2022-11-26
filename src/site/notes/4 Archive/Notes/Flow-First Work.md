@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/flow-first-work/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/flow-first-work/"}
 ---
 
 tags:: #output/essay #wip #a/concept
 
 Basically a manifesto for the Gardener way of working.
 Be rooted when working.
-JIT organization. [[0 Inbox/Just-In-Time Planning|Just-In-Time Planning]]
-[[Personal Productivity Network|Personal Productivity Network]]
-[[Pipelining|Pipelining]]
-[[Out-of-Order Execution|Out-of-Order Execution]]
+JIT organization. [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]
+[[Personal Productivity Network\|Personal Productivity Network]]
+[[Pipelining\|Pipelining]]
+[[Out-of-Order Execution\|Out-of-Order Execution]]
 
 Spectrums of:
 - Level of organization
-- Length of work session required for types of work ([[4 Archive/Imported/Intermediate Packets|Intermediate Packets]])
+- Length of work session required for types of work ([[4 Archive/Imported/Intermediate Packets\|Intermediate Packets]])
 
 Why? Freedom. No more anxiety about either losing stuff or losing time organizing.
 

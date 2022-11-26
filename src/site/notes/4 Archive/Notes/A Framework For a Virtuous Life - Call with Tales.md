@@ -1,34 +1,34 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/a-framework-for-a-virtuous-life-call-with-tales/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/a-framework-for-a-virtuous-life-call-with-tales/"}
 ---
 
 tags:: #source/lecture #source/conversation #on/philosophy #on/purpose 
 people:: 
-- [[4 Archive/Notes/Tales Alves|Tales Alves]]
-- [[4 Archive/Notes/Tatyana Fomina|Tatyana Fomina]]
-- [[4 Archive/Notes/Hector Woods|Hector Woods]]
-- [[4 Archive/Notes/Aaron Elsner|Aaron Elsner]]
-- [[4 Archive/Notes/Diyora Bobokulova|Diyora Bobokulova]]
-- [[4 Archive/Notes/Cassidy Chapman|Cassidy Chapman]]
-- [[0 Inbox/Joao Sa|Joao Sa]]
-- [[4 Archive/Notes/Gustavo Dalla Vecchia|Gustavo Dalla Vecchia]]
-- [[0 Inbox/Timothy Luckrock|Timothy Luckrock]]
+- [[4 Archive/Notes/Tales Alves\|Tales Alves]]
+- [[4 Archive/Notes/Tatyana Fomina\|Tatyana Fomina]]
+- [[4 Archive/Notes/Hector Woods\|Hector Woods]]
+- [[4 Archive/Notes/Aaron Elsner\|Aaron Elsner]]
+- [[4 Archive/Notes/Diyora Bobokulova\|Diyora Bobokulova]]
+- [[4 Archive/Notes/Cassidy Chapman\|Cassidy Chapman]]
+- [[0 Inbox/Joao Sa\|Joao Sa]]
+- [[4 Archive/Notes/Gustavo Dalla Vecchia\|Gustavo Dalla Vecchia]]
+- [[0 Inbox/Timothy Luckrock\|Timothy Luckrock]]
 
 # Summary
 ## We Need a Framework for a Virtuous Life
-[[4 Archive/Notes/Humans are fuzzy|Humans are fuzzy]]: there is no root cause of why we do things, only factors that increase the probability of doing things.
-cfr. [[4 Archive/Notes/The Raft Model of Reality|The Raft Model of Reality]]
+[[4 Archive/Notes/Humans are fuzzy\|Humans are fuzzy]]: there is no root cause of why we do things, only factors that increase the probability of doing things.
+cfr. [[4 Archive/Notes/The Raft Model of Reality\|The Raft Model of Reality]]
 
-[[4 Archive/Notes/1000 Factor Model|1000 Factor Model]]: Your environment is filled with factors, "arrows" that either point in the direction of your desired action, or away from it. The point is to **make as much arrows align** as possible. There's not really anything else than *friction*. 
-cfr. [[4 Archive/Notes/Mise en place|Mise en place]]
+[[4 Archive/Notes/1000 Factor Model\|1000 Factor Model]]: Your environment is filled with factors, "arrows" that either point in the direction of your desired action, or away from it. The point is to **make as much arrows align** as possible. There's not really anything else than *friction*. 
+cfr. [[4 Archive/Notes/Mise en place\|Mise en place]]
 
-[[4 Archive/Notes/Decide and Remember|Decide and Remember]]. Making sure we do what's important to us has two phases:
+[[4 Archive/Notes/Decide and Remember\|Decide and Remember]]. Making sure we do what's important to us has two phases:
 1. Decide. You need a system that derives the most important actions now from your values.
 2. Remember. You need a system that reminds you of these actions.
 
 ## The Framework
 ### Values
-Figure out your virtues and values. Use [[4 Archive/Imported/Stoicism|Stoicism]], [[4 Archive/Notes/Lifebook|Lifebook]] and other philosophy for inspiration. Rank them but don't be perfect—be less wrong.
+Figure out your virtues and values. Use [[4 Archive/Imported/Stoicism\|Stoicism]], [[4 Archive/Notes/Lifebook\|Lifebook]] and other philosophy for inspiration. Rank them but don't be perfect—be less wrong.
 
 ### Categories / Areas
 Define these in multiple levels of details: one paragraph, one page, all the details. This turns into your Areas of Life (cfr. PARA Area, GTD Area of Responsibility, Tony Robbins' Category of Improvement, Lifebook's Categories).
@@ -55,7 +55,7 @@ Morning Journal with:
 Reminders everywhere in all forms. Wallpaper, necklace, etc. Always take immediate action on reminders or they fade away.
 
 ## Advancing
-[[4 Archive/Notes/Ascension Attention|Ascension Attention]]: Keep a list of things you did that align with your values, so you know you're doing what matters.
+[[4 Archive/Notes/Ascension Attention\|Ascension Attention]]: Keep a list of things you did that align with your values, so you know you're doing what matters.
 
 Have only one most important task for any day.
 - Easy enough to do it every day
@@ -63,7 +63,7 @@ Have only one most important task for any day.
 - Aligned with your highest values
 
 Prepare how to tackle challenges: create notes by challenge.
-(cfr. [[4 Archive/Imported/The Neuroscience of Achieving Your Goals|The Neuroscience of Achieving Your Goals]])
+(cfr. [[4 Archive/Imported/The Neuroscience of Achieving Your Goals\|The Neuroscience of Achieving Your Goals]])
 
 Your problems are "another one of those."
 
@@ -95,13 +95,13 @@ Every behavior has two sides: what you tell yourself why you did it, and why you
 
 Rhizome: horizontally growing things in the ground, that have no beginning and no end. "Let's go to the root cause of the problem" doesn't work—our causes don't have a tree structure.
 
-MW: Reminds me of [[4 Archive/Notes/The Raft Model of Reality|The Raft Model of Reality]].
+MW: Reminds me of [[4 Archive/Notes/The Raft Model of Reality\|The Raft Model of Reality]].
 
 Solution: a 1000 factor model, and try to get as much arrows as possible pointing in the right direction.
 
 Everything making you do something is in reducing friction.
 
-Lukas: Friction/Resistance is also the identified enemy in [[The War of Art|The War of Art]] and the creative process
+Lukas: Friction/Resistance is also the identified enemy in [[The War of Art\|The War of Art]] and the creative process
 
 ## Capturing Insight from Books
 Every book is the following. Japanese/Chinese symbol for reading: information + persuasion.
@@ -124,7 +124,7 @@ Three essential answers to solve everything in life. Solve one and you fix every
 2. (Another Day)
 3. (Another Day)
 
-[[Becoming Indestructible - Mindvalley Quest|Becoming Indestructible - Mindvalley Quest]]
+[[Becoming Indestructible - Mindvalley Quest\|Becoming Indestructible - Mindvalley Quest]]
 
 Acrasia (?) Greek word: aligning against your best interest.
 
@@ -229,7 +229,7 @@ Creation: scheduled.
 
 Achieve financial freedom as a creatorpeneur.
 
-MW: [[4 Archive/Notes/Tales Alves|Tales Alves]] Build a digital marketing system that gives me financial freedom.
+MW: [[4 Archive/Notes/Tales Alves\|Tales Alves]] Build a digital marketing system that gives me financial freedom.
 
 *Make a crappy guess.*
 
@@ -243,7 +243,7 @@ Track progress bar. If you don't know, make a crappy guess.
 
 Problem with project management: I either did things now, or never. Solution: Tasks + Urgency per life category.
 
-**Add an urgency to every action.** New actions *first get an urgency*, and only *then* get executed. Then, to plan a day, just pick from these things. And since they're so linked you can see that immediately.
+**==Add an urgency to every action==.** New actions *first get an urgency*, and only *then* get executed. Then, to plan a day, just pick from these things. And since they're so linked you can see that immediately.
 
 Stop seeing your problems as something new, but as "one of those."
 

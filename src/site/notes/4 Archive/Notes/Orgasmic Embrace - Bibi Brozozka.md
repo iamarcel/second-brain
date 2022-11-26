@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/orgasmic-embrace-bibi-brozozka/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/orgasmic-embrace-bibi-brozozka/"}
 ---
 
 
-up:: [[4 Archive/Mindvalley University 2022|Mindvalley University 2022]]
-author:: [[4 Archive/Notes/Bibi Brozozka|Bibi Brozozka]]
+up:: [[4 Archive/Mindvalley University 2022\|Mindvalley University 2022]]
+author:: [[4 Archive/Notes/Bibi Brozozka\|Bibi Brozozka]]
 tags:: #source/lecture 
 
-published: [[4 Archive/Notes/Bibi Orgasmic instagram story|Bibi Orgasmic instagram story]]
+published: [[4 Archive/Notes/Bibi Orgasmic instagram story\|Bibi Orgasmic instagram story]]
 
 Orgasmic potential.
 

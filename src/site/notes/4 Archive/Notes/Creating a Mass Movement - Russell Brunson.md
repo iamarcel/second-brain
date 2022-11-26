@@ -1,16 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/creating-a-mass-movement-russell-brunson/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/creating-a-mass-movement-russell-brunson/"}
 ---
 
 tags:: #on/influencer #source
-author:: [[0 Inbox/Russell Brunson|Russell Brunson]]
+author:: [[0 Inbox/Russell Brunson\|Russell Brunson]]
 
 Main Ingredients:
 - Charismatic Leader or Attractive Character
 - Focus on a future-based goal that's bigger than yourself
 - Offer your audience an opportunity
 
-This is about creating your [[1000 True Fans|1000 True Fans]].
+This is about creating your [[1000 True Fans\|1000 True Fans]].
 
 # Charismatic Leader / Attractive Character
 The successful experts have an internal pull to want to serve and help people. It's like a **voice inside of them telling them they're destined for greatness**.
@@ -35,7 +35,7 @@ Questions to find True Believers:
 **People are silently begging to be led.**
 
 ## Become an attractive character, and live the life your audience wishes they could live.
-See [[Dotcom Secrets - Russell Brunson|Dotcom Secrets - Russell Brunson]].
+See [[Dotcom Secrets - Russell Brunson\|Dotcom Secrets - Russell Brunson]].
 
 People will follow you because you have completed the journey they are on right now. It can be scary to become vulnerable and show your backstories as well as your life now, but it's the key to becoming a leader that will inspire people to change.
 

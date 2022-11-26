@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/brunch-babes-and-bros-call-2022-07-30/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/brunch-babes-and-bros-call-2022-07-30/"}
 ---
 
 
-tags:: #on/personal-growth #on/routines #on/second-brain [[2 Areas/Mindpeak|Mindpeak]]
+tags:: #on/personal-growth #on/routines #on/second-brain [[2 Areas/Mindpeak\|Mindpeak]]
 
 ## Marcel’s audio setup
 Desktop setup:
@@ -20,7 +20,7 @@ The advantage of the “big” setup is mainly how standardized it is and that y
 The single microphone is very portable—easy to use with a laptop. It’s also a regular camera microphone so if you want that it’s got it built-in. I think it’s a DAC too but will obviously be not as good as the Focusrite just because it’s so small.
 
 ## Morning Routine
-### [[4 Archive/Notes/Laura Stefany Gutierrez Perez|Laura Stefany Gutierrez Perez]]
+### [[4 Archive/Notes/Laura Stefany Gutierrez Perez\|Laura Stefany Gutierrez Perez]]
 Dream Journaling / Idea Journaling
 Meditating
 Brushing teeth with left hand

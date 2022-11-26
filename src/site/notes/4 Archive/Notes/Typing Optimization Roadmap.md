@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/typing-optimization-roadmap/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/typing-optimization-roadmap/"}
 ---
 
 tags:: #output/essay #on/tools #on/productivity 

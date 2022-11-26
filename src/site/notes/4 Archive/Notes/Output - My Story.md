@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/output-my-story/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/output-my-story/"}
 ---
 
 
 tags:: #output/tweet 
-up:: [[1 Projects/Become a Modern Master|Become a Modern Master]]
+up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]
 
 
 # Key Points

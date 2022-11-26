@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/the-infinite-article-divinations/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/the-infinite-article-divinations/"}
 ---
 
 tags:: #source/article #on/artificial-intelligence #on/future
-author:: [[Nathan Baschez|Nathan Baschez]] [[4 Archive/Imported/Every.to|Every.to]]
+author:: [[Nathan Baschez\|Nathan Baschez]] [[4 Archive/Imported/Every.to\|Every.to]]
 
 Imagine waking up in the morning and having your coffee while reading the perfect article. It was written just for you the moment you picked it up. Unlike regular articles, this one knows everything.
 

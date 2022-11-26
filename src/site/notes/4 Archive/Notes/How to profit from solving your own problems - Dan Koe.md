@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/how-to-profit-from-solving-your-own-problems-dan-koe/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/how-to-profit-from-solving-your-own-problems-dan-koe/"}
 ---
 
 
-author:: [[4 Archive/Notes/Dan Koe|Dan Koe]]
+author:: [[4 Archive/Notes/Dan Koe\|Dan Koe]]
 tags:: #source/article #on/business #on/entrepeneurship #on/online-business #on/creator-economy #on/problems
-up:: [[1 Projects/Become a Modern Master|Become a Modern Master]]
+up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]
 [Source](https://thedankoe.com/how-to-profit-from-solving-your-own-problems/)
 
 The “job first, then happiness” advice may turn people away from well-intentioned pursuits toward a better life.

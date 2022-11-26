@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/monday-week-winning-workshop/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/monday-week-winning-workshop/"}
 ---
 
 
-tags:: #output/workshop #on/productivity #on/planning #on/routines [[4 Archive/Notes/Nexup|Nexup]]
+tags:: #output/workshop #on/productivity #on/planning #on/routines [[4 Archive/Notes/Nexup\|Nexup]]
 
 # Mindset Session Timeline
 ## Celebrate
@@ -25,8 +25,8 @@ Preparing for **stressful moments** will let us go through them with ease.
 	- Feel gratitude
 	- Connect with your highest self
 	- Imagine going through the week as that person
-	- How do they walk? Talk? Move? What do they do?
-	- Feel that this could be you. The week didn’t start yet, you can still choose.
+	- How do they walk? Talk? Move? What do they do? Facial expression?
+	- See a difficult moment coming up. Feel how hard it is. Distraction, hard conversation, being bored, whatever. See yourself pushing through.
 - Mindset
 	- Let’s start writing.
 	- Write down what kind of person you want to be next week.
@@ -80,3 +80,33 @@ So I’ll move this to a proper mailing list. If you want to keep hearing from m
 
 Much love,
 Marcel
+
+***
+# Invite for 2022-11-14
+
+Are you a salmon?
+
+[Join the workshop and set yourself up to win next week.](https://samyn.co/event/week-winning-workshop-2022-11-14/)
+
+It's so easy for us to just _barrel_ through the days. Another Monday, another bunch of meetings. Letting us get dragged along by the current of daily life.
+
+For most of us, this is comfortable. It works. Things are okay.  
+
+But sometimes it feels like there's some zest missing. Something inside of us calling out and saying "hey you can be more."  
+
+Salmon are the only fish that swim against the current. In order to hatch, they set their sights on the clean freshwater and use all their determination and willpower to get there. They are **deliberate** in choosing their path.
+
+If we leave the week to chaos, we live the week to chaos.
+
+You don't need to have superpowers. You don't need to suffer.
+
+But when you take a few minutes each week to decide how you want to live, it completely changes the game. This is at the core of my [productivity backbone](https://samyn.co/start-here/).
+
+So let's do this together.
+
+I'm holding a short workshop on Monday, like we did some time ago, to walk through what really matters. Those who joined last time _felt_ the difference. But it's the _consistent practice_ that matters.
+
+[Join us Monday at 8:30 CET.](https://samyn.co/event/week-winning-workshop-2022-11-14/)  
+
+Go crush it.  
+With love

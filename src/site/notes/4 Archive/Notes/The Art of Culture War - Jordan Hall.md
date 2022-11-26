@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/the-art-of-culture-war-jordan-hall/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/the-art-of-culture-war-jordan-hall/"}
 ---
 
 tags:: #source/article #on/philosophy #on/society
-author:: [[4 Archive/Notes/Jordan Hall|Jordan Hall]]
+author:: [[4 Archive/Notes/Jordan Hall\|Jordan Hall]]
 [Source](https://medium.com/deep-code/the-art-of-culture-war-2e4a1ccce351)
 
 A culture is self-reproducing because the people who act according to the characteristics of the culture tend to enculturate the people around them to the culture. ([View Highlight](<https://instapaper.com/read/1312610922/13124458>))

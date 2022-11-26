@@ -133,7 +133,6 @@ module.exports = function(eleventyConfig) {
             const title = linkTitle ? linkTitle : fileName;
             let deadLink = false;
 
-
             try {
                 const startPath = './src/site/notes/';
                 const fullPath = fileName.endsWith('.md') ? 
@@ -185,6 +184,9 @@ module.exports = function(eleventyConfig) {
 
     eleventyConfig.addPassthroughCopy("src/site/img");
     eleventyConfig.addPlugin(faviconPlugin, { destination: 'dist' });
+    eleventyConfig.addFilter('jsonify', function (variable) {
+      return JSON.stringify(variable);
+    });
 
     return {
         dir: {

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/the-way-of-the-superior-man/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/4-archive/notes/the-way-of-the-superior-man/"}
 ---
 
 tags::  #source/book #on/masculinity 
-author:: [[David Deida|David Deida]]
+author:: [[David Deida\|David Deida]]
 
 > May this book serve the liberation of your true gifts, so that countless multitudes of being may benefit even more from your living and loving.
 

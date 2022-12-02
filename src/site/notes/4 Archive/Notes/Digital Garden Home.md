@@ -52,6 +52,18 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Typing Optimization Roadmap\|Typing Optimization Roadmap]]
 - [[4 Archive/Notes/Making Beautiful Talking Head Videos\|Making Beautiful Talking Head Videos]]
 
+## Resources / Interests
+- [[3 Resources/Books\|Books]]
+- [[3 Resources/Diet\|Diet]]
+- [[3 Resources/Electric Unicycles\|Electric Unicycles]]
+- [[3 Resources/Exercise\|Exercise]]
+- [[3 Resources/Eyesight\|Eyesight]]
+- [[3 Resources/Masculinity\|Masculinity]]
+- [[3 Resources/Neuroforming\|Neuroforming]]
+- [[3 Resources/Productivity MOC\|Productivity MOC]]
+
+
+
 ## Summaries
 - [[4 Archive/Notes/A Framework For a Virtuous Life - Call with Tales\|A Framework For a Virtuous Life - Call with Tales]]
 - [[4 Archive/Notes/Awakening From the Meaning Crisis - John Vervaeke\|Awakening From the Meaning Crisis - John Vervaeke]]
@@ -75,10 +87,12 @@ Here are some links to content that is already published on this site. There's a
 | [[3 Resources/Diet\|Diet]]                                                                                                                                                                                                                       |
 | [[4 Archive/Notes/Digital Garden Home\|Digital Garden Home]]                                                                                                                                                                                     |
 | [[4 Archive/Notes/Draw concepts out to understand them\|Draw concepts out to understand them]]                                                                                                                                                   |
+| [[3 Resources/Electric Unicycles\|Electric Unicycles]]                                                                                                                                                                                           |
 | [[4 Archive/Notes/Evergreen Note\|Evergreen Note]]                                                                                                                                                                                               |
 | [[4 Archive/Notes/Evergreen note-writing helps insight accumulate\|Evergreen note-writing helps insight accumulate]]                                                                                                                             |
 | [[3 Resources/Exercise\|Exercise]]                                                                                                                                                                                                               |
 | [[4 Archive/Notes/Expert Secrets\|Expert Secrets]]                                                                                                                                                                                               |
+| [[3 Resources/Eyesight\|Eyesight]]                                                                                                                                                                                                               |
 | [[4 Archive/Notes/Find Your Why\|Find Your Why]]                                                                                                                                                                                                 |
 | [[4 Archive/Notes/Flow-First Work\|Flow-First Work]]                                                                                                                                                                                             |
 | [[4 Archive/Notes/Four Thousand Weeks\|Four Thousand Weeks]]                                                                                                                                                                                     |
@@ -89,18 +103,23 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/How to profit from solving your own problems - Dan Koe\|How to profit from solving your own problems - Dan Koe]]                                                                                                               |
 | [[4 Archive/Notes/Humans are fuzzy\|Humans are fuzzy]]                                                                                                                                                                                           |
 | [[4 Archive/Imported/Intermediate Packets\|Intermediate Packets]]                                                                                                                                                                                |
+| [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]                                                                                                                                                                                         |
+| [[0 Inbox/Just-In-Time Planning - Video Script\|Just-In-Time Planning - Video Script]]                                                                                                                                                           |
 | [[4 Archive/Notes/Leap of Insight\|Leap of Insight]]                                                                                                                                                                                             |
 | [[4 Archive/Notes/Make decisions faster to use your intuition more\|Make decisions faster to use your intuition more]]                                                                                                                           |
 | [[4 Archive/Notes/Making Beautiful Talking Head Videos\|Making Beautiful Talking Head Videos]]                                                                                                                                                   |
+| [[3 Resources/Masculinity\|Masculinity]]                                                                                                                                                                                                         |
 | [[4 Archive/Notes/Monday Week Winning Workshop\|Monday Week Winning Workshop]]                                                                                                                                                                   |
 | [[0 Inbox/My One-Person Business Philosophy - Full Article - Dan Koe\|My One-Person Business Philosophy - Full Article - Dan Koe]]                                                                                                               |
 | [[3 Resources/Neuroforming\|Neuroforming]]                                                                                                                                                                                                       |
 | [[4 Archive/Notes/Orgasmic Embrace - Bibi Brozozka\|Orgasmic Embrace - Bibi Brozozka]]                                                                                                                                                           |
 | [[4 Archive/Notes/Output - My Story\|Output - My Story]]                                                                                                                                                                                         |
 | [[0 Inbox/Personal Monopoly\|Personal Monopoly]]                                                                                                                                                                                                 |
+| [[3 Resources/Productivity MOC\|Productivity MOC]]                                                                                                                                                                                               |
 | [[1 Projects/Psycho-Cybernetics - Maxwell Maltz\|Psycho-Cybernetics - Maxwell Maltz]]                                                                                                                                                            |
 | [[0 Inbox/Pursue the ignored path\|Pursue the ignored path]]                                                                                                                                                                                     |
 | [[0 Inbox/Restructure information to understand it\|Restructure information to understand it]]                                                                                                                                                   |
+| [[0 Inbox/Show Your Work - Austin Kleon\|Show Your Work - Austin Kleon]]                                                                                                                                                                         |
 | [[4 Archive/Notes/Situational Assessment - Right Now - Jordan Hall\|Situational Assessment - Right Now - Jordan Hall]]                                                                                                                           |
 | [[0 Inbox/Skill Stack\|Skill Stack]]                                                                                                                                                                                                             |
 | [[4 Archive/Notes/Spiritual Quest - Srikumar Rao\|Spiritual Quest - Srikumar Rao]]                                                                                                                                                               |

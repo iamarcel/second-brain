@@ -86,3 +86,6 @@ Pitches are just stories with the end chopped off.
 It's not an interrogation. It's an opportunity to honestly connect about topics you're interested in.
 
 Bios are not the place to practice your creativity. A two-sentence explanation is usually what the world wants.
+
+# Teach What You Know
+

@@ -24,10 +24,14 @@ Modern humans, that work office jobs, suck at posture. We're hunched down on our
 	- Palms pointed up
 	- Arms back down, palms back in, while keeping the shoulders in the same external rotation
 
+A good cue for standing tall: there's a string on top / back of your head pulling you up. (Your head should not be looking "up", in fact it should be slightly looking down. We've unlearned this because we slouch at our desk and then have to look "up.")
+
 ## Sitting
 *External rotation of the hips* is key. This is why lotus position is so good: when the hips are positioned well, the lower back is in the right position (just like when you flex your butt when standing up).
 
 Manspreading is a good posture for damage control if you need to sit on a chair. See [Kelly on Mansplaining Manspreading](https://www.youtube.com/watch?v=NoYu58tp3wc).
+
+A good cue for sitting well is this: push your tailbone back into the chair. You'll feel you sit a bit higher up as well.
 
 ## Desk Posture
 Main principle: *keep moving*.

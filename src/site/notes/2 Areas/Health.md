@@ -31,3 +31,6 @@ Improve basic hygiene of these pillars (in this order):
 2. [[3 Resources/Diet\|Diet]]
 3. [[3 Resources/Exercise\|Exercise]]
 4. Meditation
+
+## More
+- [[4 Archive/Notes/Posture\|Posture]]

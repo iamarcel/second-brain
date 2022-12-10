@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/show-your-work-austin-kleon/"}
 ---
 
-tags:: #source/book #on/influencer #on/creativity 
+tags:: #source/book [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[on/creativity\|on/creativity]] 
 author:: [[Austin Kleon\|Austin Kleon]]
 
 # A New Way of Operating
@@ -74,7 +74,7 @@ Whether you realize it or not, you are already telling a story about your work.
 > "'The cat sat on the mat' is not a story. 'The cat sat on the dog's mat,' that's a story." – John Le Carré
 
 ## Structure is everything
-[[0 Inbox/Story Circle\|Story Circle]]
+[[4 Archive/Notes/Story Circle\|Story Circle]]
 
 The most important part of a story is its structure. A good story structure is tidy, sturdy, and logical. Unfortunately, most of life is messy, uncertain and illogical. Sometimes we have to do a lot of cropping and editing to make our lives fit into a Hollywood plot.
 

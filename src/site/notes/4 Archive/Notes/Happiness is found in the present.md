@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/happiness-is-found-in-the-present/"}
 ---
 
-tags:: #a/statement #on/happiness 
+tags:: #a/statement [[on/happiness\|on/happiness]] 
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -10,7 +10,7 @@ tags:: #a/statement #on/happiness
 
 
 
-tags:: #source/book #on/psychology #on/visualisation #on/hypnosis #on/happiness 
+tags:: #source/book [[3 Resources/Psychology\|Psychology]] [[on/visualisation\|on/visualisation]] [[on/hypnosis\|on/hypnosis]] [[on/happiness\|on/happiness]] 
 author:: [[Maxwell Maltz\|Maxwell Maltz]]
 
 # Relax and let your Success Mechanism work for you
@@ -43,7 +43,7 @@ The jittery feelings are not caused by the work, but by our mental attitude whic
 # Ingredients of the "Success-Type" Personality and How to Acquire Them
 
 ## Courage
-> "The best defense is a strong offense is a military principle, but its application is wider than war. All problems, personal, national, or combat, become smaller if you don't dodge them but confront them. **Touch a thistle timidly, and it pricks you; grasp it boldly and its spines crumble.**" – Admiral William F. Halsey #on/courage
+> "The best defense is a strong offense is a military principle, but its application is wider than war. All problems, personal, national, or combat, become smaller if you don't dodge them but confront them. **Touch a thistle timidly, and it pricks you; grasp it boldly and its spines crumble.**" – Admiral William F. Halsey [[on/courage\|on/courage]]
 
 Any time you act can be wrong. Your automatic guidance system cannot guide you when you're stalled, standing still.
 
@@ -126,7 +126,7 @@ From the moment of birth you were immersed in action. You cannot think before yo
 
 
 
-tags:: #source/book #on/entrepeneurship #on/productivity #on/happiness 
+tags:: #source/book [[on/entrepeneurship\|on/entrepeneurship]] [[3 Resources/Productivity\|Productivity]] [[on/happiness\|on/happiness]] 
 author:: [[Naval Ravikant\|Naval Ravikant]] [[Jack Butcher\|Jack Butcher]]
 
 **Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you're retired.** (Page 78)

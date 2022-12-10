@@ -3,7 +3,7 @@
 ---
 
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
-tags:: #source/book #on/productivity #on/energy #on/confidence
+tags:: #source/book [[3 Resources/Productivity\|Productivity]] [[on/energy\|on/energy]] [[4 Archive/Notes/Confidence\|4 Archive/Notes/Confidence]]
 
 ## Personal Habits
 
@@ -16,9 +16,9 @@ tags:: #source/book #on/productivity #on/energy #on/confidence
     -   Skills
     -   Service
 
-2.  Determine the Feeling You&rsquo;re After
+2.  Determine the Feeling You’re After
 
-3.  Define What&rsquo;s Meaningful
+3.  Define What’s Meaningful
 
 
 ### Generate Energy

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/success-is-effortless/"}
 ---
 
-tags:: #a/statement #on/productivity #on/creativity 
+tags:: #a/statement [[3 Resources/Productivity\|Productivity]] [[on/creativity\|on/creativity]] 
 
 A large part of success is about getting your mindset right much more than *trying* to do things very hard. Let yourself be pulled towards who you want to be, by working on the identity *first*, instead of having to push yourself.
 
@@ -46,7 +46,7 @@ Output from this concept:
 
 
 
-tags:: #source/book #on/motivation #wip
+tags:: #source/book [[4 Archive/Notes/Motivation\|Motivation]] [[wip\|wip]]
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
 
 # On Human Nature

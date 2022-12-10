@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/personal-monopoly/"}
 ---
 
-tags:: #on/writing #source/video #on/creator-economy #a/concept 
+tags:: [[on/writing\|on/writing]] #source/video [[on/creator-economy\|on/creator-economy]] #a/concept 
 author:: [[David Perell\|David Perell]]
 up:: [[2 Areas/Creatorpeneur\|Creatorpeneur]]
 

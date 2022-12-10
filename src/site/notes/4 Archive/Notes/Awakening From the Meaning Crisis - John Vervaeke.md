@@ -28,13 +28,13 @@ Wisdom is about realizing in both senses of the word: becoming aware and creatin
 
 How can we cultivate wisdom? What are some practical practices? We'll see that self-transcendence is a core need of people. Why do intelligent being create altered states of counsciousness?
 
-When people use the word "meaning" about their life, they're speaking as a metaphor. They mean there would be something analogous to the &ldquo;meaning of a sentence&rdquo; but in their life.
+When people use the word "meaning" about their life, they're speaking as a metaphor. They mean there would be something analogous to the “meaning of a sentence” but in their life.
 
 Culturally, we think of *knowing* as a special kind of belief (which is why we're so interested in ideologies). But there's much more kinds of knowing than some beliefs (e.g., knowing how to catch a baseball, knowing how being in a relationship is).
 
 I will propose a way out. An awakening of the meaning crisis.
 
-I can't be unbiased&#x2014;that's not a thing.
+I can't be unbiased—that's not a thing.
 
 
 ## How and why is this meaning such a part of our humanity?
@@ -47,7 +47,7 @@ The links between meaning making and cognition probably go *way back*, even befo
 
 Before the upper paleolithic we almost went extinct (probably climate), probably with something like 10K left. But we didn't come up with a technological solution (climate is too complex), we had a sociocultural solution: broad trading relationships.
 
-**Way before the internet, culture connected brains together** for our most powerful problem-solving abilities. **You hang around with a lot of strangers.** That's a *hard thing*! And it's not obvious, other animals don't do that. So we start to develop rituals to enhance our ability to enter relations of trust with people you don&rsquo;t know directly: we shake hands, it shows there&rsquo;s no weapon, you can feel clammy hands. We developed *mindsight*, the ability to pick up on others&rsquo; mental states (even strangers).
+**Way before the internet, culture connected brains together** for our most powerful problem-solving abilities. **You hang around with a lot of strangers.** That's a *hard thing*! And it's not obvious, other animals don't do that. So we start to develop rituals to enhance our ability to enter relations of trust with people you don’t know directly: we shake hands, it shows there’s no weapon, you can feel clammy hands. We developed *mindsight*, the ability to pick up on others’ mental states (even strangers).
 
 The next type of ritual is to prove trust to our core group: there's this temptation now from the strangers (this is now in all our myths). Our initiation rituals often involved risk, danger, fear and pain. Why let them go through that? Makes them show they're really invested in the group. And to survive you have to change mentally to be *centered on the group*.
 
@@ -104,7 +104,7 @@ There are new connections between parts of the brain being made. And now when we
 
 Our cognition is *filled with* metaphor, it's everywhere in our language. Flow state also makes you a generator of metaphors.
 
-Shamans is where "getting high" comes from. We see that in &ldquo;supervision&rdquo;, &ldquo;oversight.&rdquo;
+Shamans is where "getting high" comes from. We see that in “supervision”, “oversight.”
 
 
 ## The agricultural revolution
@@ -116,7 +116,7 @@ Important because it builds on these systems: people become a part of complex so
 
 Around 800-300BCE. We don't identify with writings from before that age, but we do read about what's after. What is that?
 
-The axial age is what's formative of modern civilization (worldwide). The bronze age collapses (we're not entirely sure why), but it's the greatest fall of civilization we&rsquo;ve ever had as humanity. More cultures disappear, more cities end, than we&rsquo;ve ever seen&#x2014;the closest we&rsquo;ve ever been to apocalypse. This is another time where there&rsquo;s demand placed on our cognition.
+The axial age is what's formative of modern civilization (worldwide). The bronze age collapses (we're not entirely sure why), but it's the greatest fall of civilization we’ve ever had as humanity. More cultures disappear, more cities end, than we’ve ever seen—the closest we’ve ever been to apocalypse. This is another time where there’s demand placed on our cognition.
 
 We invented a new psychotechnology: alphabetical literacy. (Earlier, reading and writing was incredibly hard. Now you can learn it much more effectively and quickly.) So we start to get a capacity for second-order thinking, because we can now write down our thoughts and reflect upon them externally.
 
@@ -189,7 +189,7 @@ What is "presence"? It's deeply related with *conforming to* something,
 # Insight
 
 When we're talking about **wisdom** we're not talking about a single
-insight&#x2014;we're talking about a systematic set of insights that are
+insight—we're talking about a systematic set of insights that are
 interrelated.
 
 
@@ -209,7 +209,7 @@ You can step into and observe deeply through many layers, or step back and look 
 
 A problem of the "spotlight model" of attention / focus: to read you need to see the individual letters. But to disambiguate those letters you need to read the entire word. Therefor reading is impossible?! So in reality our attention is simultaneously going to the idos as to the features. You're moving in and out and you're doing it *right now.*
 
-Nothing is absolutely a "feature"&#x2014;it all depends on the context: letters in words, words in sentences.
+Nothing is absolutely a "feature"—it all depends on the context: letters in words, words in sentences.
 
 What we often do is simulateneously move ("scaling up" of attention):
 
@@ -302,7 +302,7 @@ Fluency gets enhanced in insight, insight gets enhanced in flow.
 
 The epiphany 30-40% of people describe, what makes them feel like they "finally
 saw what reality is like" and permanently increased their sense of making sense
-of the world&#x2014;thereby increasing their happiness, is a sense of connectedness
+of the world—thereby increasing their happiness, is a sense of connectedness
 or anagoge; a feeling that everything is a whole.
 
 
@@ -326,7 +326,7 @@ Meditation trains you to break frame, mind wandering does this too.
 
 Mind wandering enhances your capacity for insight.
 
-This is why we have so much of these ideas like "sleep on it" or &ldquo;go for a walk&rdquo;
+This is why we have so much of these ideas like "sleep on it" or “go for a walk”
 or "take a shower." It's to help you reframe by distraction.
 
 
@@ -414,11 +414,11 @@ From cognitive science we know:
 -   Purpose
 
 Meaning is to have a neumological order that connects us to what is real. To
-have a normative order that connects us&#x2014;existentially&#x2014;to what is good, so
+have a normative order that connects us—existentially—to what is good, so
 that we can become better. To have a narrative order that tells us how we can
 move forward through history, both collective and individual.
 
-These are not three separate things&#x2014;they're three axes in the space of
+These are not three separate things—they're three axes in the space of
 meaning.
 
 
@@ -443,7 +443,7 @@ By making things *matter* instead of living, Galileo also takes away the existen
 
 He invents the scientific method. Only what's measurable is real. And what about what we can't measure? The sweetness of the honey? Meaning? Not mathematical so not real, so must be in this chamber of our head.
 
-So the world isn't connected anymore, there's no connection between what the world is like and what knowing is. There's just this outer world of chaos and this inner world of inner conflict. No wonder this is traumatic. And it is for all of us, though we won&rsquo;t think about it today.
+So the world isn't connected anymore, there's no connection between what the world is like and what knowing is. There's just this outer world of chaos and this inner world of inner conflict. No wonder this is traumatic. And it is for all of us, though we won’t think about it today.
 
 **We are so disconnected from reality. We believe in a scientific world view in which our meaning and purpose ourself and the objects we interact with is all ultimately not *real*. All the purposes, all the meaning, is not real. And fundamentally, I'm not real. You're not real.**
 

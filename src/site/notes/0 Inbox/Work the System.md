@@ -3,7 +3,7 @@
 ---
 
 
-tags:: #on/business #on/systems #source/book #on/productivity 
+tags:: [[on/business\|on/business]] [[on/systems\|on/systems]] #source/book [[3 Resources/Productivity\|Productivity]] 
 author:: [[Sam Carpenter\|Sam Carpenter]]
 
 Write a [[Standard Operating Procedure\|Standard Operating Procedure]] for everything you do.

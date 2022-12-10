@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/skill-stack/"}
 ---
 
-tags:: #a/concept [[3 Resources/Productivity\|Productivity]] [[on/working
+tags:: #a/concept [[3 Resources/Productivity\|Productivity]] [[on/working\|on/working]]
 author:: [[0 Inbox/Marcel Samyn\|Marcel Samyn]]
 
 In knowledge work, our "visible" skills are influenced by a bunch more fundamental skills, yet we rarely work on those.

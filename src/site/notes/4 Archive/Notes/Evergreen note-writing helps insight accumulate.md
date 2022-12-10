@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/evergreen-note-writing-helps-insight-accumulate/"}
 ---
 
-tags:: #on/second-brain #on/writing #on/thinking #source/article #a/statement 
+tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/writing\|on/writing]] [[on/thinking\|on/thinking]] #source/article #a/statement 
 author:: [[4 Archive/Notes/Andy Matuschak\|Andy Matuschak]]
 up:: [[2 Areas/Second Brain\|Second Brain]]
 [Source](https://notes.andymatuschak.org/z6cFzJWgj9vZpnrQsjrZ8yCNREzCTgyFeVZTb)

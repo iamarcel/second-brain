@@ -7,7 +7,7 @@
 # Authors:: [Scott Robert Lim](Scott%20Robert-Lim.md)
 
 
-# Tags:: [Photography](Photography.md)
+# Tags:: [[3 Resources/Photography\|Photography]]
 
 
 # Create soft light

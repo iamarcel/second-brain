@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/athletes-and-musicians-pursue-virtuosity-in-fundamental-skills-much-more-rigorously-than-knowledge-workers-do/"}
 ---
 
-tags:: #source/article #on/productivity #on/fundamentals #a/statement
+tags:: #source/article [[3 Resources/Productivity\|Productivity]] [[on/fundamentals\|on/fundamentals]] #a/statement
 author:: [[4 Archive/Notes/Andy Matuschak\|Andy Matuschak]]
 [Source](https://notes.andymatuschak.org/z4qhD8UwNAmJDdJUC36BUGp5PEUfgfzZXvkhB)
 

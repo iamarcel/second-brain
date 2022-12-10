@@ -3,7 +3,7 @@
 ---
 
 
-tags:: #output/workshop #on/productivity #on/planning #on/routines [[4 Archive/Notes/Nexup\|Nexup]]
+tags:: #output/workshop [[3 Resources/Productivity\|Productivity]] [[on/planning\|on/planning]] [[on/routines\|on/routines]] [[4 Archive/Notes/Nexup\|Nexup]]
 
 # Mindset Session Timeline
 ## Celebrate

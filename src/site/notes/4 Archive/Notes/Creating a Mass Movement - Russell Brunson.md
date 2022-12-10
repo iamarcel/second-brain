@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/creating-a-mass-movement-russell-brunson/"}
 ---
 
-tags:: #on/influencer #source
+tags:: [[2 Areas/Creatorpeneur\|Creatorpeneur]] #source
 author:: [[0 Inbox/Russell Brunson\|Russell Brunson]]
 
 Main Ingredients:

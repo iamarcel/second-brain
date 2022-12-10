@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/the-feminine-is-not-a-threat-when-she-calls-out/"}
 ---
 
-tags:: #on/masculinity #source/tweet #a/statement 
+tags:: [[3 Resources/Masculinity\|Masculinity]] #source/tweet #a/statement 
 author:: [[Lorin Krenn\|Lorin Krenn]]
 
 **The awakened feminine is always in service to your true nature.** Even when she triggers every cell in your being and you perceive her as a threat.

@@ -4,7 +4,7 @@
 
 
 
-# Tags:: [Photography](Photography.md) [Videography](Videography.md)
+# Tags:: [[3 Resources/Photography\|Photography]] [Videography](Videography.md)
 
 
 # ****Back Light****

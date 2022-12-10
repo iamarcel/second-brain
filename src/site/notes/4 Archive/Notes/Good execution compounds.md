@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/good-execution-compounds/"}
 ---
 
-tags:: #a/statement [[3 Resources/Productivity\|Productivity]] [[flashcards/statement
+tags:: #a/statement [[3 Resources/Productivity\|Productivity]] [[flashcards/statement\|flashcards/statement]]
 up:: [[4 Archive/Notes/Execution is Exponential - Divinations\|Execution is Exponential - Divinations]]
 
 Tasks typically follow each other, in a more or less funnel-kind of way. This means that improvements in earlier steps propagate to later steps, and small improvements across each step compound into much greater improvements for the whole system.

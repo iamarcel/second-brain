@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/the-motivation-manifesto/"}
 ---
 
-tags:: #source/book #on/motivation #wip
+tags:: #source/book [[4 Archive/Notes/Motivation\|Motivation]] [[wip\|wip]]
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
 
 # On Human Nature

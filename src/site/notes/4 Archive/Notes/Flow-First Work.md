@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/flow-first-work/"}
 ---
 
-tags:: #output/essay #wip #a/concept
+tags:: #output/essay [[wip\|wip]] #a/concept
 
 Basically a manifesto for the Gardener way of working.
 Be rooted when working.

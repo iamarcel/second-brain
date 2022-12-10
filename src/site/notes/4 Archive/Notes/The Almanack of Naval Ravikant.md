@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/the-almanack-of-naval-ravikant/"}
 ---
 
-tags:: #source/book #on/entrepeneurship #on/productivity #on/happiness 
+tags:: #source/book [[on/entrepeneurship\|on/entrepeneurship]] [[3 Resources/Productivity\|Productivity]] [[on/happiness\|on/happiness]] 
 author:: [[Naval Ravikant\|Naval Ravikant]] [[Jack Butcher\|Jack Butcher]]
 
 **Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you're retired.** (Page 78)

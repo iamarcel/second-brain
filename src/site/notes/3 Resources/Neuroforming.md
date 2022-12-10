@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/neuroforming/"}
 ---
 
-tags:: #a/concept #output/concept [[a/moc
+tags:: #a/concept #output/concept [[a/moc\|a/moc]]
 
 Terraforming for the mind. The deliberate practice of building and shaping your **knowledge landscape**.
 

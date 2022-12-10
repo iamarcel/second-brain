@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/the-art-of-culture-war-jordan-hall/"}
 ---
 
-tags:: #source/article #on/philosophy #on/society
+tags:: #source/article [[3 Resources/Philosophy\|Philosophy]] [[on/society\|on/society]]
 author:: [[4 Archive/Notes/Jordan Hall\|Jordan Hall]]
 [Source](https://medium.com/deep-code/the-art-of-culture-war-2e4a1ccce351)
 

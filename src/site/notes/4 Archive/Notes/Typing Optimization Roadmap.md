@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/typing-optimization-roadmap/"}
 ---
 
-tags:: #output/essay #on/tools #on/productivity 
+tags:: #output/essay [[on/tools\|on/tools]] [[3 Resources/Productivity\|Productivity]] 
 
 ![#x-small](https://nienormaal.s3.eu-central-1.wasabisys.com/public/keyboard-bell-curve.jpg)
 

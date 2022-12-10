@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/situational-assessment-right-now-jordan-hall/"}
 ---
 
-tags:: #source/article #on/philosophy #on/society #on/sense-making 
+tags:: #source/article [[3 Resources/Philosophy\|Philosophy]] [[on/society\|on/society]] [[on/sense-making\|on/sense-making]] 
 author:: [[4 Archive/Notes/Jordan Hall\|Jordan Hall]]
 [Source](https://medium.com/deep-code/situational-assessment-right-now-7d9856b562f5)
 

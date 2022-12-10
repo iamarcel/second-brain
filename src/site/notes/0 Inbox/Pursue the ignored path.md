@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/pursue-the-ignored-path/"}
 ---
 
-tags:: #a/statement #source/newsletter #on/purpose #on/working 
+tags:: #a/statement #source/newsletter [[3 Resources/Purpose\|Purpose]] [[on/working\|on/working]] 
 author:: [[David Perell\|David Perell]]
 
 So, I hear you’re looking for an invigorating job. You want to do work you’re passionate about and get paid well to do it. You yearn for success, but don’t know how to channel your creative energy.

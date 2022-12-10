@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/a-framework-for-a-virtuous-life-call-with-tales/"}
 ---
 
-tags:: #source/lecture #source/conversation #on/philosophy #on/purpose 
+tags:: #source/lecture #source/conversation [[3 Resources/Philosophy\|Philosophy]] [[3 Resources/Purpose\|Purpose]] 
 people:: 
 - [[4 Archive/Notes/Tales Alves\|Tales Alves]]
 - [[4 Archive/Notes/Tatyana Fomina\|Tatyana Fomina]]

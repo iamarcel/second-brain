@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/find-your-why/"}
 ---
 
-tags:: #source/book #on/meaning 
+tags:: #source/book [[on/meaning\|on/meaning]] 
 author:: [[Simon Sinek\|Simon Sinek]]
 
 # Why Discovery For Invididuals - Partner Guide

@@ -17,7 +17,7 @@ The main goal of exercise is to **maintain muscle**, especially as you get older
 	- Take the stairs when you have the option
 	- Walk with every opportunity you have
 		- You're not wasting time if your travel time takes longer but you exercise in the meantime
-- Use [[Free Workouts\|Free Workouts]]
+- Use [[4 Archive/Notes/Free Workouts\|Free Workouts]]
 	- Take the bike to grocery shopping. You're shopping anyways but now there's a workout included!
 	- Do manual labor in the garden. You're cleaning up plus moving!
 	- Help friends out when they're moving.

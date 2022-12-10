@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/3-resources/electric-unicycles/"}
 ---
 
-tags:: #on/mobility 
+tags:: [[on/mobility\|on/mobility]] 
 
 # [[Epiphany Bridge\|Epiphany Bridge]]
 > What was the emotional bridge that convinced me of how amazing this was?
@@ -72,5 +72,5 @@ Legality overview in countries: <https://docs.google.com/spreadsheets/d/1xgCTmNf
 # Energy Use
 On my V8S, I use 15-18Wh/km.
 
-For me, with an online bicycling calculator, I&rsquo;d use about 28 kcal / km which comes out as 32 Wh / km. Considering a [7x inefficency](https://sustainability.emory.edu/wp-content/uploads/2018/02/InfoSheet-Energy26FoodProduction.pdf) in food production, you&rsquo;d need about 10 times as much energy to feed yourself for cycling as opposed to riding the EUC.
+For me, with an online bicycling calculator, I’d use about 28 kcal / km which comes out as 32 Wh / km. Considering a [7x inefficency](https://sustainability.emory.edu/wp-content/uploads/2018/02/InfoSheet-Energy26FoodProduction.pdf) in food production, you’d need about 10 times as much energy to feed yourself for cycling as opposed to riding the EUC.
 

@@ -59,11 +59,13 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 | [[0 Inbox/Portfolio Thinking\|Portfolio Thinking]]                                                                                                                             |
 | [[0 Inbox/Red Pill Content\|Red Pill Content]]                                                                                                                                 |
 | [[0 Inbox/Show Your Work - Austin Kleon\|Show Your Work - Austin Kleon]]                                                                                                       |
+| [[0 Inbox/The Creation Pyramid\|The Creation Pyramid]]                                                                                                                         |
 | [[0 Inbox/The Rise of the Full-Stack Freelancer\|The Rise of the Full-Stack Freelancer]]                                                                                       |
 | [[0 Inbox/The world rewards the best communicators\|The world rewards the best communicators]]                                                                                 |
 | [[0 Inbox/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]                                                                             |
 | [[4 Archive/Notes/Tweets - Charles Miller\|Tweets - Charles Miller]]                                                                                                           |
 | [[0 Inbox/What do you pick to sell? Everything\|What do you pick to sell? Everything]]                                                                                         |
+| [[0 Inbox/What you're selling is the implementation\|What you're selling is the implementation]]                                                                               |
 | [[0 Inbox/Writing a good Tweet or Thread\|Writing a good Tweet or Thread]]                                                                                                     |
 | [[0 Inbox/You're just embarrassed to be seen starting small\|You're just embarrassed to be seen starting small]]                                                               |
 | [[0 Inbox/Your expertise comes from doing the teaching\|Your expertise comes from doing the teaching]]                                                                         |

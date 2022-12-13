@@ -63,6 +63,7 @@ Here are some links to content that is already published on this site. There's a
 - [[3 Resources/Electric Unicycles\|Electric Unicycles]]
 - [[3 Resources/Exercise\|Exercise]]
 - [[3 Resources/Eyesight\|Eyesight]]
+- [[3 Resources/Learning\|Learning]]
 - [[3 Resources/Marketing\|Marketing]]
 - [[3 Resources/Masculinity\|Masculinity]]
 - [[3 Resources/Neuroforming\|Neuroforming]]
@@ -145,6 +146,7 @@ Here are some links to content that is already published on this site. There's a
 | [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]                                                                                                                                                                                         |
 | [[0 Inbox/Just-In-Time Planning - Video Script\|Just-In-Time Planning - Video Script]]                                                                                                                                                           |
 | [[4 Archive/Notes/Leap of Insight\|Leap of Insight]]                                                                                                                                                                                             |
+| [[3 Resources/Learning\|Learning]]                                                                                                                                                                                                               |
 | [[4 Archive/Notes/Lets talk about women - Hamza\|Lets talk about women - Hamza]]                                                                                                                                                                 |
 | [[4 Archive/Imported/Lighting\|Lighting]]                                                                                                                                                                                                        |
 | [[4 Archive/Notes/Make decisions faster to use your intuition more\|Make decisions faster to use your intuition more]]                                                                                                                           |

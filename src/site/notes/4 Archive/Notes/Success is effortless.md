@@ -17,7 +17,7 @@ Output from this concept:
 - I'm always working. It looks like work to others, but it feels like play to me. And that's how I know no one can compete with me on it.
 - Desire is a contract you make with yourself to be unhappy until you get what you want.
 
-[[1 Projects/Psycho-Cybernetics - Maxwell Maltz\|Psycho-Cybernetics - Maxwell Maltz]]
+[[4 Archive/Notes/Psycho-Cybernetics - Maxwell Maltz\|Psycho-Cybernetics - Maxwell Maltz]]
 - Our trouble is that we ignore our intuition and subconscious creative systems by trying to solve all our problems by conscious thought.
 - Instead, use conscious thought only for deciding direction.
 - Success comes when you give up the struggle.

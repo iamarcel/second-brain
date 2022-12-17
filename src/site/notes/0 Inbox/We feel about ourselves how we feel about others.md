@@ -3,7 +3,7 @@
 ---
 
 tags:: #a/statement [[3 Resources/Psychology\|Psychology]] [[3 Resources/Relationships\|Relationships]] 
-source:: [[1 Projects/Psycho-Cybernetics - Maxwell Maltz\|Psycho-Cybernetics - Maxwell Maltz]]
+source:: [[4 Archive/Notes/Psycho-Cybernetics - Maxwell Maltz\|Psycho-Cybernetics - Maxwell Maltz]]
 
 **Our feelings about ourselves tend to correspond to our feelings about other people.** When someone begins to feel more compassion about others, he invariably begins to feel more compassion toward himself.
 

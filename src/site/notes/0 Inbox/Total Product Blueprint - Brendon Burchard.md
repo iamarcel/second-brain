@@ -25,7 +25,7 @@ You should be able to leveragt it all week long.
 Save and recycle posts.
 
 ### Funnel sequence
-[[0 Inbox/OVO\|OVO]]
+[[4 Archive/Notes/OVO\|OVO]]
 Start with 1 funnel and add more.
 
 ### Reporting

@@ -12,7 +12,7 @@ author:: [[4 Archive/Imported/Tiago Forte\|Tiago Forte]]
 
 “We carry within us the **wonders we seek** without us.” —Sir Thomas Browne
 
-“The ability to ‘fantasize’ is the ability to survive. It’s wonderful to speak about this subject because there have been so many wrong-headed people dealing with it…The so-called realists are trying to drive us insane, and I refuse to be driven insane… **We survive by fantasizing**. Take that away from us and the whole damned human race goes down the drain.” —Ray Bradbury
+“The ability to ‘fantasize’ is the ability to survive. It’s wonderful to speak about this subject because there have been so many wrong-headed people dealing with it…The so-called realists are trying to drive us insane, and I refuse to be driven insane… **We survive by fantasizing**. Take that away from us and the whole damned human race goes down the drain.”—Ray Bradbury
 
 “All around us the **fundamentals of life are crying out** to be shaped, or created.” —Joseph Beuys
 
@@ -22,9 +22,9 @@ author:: [[4 Archive/Imported/Tiago Forte\|Tiago Forte]]
 
 “This is how space begins, **with words only**, signs traced on the blank page.” —Georges Perec
 
-“ **Every map is a guide** to finding the desirable and navigating the dangerous.” —Rebecca Solnit
+“**Every map is a guide** to finding the desirable and navigating the dangerous.” —Rebecca Solnit
 
-“A map does not just chart, it **unlocks and formulates meaning**; it forms bridges between here and there, between disparate ideas that we did not know were previously connected.” —Reif Larsen
+“A map does not just chart, it **unlocks and formulates meaning**; it forms bridges between here and there, between disparate ideas that we did not know were previously connected.”—Reif Larsen
 
 “History will be kind to me for **I intend to write it**.” —Winston Churchill
 

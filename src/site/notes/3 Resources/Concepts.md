@@ -37,7 +37,7 @@ tags:: #a/moc
 | [[3 Resources/Neuroforming\|Neuroforming]]                                                             | #a/concept #output/concept [[a/moc\|a/moc]]                                |
 | [[0 Inbox/Niche of One\|Niche of One]]                                                                 | #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[3 Resources/Purpose\|Purpose]]                            |
 | [[0 Inbox/Overton Window\|Overton Window]]                                                             | #a/concept [[on/knowledge\|on/knowledge]] [[on/culture\|on/culture]] [[on/epistemology\|on/epistemology]]      |
-| [[0 Inbox/OVO\|OVO]]                                                                                   | #a/concept                                                          |
+| [[4 Archive/Notes/OVO\|OVO]]                                                                           | #a/concept                                                          |
 | [[0 Inbox/Pareto Efficiency\|Pareto Efficiency]]                                                       | #a/concept [[3 Resources/Productivity\|Productivity]] [[on/economy\|on/economy]]                          |
 | [[0 Inbox/Parkinson's Law\|Parkinson's Law]]                                                           | #a/concept                                                          |
 | [[4 Archive/Notes/Participatory Knowing\|Participatory Knowing]]                                       | #a/concept                                                          |
@@ -58,6 +58,7 @@ tags:: #a/moc
 | [[4 Archive/Notes/The Raft Model of Reality\|The Raft Model of Reality]]                               | #a/concept [[3 Resources/Philosophy\|Philosophy]]                                           |
 | [[0 Inbox/The Third Door\|The Third Door]]                                                             | #a/concept [[3 Resources/Purpose\|Purpose]] [[on/success\|on/success]]                               |
 | [[4 Archive/Notes/Thought Mining\|Thought Mining]]                                                     | #a/concept                                                          |
+| [[0 Inbox/Timeflow\|Timeflow]]                                                                         | \-                                                                  |
 
 
 # Meta

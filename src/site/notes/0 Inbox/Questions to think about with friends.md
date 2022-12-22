@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/questions-to-think-about-with-friends/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/questions-to-think-about-with-friends/
+
 ---
 
 up:: [[2 Areas/Connection\|Connection]]

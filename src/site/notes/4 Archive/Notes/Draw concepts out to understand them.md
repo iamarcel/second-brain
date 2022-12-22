@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/draw-concepts-out-to-understand-them/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/draw-concepts-out-to-understand-them/
+
 ---
 
 tags:: [[3 Resources/Learning\|Learning]] 

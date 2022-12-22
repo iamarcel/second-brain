@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/creating-a-mass-movement-russell-brunson/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/creating-a-mass-movement-russell-brunson/","dgPassFrontmatter":true}
 ---
 
 tags:: [[2 Areas/Creatorpeneur\|Creatorpeneur]] #source

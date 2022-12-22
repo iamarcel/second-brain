@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/the-art-of-culture-war-jordan-hall/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/the-art-of-culture-war-jordan-hall/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/article [[3 Resources/Philosophy\|Philosophy]] [[on/society\|on/society]]

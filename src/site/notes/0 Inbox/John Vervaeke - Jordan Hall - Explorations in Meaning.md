@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/john-vervaeke-jordan-hall-explorations-in-meaning/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/john-vervaeke-jordan-hall-explorations-in-meaning/
+
 ---
 
 tags:: #source/video [[3 Resources/Philosophy\|Philosophy]] [[on/meaning\|on/meaning]] [[3 Resources/Purpose\|Purpose]] [[on/religion\|on/religion]]

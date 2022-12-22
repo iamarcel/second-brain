@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/success-is-effortless/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/success-is-effortless/","dgPassFrontmatter":true}
 ---
 
 tags:: #a/statement [[3 Resources/Productivity\|Productivity]] [[on/creativity\|on/creativity]] 

@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/intermediate-packets/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/intermediate-packets/
+
 ---
 
 tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/note-taking\|on/note-taking]] [[on/writing\|on/writing]] 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/cinematography/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/cinematography/","dgPassFrontmatter":true}
 ---
 
 

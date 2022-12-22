@@ -1,5 +1,7 @@
 ---
-{"cover":"https://nienormaal.s3.eu-central-1.wasabisys.com/public/expert-secrets-cover.jpg","dg-publish":true,"permalink":"/4-archive/notes/expert-secrets/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/expert-secrets/
+
 ---
 
 

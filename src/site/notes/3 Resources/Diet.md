@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/diet/"}
+{"dg-publish":true,"permalink":"/3-resources/diet/","dgPassFrontmatter":true}
 ---
 
 up:: [[2 Areas/Health\|Health]]

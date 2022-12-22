@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/cooking/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/cooking/
+
 ---
 
 # Spices

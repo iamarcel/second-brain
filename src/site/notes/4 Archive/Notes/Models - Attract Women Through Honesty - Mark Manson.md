@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/models-attract-women-through-honesty-mark-manson/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/models-attract-women-through-honesty-mark-manson/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/health/"}
+{"dg-publish":true,"permalink":"/2-areas/health/","dgPassFrontmatter":true}
 ---
 
 # Why?

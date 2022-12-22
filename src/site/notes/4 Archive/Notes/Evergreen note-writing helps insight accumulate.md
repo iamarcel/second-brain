@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/evergreen-note-writing-helps-insight-accumulate/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/evergreen-note-writing-helps-insight-accumulate/","dgPassFrontmatter":true}
 ---
 
 tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/writing\|on/writing]] [[on/thinking\|on/thinking]] #source/article #a/statement 

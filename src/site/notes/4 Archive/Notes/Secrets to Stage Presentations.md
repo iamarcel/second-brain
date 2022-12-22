@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/secrets-to-stage-presentations/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/secrets-to-stage-presentations/
+
 ---
 
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]

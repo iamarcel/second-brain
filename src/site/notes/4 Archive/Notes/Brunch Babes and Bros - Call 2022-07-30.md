@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/brunch-babes-and-bros-call-2022-07-30/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/brunch-babes-and-bros-call-2022-07-30/","dgPassFrontmatter":true}
 ---
 
 

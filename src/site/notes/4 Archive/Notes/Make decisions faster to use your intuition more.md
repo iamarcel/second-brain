@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/make-decisions-faster-to-use-your-intuition-more/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/make-decisions-faster-to-use-your-intuition-more/
+
 ---
 
 tags:: [[on/intuition\|on/intuition]] #a/statement 

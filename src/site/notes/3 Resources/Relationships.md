@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/relationships/"}
+{"dg-publish":true,"permalink":"/3-resources/relationships/","dgPassFrontmatter":true}
 ---
 

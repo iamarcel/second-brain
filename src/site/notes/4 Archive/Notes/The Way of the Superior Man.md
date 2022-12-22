@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/the-way-of-the-superior-man/"}
+{"banner":"https://nienormaal.s3.eu-central-1.wasabisys.com/public/the-way-of-the-superior-man.jpg","cover":"https://nienormaal.s3.eu-central-1.wasabisys.com/public/the-way-of-the-superior-man.jpg","dg-publish":true,"permalink":"/4-archive/notes/the-way-of-the-superior-man/","dgPassFrontmatter":true}
 ---
 
 tags::  #source/book [[3 Resources/Masculinity\|Masculinity]] 

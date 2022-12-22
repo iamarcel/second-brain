@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/creatorpeneur/"}
+{"aliases":"Modern Master,Influencer,Full-Stack Freelancer,Thought Leader,Expert","dg-publish":true,"permalink":"/2-areas/creatorpeneur/","dgPassFrontmatter":true}
 ---
 
 

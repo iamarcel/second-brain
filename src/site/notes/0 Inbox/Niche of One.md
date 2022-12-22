@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/niche-of-one/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/niche-of-one/
+
 ---
 
 tags:: #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[3 Resources/Purpose\|Purpose]]

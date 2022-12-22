@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/niche-of-one/"}
+{"dg-publish":true,"permalink":"/0-inbox/niche-of-one/","dgPassFrontmatter":true}
 ---
 
 tags:: #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[3 Resources/Purpose\|Purpose]]

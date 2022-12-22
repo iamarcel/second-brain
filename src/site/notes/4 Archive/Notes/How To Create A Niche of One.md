@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/how-to-create-a-niche-of-one/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/how-to-create-a-niche-of-one/","dgPassFrontmatter":true}
 ---
 
 author:: [[Sana A Ahmed\|Sana A Ahmed]]

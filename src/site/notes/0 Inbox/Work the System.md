@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/work-the-system/"}
+{"cover":"https://nienormaal.s3.eu-central-1.wasabisys.com/public/work-the-system.jpg","dg-publish":true,"permalink":"/0-inbox/work-the-system/","dgPassFrontmatter":true}
 ---
 
 

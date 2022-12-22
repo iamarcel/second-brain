@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/angular/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/angular/","dgPassFrontmatter":true}
 ---
 
 Tags:: [[3 Resources/Programming\|Programming]]

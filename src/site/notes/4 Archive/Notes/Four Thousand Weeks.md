@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/four-thousand-weeks/"}
+{"aliases":"4000 Weeks","cover":"https://nienormaal.s3.eu-central-1.wasabisys.com/public/four-thousand-weeks.jpg","dg-publish":true,"permalink":"/4-archive/notes/four-thousand-weeks/","dgPassFrontmatter":true}
 ---
 
 tags:: [[on/time-management\|on/time-management]] #source/video #source/book 

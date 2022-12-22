@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/purpose/"}
+{"dg-publish":true,"permalink":"/3-resources/purpose/","dgPassFrontmatter":true}
 ---
 

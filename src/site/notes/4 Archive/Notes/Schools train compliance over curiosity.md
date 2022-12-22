@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/schools-train-compliance-over-curiosity/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/schools-train-compliance-over-curiosity/
+
 ---
 
 tags:: #source/newsletter [[3 Resources/Learning\|Learning]] #a/statement 

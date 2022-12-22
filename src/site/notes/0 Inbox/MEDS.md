@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/meds/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/meds/
+
 ---
 
 tags:: [[2 Areas/Health\|Health]] #a/concept 

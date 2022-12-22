@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/you-tube-video-production-moc/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/you-tube-video-production-moc/
+
 ---
 
 tags:: [[3 Resources/Marketing\|Marketing]] [[2 Areas/Creatorpeneur\|Creatorpeneur]] 

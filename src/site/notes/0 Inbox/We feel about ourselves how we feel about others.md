@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/we-feel-about-ourselves-how-we-feel-about-others/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/we-feel-about-ourselves-how-we-feel-about-others/
+
 ---
 
 tags:: #a/statement [[3 Resources/Psychology\|Psychology]] [[3 Resources/Relationships\|Relationships]] 

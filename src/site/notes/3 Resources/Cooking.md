@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/cooking/"}
+{"dg-publish":true,"permalink":"/3-resources/cooking/","dgPassFrontmatter":true}
 ---
 
 # Spices

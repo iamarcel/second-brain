@@ -73,8 +73,10 @@ Here are some links to content that is already published on this site. There's a
 - [[3 Resources/Public Speaking\|Public Speaking]]
 - [[3 Resources/Purpose\|Purpose]]
 - [[3 Resources/Relationships\|Relationships]]
+- [[3 Resources/Sex\|Sex]]
 - [[3 Resources/Sleep\|Sleep]]
 - [[3 Resources/Storytelling\|Storytelling]]
+- [[3 Resources/Streaming\|Streaming]]
 - [[3 Resources/Highlights/The Perspective Era\|The Perspective Era]]
 
 
@@ -105,6 +107,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Imported/Clojure\|Clojure]]                                                                                                                                                                                                          |
 | [[4 Archive/Imported/Color_Correction\|Color_Correction]]                                                                                                                                                                                        |
 | [[3 Resources/Concepts\|Concepts]]                                                                                                                                                                                                               |
+| [[0 Inbox/Condoms\|Condoms]]                                                                                                                                                                                                                     |
 | [[2 Areas/Connection\|Connection]]                                                                                                                                                                                                               |
 | [[3 Resources/Cooking\|Cooking]]                                                                                                                                                                                                                 |
 | [[0 Inbox/Copythinking\|Copythinking]]                                                                                                                                                                                                           |
@@ -147,6 +150,7 @@ Here are some links to content that is already published on this site. There's a
 | [[0 Inbox/Just-In-Time Planning - Video Script\|Just-In-Time Planning - Video Script]]                                                                                                                                                           |
 | [[4 Archive/Notes/Leap of Insight\|Leap of Insight]]                                                                                                                                                                                             |
 | [[3 Resources/Learning\|Learning]]                                                                                                                                                                                                               |
+| [[0 Inbox/LEDs\|LEDs]]                                                                                                                                                                                                                           |
 | [[4 Archive/Notes/Lets talk about women - Hamza\|Lets talk about women - Hamza]]                                                                                                                                                                 |
 | [[4 Archive/Imported/Lighting\|Lighting]]                                                                                                                                                                                                        |
 | [[4 Archive/Notes/Make decisions faster to use your intuition more\|Make decisions faster to use your intuition more]]                                                                                                                           |
@@ -188,6 +192,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Secrets to Stage Presentations\|Secrets to Stage Presentations]]                                                                                                                                                               |
 | [[4 Archive/Imported/Self-Hosting\|Self-Hosting]]                                                                                                                                                                                                |
 | [[4 Archive/Notes/Sell Like Crazy\|Sell Like Crazy]]                                                                                                                                                                                             |
+| [[3 Resources/Sex\|Sex]]                                                                                                                                                                                                                         |
 | [[0 Inbox/Show Your Work - Austin Kleon\|Show Your Work - Austin Kleon]]                                                                                                                                                                         |
 | [[4 Archive/Notes/Situational Assessment - Right Now - Jordan Hall\|Situational Assessment - Right Now - Jordan Hall]]                                                                                                                           |
 | [[0 Inbox/Skill Stack\|Skill Stack]]                                                                                                                                                                                                             |
@@ -196,6 +201,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Spiritual Quest - Srikumar Rao\|Spiritual Quest - Srikumar Rao]]                                                                                                                                                               |
 | [[4 Archive/Notes/Story Circle\|Story Circle]]                                                                                                                                                                                                   |
 | [[3 Resources/Storytelling\|Storytelling]]                                                                                                                                                                                                       |
+| [[3 Resources/Streaming\|Streaming]]                                                                                                                                                                                                             |
 | [[4 Archive/Notes/Success is effortless\|Success is effortless]]                                                                                                                                                                                 |
 | [[4 Archive/Notes/The Almanack of Naval Ravikant\|The Almanack of Naval Ravikant]]                                                                                                                                                               |
 | [[4 Archive/Notes/The Art of Culture War - Jordan Hall\|The Art of Culture War - Jordan Hall]]                                                                                                                                                   |

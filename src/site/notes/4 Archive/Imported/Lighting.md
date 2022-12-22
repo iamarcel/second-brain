@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/lighting/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/lighting/
+
 ---
 
 

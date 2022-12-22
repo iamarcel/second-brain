@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/exercise/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/exercise/
+
 ---
 
 up:: [[2 Areas/Health\|Health]]

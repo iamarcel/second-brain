@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/the-decision/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/the-decision/
+
 ---
 
 tags:: #a/concept [[4 Archive/Notes/Motivation\|Motivation]] [[3 Resources/Purpose\|Purpose]]

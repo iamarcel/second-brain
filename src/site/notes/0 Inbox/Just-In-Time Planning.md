@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/just-in-time-planning/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/just-in-time-planning/
+
 ---
 
 tags:: #a/concept 

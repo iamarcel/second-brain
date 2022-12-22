@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/things-to-do-with-friends/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/things-to-do-with-friends/","dgPassFrontmatter":true}
 ---
 
 up:: [[2 Areas/Connection\|Connection]]

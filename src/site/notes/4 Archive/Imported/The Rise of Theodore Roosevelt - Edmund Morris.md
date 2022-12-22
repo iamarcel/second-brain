@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/the-rise-of-theodore-roosevelt-edmund-morris/"}
+{"cover":"https://images-na.ssl-images-amazon.com/images/I/51-tD6sUbPL._SL200_.jpg","dg-publish":true,"permalink":"/4-archive/imported/the-rise-of-theodore-roosevelt-edmund-morris/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/a-framework-for-a-virtuous-life-call-with-tales/"}
+{"dg-publish":true,"banner":"https://media.istockphoto.com/photos/colored-100-dollar-banknote-fragment-picture-id1368455871?b=1&k=20&m=1368455871&s=170667a&w=0&h=0_IL_TiZLdoU2yCtUvKxeWr2-Nx8sMNOLSgPfg2DquQ=","permalink":"/4-archive/notes/a-framework-for-a-virtuous-life-call-with-tales/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/lecture #source/conversation [[3 Resources/Philosophy\|Philosophy]] [[3 Resources/Purpose\|Purpose]] 

@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/the-neuroscience-of-friendship-daniel-amen/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/the-neuroscience-of-friendship-daniel-amen/
+
 ---
 
 tags:: [[2 Areas/Connection\|Connection]]

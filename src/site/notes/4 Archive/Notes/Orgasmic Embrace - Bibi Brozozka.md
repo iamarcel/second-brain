@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/orgasmic-embrace-bibi-brozozka/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/orgasmic-embrace-bibi-brozozka/
+
 ---
 
 

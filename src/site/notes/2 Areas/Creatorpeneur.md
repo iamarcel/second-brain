@@ -55,6 +55,7 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 | [[0 Inbox/Niche of One\|Niche of One]]                                                                                                                                         |
 | [[0 Inbox/One-Person Business 1M Revenue in 810 Days - Justin Welsh - Twitter Thread\|One-Person Business 1M Revenue in 810 Days - Justin Welsh - Twitter Thread]]             |
 | [[0 Inbox/Online Courses MOC\|Online Courses MOC]]                                                                                                                             |
+| [[2 Areas/Output Video MOC\|Output Video MOC]]                                                                                                                                 |
 | [[0 Inbox/Oversimplify when telling stories - Expert Secrets\|Oversimplify when telling stories - Expert Secrets]]                                                             |
 | [[0 Inbox/Personal Monopoly\|Personal Monopoly]]                                                                                                                               |
 | [[0 Inbox/Portfolio Thinking\|Portfolio Thinking]]                                                                                                                             |
@@ -63,6 +64,7 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 | [[0 Inbox/The Creation Pyramid\|The Creation Pyramid]]                                                                                                                         |
 | [[0 Inbox/The Rise of the Full-Stack Freelancer\|The Rise of the Full-Stack Freelancer]]                                                                                       |
 | [[0 Inbox/The world rewards the best communicators\|The world rewards the best communicators]]                                                                                 |
+| [[0 Inbox/The YouTube Mindset - How to Grow 100 000 Subscribers in One Year\|The YouTube Mindset - How to Grow 100 000 Subscribers in One Year]]                               |
 | [[0 Inbox/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]                                                                             |
 | [[4 Archive/Notes/Tweets - Charles Miller\|Tweets - Charles Miller]]                                                                                                           |
 | [[0 Inbox/What do you pick to sell? Everything\|What do you pick to sell? Everything]]                                                                                         |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/easy-sales-format/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/easy-sales-format/","dgPassFrontmatter":true}
 ---
 
 tags:: [[3 Resources/Marketing\|Marketing]] 

@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/a-more-complete-beast-jack-donovan-book/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/a-more-complete-beast-jack-donovan-book/
+
 ---
 
 tags:: #source/book 

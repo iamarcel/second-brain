@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/free-workouts/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/free-workouts/","dgPassFrontmatter":true}
 ---
 
 tags:: #output/concept #a/concept 

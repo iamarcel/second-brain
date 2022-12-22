@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/learning/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/learning/
+
 ---
 
 **Train yourself for mastery.**

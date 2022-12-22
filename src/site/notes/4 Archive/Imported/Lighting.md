@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/lighting/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/lighting/","dgPassFrontmatter":true}
 ---
 
 

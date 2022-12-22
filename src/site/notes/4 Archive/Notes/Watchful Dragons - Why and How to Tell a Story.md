@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/watchful-dragons-why-and-how-to-tell-a-story/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/watchful-dragons-why-and-how-to-tell-a-story/
+
 ---
 
 up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]

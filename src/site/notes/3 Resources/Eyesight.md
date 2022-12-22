@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/eyesight/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/eyesight/
+
 ---
 
 # How to fix eyesight

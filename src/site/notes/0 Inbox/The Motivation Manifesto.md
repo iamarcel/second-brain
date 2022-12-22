@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/the-motivation-manifesto/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/the-motivation-manifesto/
+
 ---
 
 tags:: #source/book [[4 Archive/Notes/Motivation\|Motivation]] [[wip\|wip]]

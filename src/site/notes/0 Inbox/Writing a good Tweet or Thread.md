@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/writing-a-good-tweet-or-thread/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/writing-a-good-tweet-or-thread/
+
 ---
 
 tags:: [[on/writing\|on/writing]] [[3 Resources/Marketing\|Marketing]] [[2 Areas/Creatorpeneur\|Creatorpeneur]] 

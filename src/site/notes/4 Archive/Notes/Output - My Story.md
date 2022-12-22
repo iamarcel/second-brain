@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/output-my-story/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/output-my-story/
+
 ---
 
 

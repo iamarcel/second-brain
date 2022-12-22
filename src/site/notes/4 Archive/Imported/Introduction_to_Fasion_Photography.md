@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/introduction-to-fasion-photography/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/introduction-to-fasion-photography/
+
 ---
 
 

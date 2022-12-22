@@ -1,5 +1,7 @@
 ---
-{"status":"published","dg-publish":true,"permalink":"/0-inbox/just-in-time-planning-video-script/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/just-in-time-planning-video-script/
+
 ---
 
 Script about [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]].

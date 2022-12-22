@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/books/"}
+{"cssClasses":"cards, cards-cover, cards-2-3, table-max","dg-publish":true,"permalink":"/3-resources/books/","dgPassFrontmatter":true}
 ---
 
 

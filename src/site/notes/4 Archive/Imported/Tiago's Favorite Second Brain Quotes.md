@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/tiago-s-favorite-second-brain-quotes/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/tiago-s-favorite-second-brain-quotes/
+
 ---
 
 tags:: #source/article [[2 Areas/Second Brain\|Second Brain]] #source/quote 

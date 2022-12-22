@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/posture/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/posture/","dgPassFrontmatter":true}
 ---
 
 up:: [[2 Areas/Health\|Health]]

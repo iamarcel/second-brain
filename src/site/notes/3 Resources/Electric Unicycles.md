@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/electric-unicycles/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/electric-unicycles/
+
 ---
 
 tags:: [[on/mobility\|on/mobility]] 

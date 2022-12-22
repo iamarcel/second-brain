@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/skill-stack/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/skill-stack/
+
 ---
 
 tags:: #a/concept [[3 Resources/Productivity\|Productivity]] [[on/working\|on/working]]

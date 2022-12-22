@@ -72,7 +72,7 @@ Even if you find yourself in some trivial moment, watching TV or cleaning up a m
 ### Never change your mind just to please a woman
 A man should consider her, but should never betray his own deepest knowledge and intuition in order to please his woman or “go along” with her.
 
-If you don’t trust your own wisdom, why should she trust it?
+**If you don’t trust your own wisdom, why should she trust it?**
 
 If you give up your real decision to follow your woman’s, then you will blame her for being wrong if she is wrong, and you will feel disempowered if she is right, having denied yourself the opportunity to act from your core and grow from your mistakes.
 

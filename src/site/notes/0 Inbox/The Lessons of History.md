@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/the-lessons-of-history/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/the-lessons-of-history/
+
 ---
 
 

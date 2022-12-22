@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/health/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /2-areas/health/
+
 ---
 
 # Why?

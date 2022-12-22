@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/the-third-door/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/the-third-door/
+
 ---
 
 tags:: #a/concept [[3 Resources/Purpose\|Purpose]] [[on/success\|on/success]]

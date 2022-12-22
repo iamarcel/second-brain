@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/masculinity/"}
+{"dg-publish":true,"permalink":"/3-resources/masculinity/","dgPassFrontmatter":true}
 ---
 
 tags:: [[3 Resources/Masculinity\|Masculinity]] 

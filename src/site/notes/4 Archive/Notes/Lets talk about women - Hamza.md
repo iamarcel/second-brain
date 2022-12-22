@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/lets-talk-about-women-hamza/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/lets-talk-about-women-hamza/
+
 ---
 
 author:: [[4 Archive/Notes/Hamza\|Hamza]]

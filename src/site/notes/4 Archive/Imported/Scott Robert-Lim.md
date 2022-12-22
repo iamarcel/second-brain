@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/scott-robert-lim/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/scott-robert-lim/","dgPassFrontmatter":true}
 ---
 
 

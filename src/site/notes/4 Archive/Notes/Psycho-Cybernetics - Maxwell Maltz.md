@@ -6,7 +6,7 @@ tags:: #source/book [[3 Resources/Psychology\|Psychology]] [[on/visualisation\|o
 author:: [[Maxwell Maltz\|Maxwell Maltz]]
 
 # Relax and let your Success Mechanism work for you
-Our trouble is that we ignore the automatic Creative Mechanism and try to solve all our problems by conscious thought, or forebrain thinking.
+Our trouble is that we ignore the automatic Creative Mechanism and **try to solve all our problems by conscious thought**, or forebrain thinking.
 
 If we wish our trains of ideation and volition to be copious and varied and effective, we must form the habit of freeing them from the inhibitive influence of reflection upon them.
 

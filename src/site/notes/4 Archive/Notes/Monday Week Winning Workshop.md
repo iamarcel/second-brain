@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/monday-week-winning-workshop/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/monday-week-winning-workshop/
+
 ---
 
 

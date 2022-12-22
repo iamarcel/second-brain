@@ -1,5 +1,7 @@
 ---
-{"aliases":"Monomyth","dg-publish":true,"permalink":"/4-archive/notes/the-hero-s-journey/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/the-hero-s-journey/
+
 ---
 
 tags:: [[on/persuasion\|on/persuasion]] #a/concept [[3 Resources/Storytelling\|Storytelling]] 

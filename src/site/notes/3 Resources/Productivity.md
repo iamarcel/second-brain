@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/productivity/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/productivity/
+
 ---
 
 tags:: #a/moc

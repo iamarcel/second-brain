@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/good-execution-compounds/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/good-execution-compounds/","dgPassFrontmatter":true}
 ---
 
 tags:: #a/statement [[3 Resources/Productivity\|Productivity]] [[flashcards/statement\|flashcards/statement]]

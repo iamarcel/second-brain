@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/happiness-is-found-in-the-present/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/happiness-is-found-in-the-present/
+
 ---
 
 tags:: #a/statement [[on/happiness\|on/happiness]] 

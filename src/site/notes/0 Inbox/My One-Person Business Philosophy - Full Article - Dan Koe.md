@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/my-one-person-business-philosophy-full-article-dan-koe/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/my-one-person-business-philosophy-full-article-dan-koe/
+
 ---
 
 

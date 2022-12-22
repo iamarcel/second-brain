@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/reduce-the-pain-of-purchase-in-ct-as/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/reduce-the-pain-of-purchase-in-ct-as/
+
 ---
 
 tags:: [[3 Resources/Marketing\|Marketing]] #source/tweet 

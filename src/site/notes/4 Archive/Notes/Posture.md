@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/posture/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/posture/
+
 ---
 
 up:: [[2 Areas/Health\|Health]]

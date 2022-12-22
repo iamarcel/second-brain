@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/what-women-mean-when-they-say-a-man-is-handsome/"}
+{"dg-publish":true,"permalink":"/0-inbox/what-women-mean-when-they-say-a-man-is-handsome/","dgPassFrontmatter":true}
 ---
 
 tags:: [[3 Resources/Masculinity\|Masculinity]] [[3 Resources/Purpose\|Purpose]] [[on/body-language\|on/body-language]] 

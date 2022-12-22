@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/pursue-the-ignored-path/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/pursue-the-ignored-path/
+
 ---
 
 tags:: #a/statement #source/newsletter [[3 Resources/Purpose\|Purpose]] [[on/working\|on/working]] 

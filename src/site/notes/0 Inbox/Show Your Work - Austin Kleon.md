@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/show-your-work-austin-kleon/"}
+{"cover":"https://images-eu.ssl-images-amazon.com/images/I/51N%2BBa1mYOL._SX218_BO1,204,203,200_QL40_.jpg","dg-publish":true,"permalink":"/0-inbox/show-your-work-austin-kleon/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/book [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[on/creativity\|on/creativity]] 

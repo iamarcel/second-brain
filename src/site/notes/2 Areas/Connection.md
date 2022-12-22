@@ -1,5 +1,7 @@
 ---
-{"aliases":"Relationships","dg-publish":true,"permalink":"/2-areas/connection/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /2-areas/connection/
+
 ---
 
 

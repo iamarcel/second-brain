@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/the-feminine-is-not-a-threat-when-she-calls-out/"}
+{"dg-publish":true,"permalink":"/0-inbox/the-feminine-is-not-a-threat-when-she-calls-out/","dgPassFrontmatter":true}
 ---
 
 tags:: [[3 Resources/Masculinity\|Masculinity]] #source/tweet #a/statement 

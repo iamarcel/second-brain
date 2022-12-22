@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/psycho-cybernetics-maxwell-maltz/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/psycho-cybernetics-maxwell-maltz/
+
 ---
 
 tags:: #source/book [[3 Resources/Psychology\|Psychology]] [[on/visualisation\|on/visualisation]] [[on/hypnosis\|on/hypnosis]] [[on/happiness\|on/happiness]] 

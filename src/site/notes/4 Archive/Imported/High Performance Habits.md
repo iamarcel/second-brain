@@ -1,5 +1,7 @@
 ---
-{"cover":"https://s3.eu-central-1.wasabisys.com/nienormaal/public/HighPerformanceHabits.jpg","dg-publish":true,"permalink":"/4-archive/imported/high-performance-habits/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/high-performance-habits/
+
 ---
 
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]

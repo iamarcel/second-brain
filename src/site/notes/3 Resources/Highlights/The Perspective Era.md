@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/highlights/the-perspective-era/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/highlights/the-perspective-era/
+
 ---
 
 tags:: #a/concept [[2 Areas/Second Brain\|Second Brain]]

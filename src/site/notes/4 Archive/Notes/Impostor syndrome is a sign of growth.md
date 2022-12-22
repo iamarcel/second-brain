@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/impostor-syndrome-is-a-sign-of-growth/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/impostor-syndrome-is-a-sign-of-growth/","dgPassFrontmatter":true}
 ---
 
 tags:: #a/statement [[3 Resources/Purpose\|Purpose]] [[on/success\|on/success]] 

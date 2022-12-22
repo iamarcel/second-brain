@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/humans-are-fuzzy/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/humans-are-fuzzy/","dgPassFrontmatter":true}
 ---
 
 tags:: #a/statement [[3 Resources/Psychology\|Psychology]] 

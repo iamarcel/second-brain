@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/leap-of-insight/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/leap-of-insight/","dgPassFrontmatter":true}
 ---
 
 tags:: [[2 Areas/Second Brain\|Second Brain]] #a/concept

@@ -10,6 +10,8 @@ My videos: [[2 Areas/Output Video MOC\|Output Video MOC]]
 [[4 Archive/Imported/Video_Editing\|Video_Editing]]
 [[4 Archive/Imported/Video_Recording\|Video_Recording]]
 
+[[0 Inbox/Practice writing to create better YouTube videos\|Practice writing to create better YouTube videos]]
+
 # Create Intrigue.
 This is the main principle for everything.
 

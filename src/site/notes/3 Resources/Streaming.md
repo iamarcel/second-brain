@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/streaming/"}
+{"dg-publish":true,"permalink":"/3-resources/streaming/","dgPassFrontmatter":true}
 ---
 
 tags:: [[3 Resources/Videography\|Videography]]

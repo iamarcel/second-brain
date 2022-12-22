@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/10-rules-to-get-to-100k-subscribers-in-a-year-captain-sinbad/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/10-rules-to-get-to-100k-subscribers-in-a-year-captain-sinbad/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/video [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[on/youtube\|on/youtube]]

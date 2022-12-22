@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/flow-first-work/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/flow-first-work/","dgPassFrontmatter":true}
 ---
 
 tags:: #output/essay [[wip\|wip]] #a/concept

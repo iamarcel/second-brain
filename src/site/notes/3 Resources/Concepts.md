@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/concepts/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /3-resources/concepts/
+
 ---
 
 tags:: #a/moc 

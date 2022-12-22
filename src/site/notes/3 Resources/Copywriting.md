@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/copywriting/"}
+{"dg-publish":true,"permalink":"/3-resources/copywriting/","dgPassFrontmatter":true}
 ---
 
 # Resources

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/awakening-from-the-meaning-crisis-john-vervaeke/"}
+{"dg-publish":true,"permalink":"/4-archive/notes/awakening-from-the-meaning-crisis-john-vervaeke/","dgPassFrontmatter":true}
 ---
 
 author:: [John Vervaeke](John%20Vervaeke.md)

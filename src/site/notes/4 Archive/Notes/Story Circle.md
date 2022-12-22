@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/story-circle/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/story-circle/
+
 ---
 
 up:: [[0 Inbox/Show Your Work - Austin Kleon\|Show Your Work - Austin Kleon]]

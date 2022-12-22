@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/photography-lighting/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/photography-lighting/","dgPassFrontmatter":true}
 ---
 
 

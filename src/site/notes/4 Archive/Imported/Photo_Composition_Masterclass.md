@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/photo-composition-masterclass/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/photo-composition-masterclass/","dgPassFrontmatter":true}
 ---
 
 

@@ -1,5 +1,7 @@
 ---
-{"aliases":"Evergreen Notes","dg-publish":true,"permalink":"/4-archive/notes/evergreen-note/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/notes/evergreen-note/
+
 ---
 
 tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/note-taking\|on/note-taking]] [[on/thinking\|on/thinking]] #a/concept 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/becoming-a-successful-photographer/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/becoming-a-successful-photographer/","dgPassFrontmatter":true}
 ---
 
 

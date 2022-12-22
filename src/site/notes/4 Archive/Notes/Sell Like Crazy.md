@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/notes/sell-like-crazy/"}
+{"cover":"https://nienormaal.s3.eu-central-1.wasabisys.com/public/sell-like-crazy.jpg","dg-publish":true,"permalink":"/4-archive/notes/sell-like-crazy/","dgPassFrontmatter":true}
 ---
 
 tags:: #source/book [[3 Resources/Marketing\|Marketing]] 

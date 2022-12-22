@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/self-hosting/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/self-hosting/
+
 ---
 
 

@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/speaker-nation-be-heard-masterclass/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/speaker-nation-be-heard-masterclass/
+
 ---
 
 tags:: [[3 Resources/Public Speaking\|Public Speaking]] #source/video-course 

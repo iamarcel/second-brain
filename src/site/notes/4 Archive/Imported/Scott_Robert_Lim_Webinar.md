@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/scott-robert-lim-webinar/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /4-archive/imported/scott-robert-lim-webinar/
+
 ---
 
 

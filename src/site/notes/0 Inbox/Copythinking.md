@@ -1,5 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/copythinking/","dgPassFrontmatter":true}
+dg-publish: true
+permalink: /0-inbox/copythinking/
+
 ---
 
 up:: [[3 Resources/Copywriting\|Copywriting]]

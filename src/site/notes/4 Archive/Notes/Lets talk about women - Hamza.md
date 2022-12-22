@@ -7,7 +7,7 @@ tags:: #source/video [[3 Resources/Masculinity\|Masculinity]]
 [Source](https://www.youtube.com/watch?v=FHZCnYgNB50)
 
 Rules for great relationships:
-- Only have sex with women you like [[on/sex\|on/sex]]
+- Only have sex with women you like [[3 Resources/Sex\|Sex]]
 - Take actual relationships *seriously* [[3 Resources/Relationships\|Relationships]] 
 - Polarize towards more masculine and more feminine, learn to understand sexual energies [[3 Resources/Masculinity\|Masculinity]] [[on/femininity\|on/femininity]]
 

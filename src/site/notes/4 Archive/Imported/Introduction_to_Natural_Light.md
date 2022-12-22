@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/introduction-to-natural-light/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/introduction-to-natural-light/","dgPassFrontmatter":true}
 ---
 
 

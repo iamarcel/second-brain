@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-archive/imported/clojure/"}
+{"dg-publish":true,"permalink":"/4-archive/imported/clojure/","dgPassFrontmatter":true}
 ---
 
 

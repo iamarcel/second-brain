@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-resources/eyesight/"}
+{"dg-publish":true,"permalink":"/3-resources/eyesight/","dgPassFrontmatter":true}
 ---
 
 # How to fix eyesight

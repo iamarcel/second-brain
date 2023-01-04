@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/show-your-work-austin-kleon/
-
+{"dg-publish":true,"permalink":"/0-inbox/show-your-work-austin-kleon/"}
 ---
 
 tags:: #source/book [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[on/creativity\|on/creativity]] 

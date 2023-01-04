@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/orgasmic-embrace-bibi-brozozka/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/orgasmic-embrace-bibi-brozozka/"}
 ---
 
 

@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/how-to-profit-from-solving-your-own-problems-dan-koe/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/how-to-profit-from-solving-your-own-problems-dan-koe/"}
 ---
 
 

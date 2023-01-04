@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/situational-assessment-right-now-jordan-hall/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/situational-assessment-right-now-jordan-hall/"}
 ---
 
 tags:: #source/article [[3 Resources/Philosophy\|Philosophy]] [[on/society\|on/society]] [[on/sense-making\|on/sense-making]] 

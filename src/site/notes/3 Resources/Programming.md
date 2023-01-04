@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/programming/
-
+{"dg-publish":true,"permalink":"/3-resources/programming/"}
 ---
 
 

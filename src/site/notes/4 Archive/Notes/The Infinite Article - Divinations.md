@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/the-infinite-article-divinations/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/the-infinite-article-divinations/"}
 ---
 
 tags:: #source/article [[on/artificial-intelligence\|on/artificial-intelligence]] [[on/future\|on/future]]

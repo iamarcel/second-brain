@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/imported/weekly-assessment/
-
+{"dg-publish":true,"permalink":"/4-archive/imported/weekly-assessment/"}
 ---
 
 tags:: [[3 Resources/Productivity\|Productivity]] [[on/routines\|on/routines]]

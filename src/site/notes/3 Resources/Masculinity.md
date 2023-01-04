@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/masculinity/
-
+{"dg-publish":true,"permalink":"/3-resources/masculinity/"}
 ---
 
 tags:: [[3 Resources/Masculinity\|Masculinity]] 

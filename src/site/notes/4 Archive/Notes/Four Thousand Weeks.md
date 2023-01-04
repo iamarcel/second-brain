@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/four-thousand-weeks/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/four-thousand-weeks/"}
 ---
 
 tags:: [[on/time-management\|on/time-management]] #source/video #source/book 

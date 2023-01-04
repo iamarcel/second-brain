@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/a-framework-for-a-virtuous-life-call-with-tales/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/a-framework-for-a-virtuous-life-call-with-tales/"}
 ---
 
 tags:: #source/lecture #source/conversation [[3 Resources/Philosophy\|Philosophy]] [[3 Resources/Purpose\|Purpose]] 

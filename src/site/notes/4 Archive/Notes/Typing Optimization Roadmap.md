@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/typing-optimization-roadmap/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/typing-optimization-roadmap/"}
 ---
 
 tags:: #output/essay [[on/tools\|on/tools]] [[3 Resources/Productivity\|Productivity]] 

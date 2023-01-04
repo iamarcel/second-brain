@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/imported/time-management/
-
+{"dg-publish":true,"permalink":"/4-archive/imported/time-management/"}
 ---
 
 tags:: [[3 Resources/Productivity\|Productivity]] 

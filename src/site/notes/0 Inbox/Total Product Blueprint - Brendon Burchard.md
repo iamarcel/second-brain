@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/total-product-blueprint-brendon-burchard/
-
+{"dg-publish":true,"permalink":"/0-inbox/total-product-blueprint-brendon-burchard/"}
 ---
 
 tags:: [[on/online-courses\|on/online-courses]] [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[3 Resources/Marketing\|Marketing]]

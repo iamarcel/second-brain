@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/imported/creating-wow-in-your-photos/
-
+{"dg-publish":true,"permalink":"/4-archive/imported/creating-wow-in-your-photos/"}
 ---
 
 

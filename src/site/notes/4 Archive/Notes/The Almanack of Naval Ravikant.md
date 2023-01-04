@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/the-almanack-of-naval-ravikant/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/the-almanack-of-naval-ravikant/"}
 ---
 
 tags:: #source/book [[on/entrepeneurship\|on/entrepeneurship]] [[3 Resources/Productivity\|Productivity]] [[on/happiness\|on/happiness]] 

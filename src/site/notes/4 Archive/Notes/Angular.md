@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/angular/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/angular/"}
 ---
 
 Tags:: [[3 Resources/Programming\|Programming]]

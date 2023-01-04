@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/work-the-system/
-
+{"dg-publish":true,"permalink":"/0-inbox/work-the-system/"}
 ---
 
 

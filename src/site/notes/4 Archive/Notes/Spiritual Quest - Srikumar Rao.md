@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/spiritual-quest-srikumar-rao/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/spiritual-quest-srikumar-rao/"}
 ---
 
 up:: [[4 Archive/Mindvalley University 2022\|Mindvalley University 2022]]

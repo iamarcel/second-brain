@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/what-you-re-selling-is-the-implementation/
-
+{"dg-publish":true,"permalink":"/0-inbox/what-you-re-selling-is-the-implementation/"}
 ---
 
 tags:: [[on/online-courses\|on/online-courses]] [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[on/business\|on/business]] #a/statement 

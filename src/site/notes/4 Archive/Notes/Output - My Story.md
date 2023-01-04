@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/output-my-story/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/output-my-story/"}
 ---
 
 

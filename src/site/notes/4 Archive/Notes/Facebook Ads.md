@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/facebook-ads/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/facebook-ads/"}
 ---
 
 tags:: [[3 Resources/Marketing\|Marketing]] 

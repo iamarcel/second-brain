@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/imported/high-performance-habits/
-
+{"dg-publish":true,"permalink":"/4-archive/imported/high-performance-habits/"}
 ---
 
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]

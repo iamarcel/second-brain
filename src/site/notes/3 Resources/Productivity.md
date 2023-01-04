@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/productivity/
-
+{"dg-publish":true,"permalink":"/3-resources/productivity/"}
 ---
 
 tags:: #a/moc

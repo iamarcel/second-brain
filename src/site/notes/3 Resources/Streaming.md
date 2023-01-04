@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/streaming/
-
+{"dg-publish":true,"permalink":"/3-resources/streaming/"}
 ---
 
 tags:: [[3 Resources/Videography\|Videography]]

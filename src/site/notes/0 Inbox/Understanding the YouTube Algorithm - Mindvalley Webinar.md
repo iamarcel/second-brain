@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/understanding-the-you-tube-algorithm-mindvalley-webinar/
-
+{"dg-publish":true,"permalink":"/0-inbox/understanding-the-you-tube-algorithm-mindvalley-webinar/"}
 ---
 
 tags:: #source/video-course [[4 Archive/Imported/Mindvalley\|Mindvalley]]

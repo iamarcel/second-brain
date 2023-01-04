@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/le-ds/
-
+{"dg-publish":true,"permalink":"/0-inbox/le-ds/"}
 ---
 
 tags:: [[Electronics\|Electronics]]

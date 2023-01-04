@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/imported/the-rise-of-theodore-roosevelt-edmund-morris/
-
+{"dg-publish":true,"permalink":"/4-archive/imported/the-rise-of-theodore-roosevelt-edmund-morris/"}
 ---
 
 

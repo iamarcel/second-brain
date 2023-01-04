@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/how-to-become-a-master-in-the-art-of-public-speaking-eric-edmeades/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/how-to-become-a-master-in-the-art-of-public-speaking-eric-edmeades/"}
 ---
 
 tags:: #source/video #source/mindvalley [[3 Resources/Public Speaking\|Public Speaking]] 

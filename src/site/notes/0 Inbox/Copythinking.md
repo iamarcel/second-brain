@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/copythinking/
-
+{"dg-publish":true,"permalink":"/0-inbox/copythinking/"}
 ---
 
 up:: [[3 Resources/Copywriting\|Copywriting]]

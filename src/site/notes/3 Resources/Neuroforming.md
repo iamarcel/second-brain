@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/neuroforming/
-
+{"dg-publish":true,"permalink":"/3-resources/neuroforming/"}
 ---
 
 tags:: #a/concept #output/concept [[a/moc\|a/moc]]

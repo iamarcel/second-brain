@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/imported/self-hosting/
-
+{"dg-publish":true,"permalink":"/4-archive/imported/self-hosting/"}
 ---
 
 

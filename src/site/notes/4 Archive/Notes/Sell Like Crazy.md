@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/sell-like-crazy/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/sell-like-crazy/"}
 ---
 
 tags:: #source/book [[3 Resources/Marketing\|Marketing]] 

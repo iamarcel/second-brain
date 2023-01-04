@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/electric-unicycles/
-
+{"dg-publish":true,"permalink":"/3-resources/electric-unicycles/"}
 ---
 
 tags:: [[on/mobility\|on/mobility]] 

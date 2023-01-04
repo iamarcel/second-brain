@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/athletes-and-musicians-pursue-virtuosity-in-fundamental-skills-much-more-rigorously-than-knowledge-workers-do/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/athletes-and-musicians-pursue-virtuosity-in-fundamental-skills-much-more-rigorously-than-knowledge-workers-do/"}
 ---
 
 tags:: #source/article [[3 Resources/Productivity\|Productivity]] [[on/fundamentals\|on/fundamentals]] #a/statement

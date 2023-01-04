@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/this-is-the-struggle-tweet/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/this-is-the-struggle-tweet/"}
 ---
 
 tags:: #output/tweet [[3 Resources/Purpose\|Purpose]] [[on/struggle\|on/struggle]] [[3 Resources/Learning\|Learning]] [[on/opportunity\|on/opportunity]]

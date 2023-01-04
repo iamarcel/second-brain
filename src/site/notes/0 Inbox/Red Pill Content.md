@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/red-pill-content/
-
+{"dg-publish":true,"permalink":"/0-inbox/red-pill-content/"}
 ---
 
 tags:: #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] 

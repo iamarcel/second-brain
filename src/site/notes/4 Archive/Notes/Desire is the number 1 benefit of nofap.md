@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/desire-is-the-number-1-benefit-of-nofap/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/desire-is-the-number-1-benefit-of-nofap/"}
 ---
 
 tags:: #a/statement [[3 Resources/Sex\|Sex]] [[3 Resources/Masculinity\|Masculinity]] 

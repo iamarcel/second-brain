@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/imported/filmmaking-for-photographers/
-
+{"dg-publish":true,"permalink":"/4-archive/imported/filmmaking-for-photographers/"}
 ---
 
 

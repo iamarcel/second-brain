@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /2-areas/connection/
-
+{"dg-publish":true,"permalink":"/2-areas/connection/"}
 ---
 
 

@@ -1,6 +1,4 @@
 ---
-dg-publish: true
-permalink: /3-resources/marketing/
-
+{"dg-publish":true,"permalink":"/3-resources/marketing/"}
 ---
 

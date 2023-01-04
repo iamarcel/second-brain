@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/the-way-of-the-superior-man/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/the-way-of-the-superior-man/"}
 ---
 
 tags::  #source/book [[3 Resources/Masculinity\|Masculinity]] 

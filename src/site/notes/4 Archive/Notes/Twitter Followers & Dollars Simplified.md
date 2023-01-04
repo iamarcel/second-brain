@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/twitter-followers-and-dollars-simplified/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/twitter-followers-and-dollars-simplified/"}
 ---
 
 up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]

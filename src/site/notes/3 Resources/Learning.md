@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/learning/
-
+{"dg-publish":true,"permalink":"/3-resources/learning/"}
 ---
 
 **Train yourself for mastery.**

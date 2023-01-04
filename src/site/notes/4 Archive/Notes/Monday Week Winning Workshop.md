@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/monday-week-winning-workshop/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/monday-week-winning-workshop/"}
 ---
 
 

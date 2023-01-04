@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/eyesight/
-
+{"dg-publish":true,"permalink":"/3-resources/eyesight/"}
 ---
 
 # How to fix eyesight

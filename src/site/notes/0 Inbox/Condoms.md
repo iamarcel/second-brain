@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/condoms/
-
+{"dg-publish":true,"permalink":"/0-inbox/condoms/"}
 ---
 
 tags:: [[3 Resources/Sex\|Sex]]

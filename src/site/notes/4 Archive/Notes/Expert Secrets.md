@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/expert-secrets/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/expert-secrets/"}
 ---
 
 

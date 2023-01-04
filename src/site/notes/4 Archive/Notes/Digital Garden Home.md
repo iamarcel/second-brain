@@ -1,8 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/digital-garden-home/
-tags: gardenEntry
-
+{"dg-publish":true,"permalink":"/4-archive/notes/digital-garden-home/","tags":"gardenEntry"}
 ---
 
 
@@ -101,9 +98,11 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/A Framework For a Virtuous Life - Call with Tales\|A Framework For a Virtuous Life - Call with Tales]]                                                                                                                         |
 | [[4 Archive/Notes/A More Complete Beast - Jack Donovan - Book\|A More Complete Beast - Jack Donovan - Book]]                                                                                                                                     |
 | [[4 Archive/Notes/Angular\|Angular]]                                                                                                                                                                                                             |
+| [[0 Inbox/Antibiotics\|Antibiotics]]                                                                                                                                                                                                             |
 | [[4 Archive/Notes/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do\|Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]] |
 | [[4 Archive/Notes/Awakening From the Meaning Crisis - John Vervaeke\|Awakening From the Meaning Crisis - John Vervaeke]]                                                                                                                         |
 | [[4 Archive/Imported/Becoming_a_Successful_Photographer\|Becoming_a_Successful_Photographer]]                                                                                                                                                    |
+| [[4 Archive/Notes/Beginner photography Mistakes - Video Script\|Beginner photography Mistakes - Video Script]]                                                                                                                                   |
 | [[3 Resources/Books\|Books]]                                                                                                                                                                                                                     |
 | [[4 Archive/Notes/Brunch Babes and Bros - Call 2022-07-30\|Brunch Babes and Bros - Call 2022-07-30]]                                                                                                                                             |
 | [[4 Archive/Imported/Cinematography\|Cinematography]]                                                                                                                                                                                            |
@@ -155,11 +154,13 @@ Here are some links to content that is already published on this site. There's a
 | [[3 Resources/Learning\|Learning]]                                                                                                                                                                                                               |
 | [[0 Inbox/LEDs\|LEDs]]                                                                                                                                                                                                                           |
 | [[4 Archive/Notes/Lets talk about women - Hamza\|Lets talk about women - Hamza]]                                                                                                                                                                 |
+| [[4 Archive/Notes/Lifebook\|Lifebook]]                                                                                                                                                                                                           |
 | [[4 Archive/Imported/Lighting\|Lighting]]                                                                                                                                                                                                        |
 | [[4 Archive/Notes/Make decisions faster to use your intuition more\|Make decisions faster to use your intuition more]]                                                                                                                           |
 | [[4 Archive/Notes/Making Beautiful Talking Head Videos\|Making Beautiful Talking Head Videos]]                                                                                                                                                   |
 | [[3 Resources/Marketing\|Marketing]]                                                                                                                                                                                                             |
 | [[3 Resources/Masculinity\|Masculinity]]                                                                                                                                                                                                         |
+| [[0 Inbox/Medicine\|Medicine]]                                                                                                                                                                                                                   |
 | [[0 Inbox/MEDS\|MEDS]]                                                                                                                                                                                                                           |
 | [[4 Archive/Notes/Models - Attract Women Through Honesty - Mark Manson\|Models - Attract Women Through Honesty - Mark Manson]]                                                                                                                   |
 | [[4 Archive/Notes/Monday Week Winning Workshop\|Monday Week Winning Workshop]]                                                                                                                                                                   |

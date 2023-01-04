@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /3-resources/concepts/
-
+{"dg-publish":true,"permalink":"/3-resources/concepts/"}
 ---
 
 tags:: #a/moc 

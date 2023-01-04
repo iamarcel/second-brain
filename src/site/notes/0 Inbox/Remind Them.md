@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /0-inbox/remind-them/
-
+{"dg-publish":true,"permalink":"/0-inbox/remind-them/"}
 ---
 
 tags:: #source/tweet [[3 Resources/Marketing\|Marketing]] [[on/writing\|on/writing]] #a/statement 

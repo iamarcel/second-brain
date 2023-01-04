@@ -1,7 +1,5 @@
 ---
-dg-publish: true
-permalink: /4-archive/notes/growth-day-patience/
-
+{"dg-publish":true,"permalink":"/4-archive/notes/growth-day-patience/"}
 ---
 
 tags:: [[on/patience\|on/patience]] #source/podcast [[3 Resources/Purpose\|Purpose]] 

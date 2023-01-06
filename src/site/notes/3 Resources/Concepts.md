@@ -50,7 +50,7 @@ tags:: #a/moc
 | [[0 Inbox/Slow-Burn System\|Slow-Burn System]]                                                         | #a/concept [[3 Resources/Productivity\|Productivity]] [[on/systems\|on/systems]]                          |
 | [[0 Inbox/Solutide\|Solutide]]                                                                         | #a/concept [[on/creativity\|on/creativity]] [[3 Resources/Purpose\|Purpose]]                            |
 | [[0 Inbox/Spaced Repetition\|Spaced Repetition]]                                                       | #a/concept [[on/memory\|on/memory]] [[3 Resources/Productivity\|Productivity]] [[flashcards\|flashcards]]            |
-| [[0 Inbox/The constant low-grade chaos of life\|The constant low-grade chaos of life]]                 | #a/concept [[on/overwhelm\|on/overwhelm]]                                         |
+| [[0 Inbox/The constant low-grade chaos of life\|The constant low-grade chaos of life]]                 | #a/concept [[4 Archive/Notes/Overwhelm\|Overwhelm]]                                            |
 | [[0 Inbox/The Creation Pyramid\|The Creation Pyramid]]                                                 | #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[2 Areas/Writing\|Writing]] [[1 Projects/Become a Modern Master\|Become a Modern Master]] |
 | [[0 Inbox/The Decision\|The Decision]]                                                                 | #a/concept [[4 Archive/Notes/Motivation\|Motivation]] [[3 Resources/Purpose\|Purpose]]                               |
 | [[4 Archive/Notes/The Hero's Journey\|The Hero's Journey]]                                             | [[on/persuasion\|on/persuasion]] #a/concept [[3 Resources/Storytelling\|Storytelling]]                       |

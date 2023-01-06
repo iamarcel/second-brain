@@ -16,8 +16,10 @@ tags:: #a/moc
 - [[4 Archive/Notes/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do\|Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]]
 - [[4 Archive/Notes/Good execution compounds\|Good execution compounds]]
 - [[Hard work is necessary\|Hard work is necessary]]
-- [[Goodness is viral\|Goodness is viral]]
+- [[0 Inbox/Goodness is viral\|Goodness is viral]]
 
 # See Also
 - [[4 Archive/Notes/Confidence\|Confidence]]
 - [[4 Archive/Notes/Motivation\|Motivation]]
+- [[4 Archive/Notes/Overwhelm\|Overwhelm]]
+- [[4 Archive/Notes/Stress\|Stress]]

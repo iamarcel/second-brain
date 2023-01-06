@@ -9,7 +9,7 @@ Tasks typically follow each other, in a more or less funnel-kind of way. This me
 
 [[0 Inbox/Work the System\|Work the System]] is one of the books that explores systematizing, which is a universal way of improving execution.
 
-Also, [[Goodness is viral\|Goodness is viral]]. It leads to increased morale, raises the bar for everyone, and the energy is contagious.
+Also, [[0 Inbox/Goodness is viral\|Goodness is viral]]. It leads to increased morale, raises the bar for everyone, and the energy is contagious.
 
 This doesn't contradict that [[Hard work is necessary\|Hard work is necessary]]. Rather, it shows that hard work leads to increased skill which in turn leads to increased execution.
 

@@ -36,6 +36,7 @@ tags:: #a/moc
 | [[0 Inbox/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]] | #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] #a/statement                           |
 | [[3 Resources/Neuroforming\|Neuroforming]]                                                             | #a/concept #output/concept [[a/moc\|a/moc]]                                |
 | [[0 Inbox/Niche of One\|Niche of One]]                                                                 | #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[3 Resources/Purpose\|Purpose]]                            |
+| [[0 Inbox/OMRPG Framework\|OMRPG Framework]]                                                           | #a/concept [[3 Resources/Productivity\|Productivity]] [[1 Projects/Goals\|Goals]] [[on/planning\|on/planning]] [[Habits\|Habits]]    |
 | [[0 Inbox/Overton Window\|Overton Window]]                                                             | #a/concept [[on/knowledge\|on/knowledge]] [[on/culture\|on/culture]] [[on/epistemology\|on/epistemology]]      |
 | [[4 Archive/Notes/OVO\|OVO]]                                                                           | #a/concept                                                          |
 | [[0 Inbox/Pareto Efficiency\|Pareto Efficiency]]                                                       | #a/concept [[3 Resources/Productivity\|Productivity]] [[on/economy\|on/economy]]                          |

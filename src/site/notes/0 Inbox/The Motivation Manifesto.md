@@ -21,7 +21,9 @@ We must refocus. Giving our ambitions consistent mental attention keeps the driv
 
 It is the obvious equation and the ultimate secret: the deeper and longer I give attention to my ambitions and passions, the more motivation I feel.
 
-We often forget that it is sweat and toil toward meaningful pursuits that makes us truly alive. ^cae854
+We often forget that it is sweat and toil toward meaningful pursuits that makes us truly alive.
+{ #cae854}
+
 
 ### Amplifying motivation
 Few things amplify our long-term motivation more than a positive social environment.

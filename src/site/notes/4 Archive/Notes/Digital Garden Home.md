@@ -42,6 +42,7 @@ Here are some links to content that is already published on this site. There's a
 - [[2 Areas/Creatorpeneur\|Creatorpeneur]]
 - [[0 Inbox/AI Tools\|AI Tools]]
 - [[3 Resources/AI\|AI]]
+- [[0 Inbox/Software\|Software]]
 
 ## Areas
 - [[2 Areas/Connection\|Connection]]
@@ -227,6 +228,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Situational Assessment - Right Now - Jordan Hall\|Situational Assessment - Right Now - Jordan Hall]]                                                                                                                           |
 | [[0 Inbox/Skill Stack\|Skill Stack]]                                                                                                                                                                                                             |
 | [[3 Resources/Sleep\|Sleep]]                                                                                                                                                                                                                     |
+| [[4 Archive/Notes/Slow Software\|Slow Software]]                                                                                                                                                                                                 |
 | [[0 Inbox/Speaker Nation - Be Heard Masterclass\|Speaker Nation - Be Heard Masterclass]]                                                                                                                                                         |
 | [[4 Archive/Notes/Spiritual Quest - Srikumar Rao\|Spiritual Quest - Srikumar Rao]]                                                                                                                                                               |
 | [[4 Archive/Notes/Story Circle\|Story Circle]]                                                                                                                                                                                                   |
@@ -262,6 +264,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Watchful Dragons - Why and How to Tell a Story\|Watchful Dragons - Why and How to Tell a Story]]                                                                                                                               |
 | [[0 Inbox/We feel about ourselves how we feel about others\|We feel about ourselves how we feel about others]]                                                                                                                                   |
 | [[4 Archive/Imported/Web Applications\|Web Applications]]                                                                                                                                                                                        |
+| [[0 Inbox/Web Development\|Web Development]]                                                                                                                                                                                                     |
 | [[4 Archive/Imported/Weekly Assessment\|Weekly Assessment]]                                                                                                                                                                                      |
 | [[0 Inbox/What women mean when they say a man is handsome\|What women mean when they say a man is handsome]]                                                                                                                                     |
 | [[0 Inbox/What you're selling is the implementation\|What you're selling is the implementation]]                                                                                                                                                 |

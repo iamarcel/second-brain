@@ -40,7 +40,9 @@ No matter how often we're to this is wrong, we keep trying to fix it by changing
 
 We quite literally use this to make ourselves unhappy.
 
-There's nothing you need to do to be happy. In fact it's very hard to be unhappy. ^36702a
+There's nothing you need to do to be happy. In fact it's very hard to be unhappy.
+{ #36702a}
+
 
 The if-then model is broken.
 

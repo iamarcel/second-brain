@@ -38,6 +38,11 @@ We are the new universal men.
 # Explore the Garden
 Here are some links to content that is already published on this site. There's a lot more that will be released as I go through them and organize it.
 
+## Current Interests
+- [[2 Areas/Creatorpeneur\|Creatorpeneur]]
+- [[0 Inbox/AI Tools\|AI Tools]]
+- [[3 Resources/AI\|AI]]
+
 ## Areas
 - [[2 Areas/Connection\|Connection]]
 - [[2 Areas/Creatorpeneur\|Creatorpeneur]]
@@ -55,6 +60,7 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Making Beautiful Talking Head Videos\|Making Beautiful Talking Head Videos]]
 
 ## Resources / Interests
+- [[3 Resources/AI\|AI]]
 - [[3 Resources/Books\|Books]]
 - [[3 Resources/Concepts\|Concepts]]
 - [[3 Resources/Cooking\|Cooking]]
@@ -98,6 +104,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/10 Rules to get to 100k subscribers in a year - Captain Sinbad\|10 Rules to get to 100k subscribers in a year - Captain Sinbad]]                                                                                               |
 | [[4 Archive/Notes/A Framework For a Virtuous Life - Call with Tales\|A Framework For a Virtuous Life - Call with Tales]]                                                                                                                         |
 | [[4 Archive/Notes/A More Complete Beast - Jack Donovan - Book\|A More Complete Beast - Jack Donovan - Book]]                                                                                                                                     |
+| [[3 Resources/AI\|AI]]                                                                                                                                                                                                                           |
 | [[0 Inbox/AI Tools\|AI Tools]]                                                                                                                                                                                                                   |
 | [[4 Archive/Notes/Angular\|Angular]]                                                                                                                                                                                                             |
 | [[0 Inbox/Antibiotics\|Antibiotics]]                                                                                                                                                                                                             |
@@ -107,6 +114,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Beginner photography Mistakes - Video Script\|Beginner photography Mistakes - Video Script]]                                                                                                                                   |
 | [[3 Resources/Books\|Books]]                                                                                                                                                                                                                     |
 | [[4 Archive/Notes/Brunch Babes and Bros - Call 2022-07-30\|Brunch Babes and Bros - Call 2022-07-30]]                                                                                                                                             |
+| [[0 Inbox/ChatGPT\|ChatGPT]]                                                                                                                                                                                                                     |
 | [[4 Archive/Imported/Cinematography\|Cinematography]]                                                                                                                                                                                            |
 | [[4 Archive/Imported/Clojure\|Clojure]]                                                                                                                                                                                                          |
 | [[4 Archive/Imported/Color_Correction\|Color_Correction]]                                                                                                                                                                                        |
@@ -144,6 +152,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Happiness is found in the present\|Happiness is found in the present]]                                                                                                                                                         |
 | [[2 Areas/Health\|Health]]                                                                                                                                                                                                                       |
 | [[4 Archive/Imported/High Performance Habits\|High Performance Habits]]                                                                                                                                                                          |
+| [[0 Inbox/How can ChatGPT Improve Your Life - Video Script\|How can ChatGPT Improve Your Life - Video Script]]                                                                                                                                   |
 | [[4 Archive/Notes/How to Become a Lifelong Learner With Obsidian - Obsidian October 2022 - Video Script\|How to Become a Lifelong Learner With Obsidian - Obsidian October 2022 - Video Script]]                                                 |
 | [[4 Archive/Notes/How To Become A Master In The Art of Public Speaking - Eric Edmeades\|How To Become A Master In The Art of Public Speaking - Eric Edmeades]]                                                                                   |
 | [[4 Archive/Notes/How To Create A Niche of One\|How To Create A Niche of One]]                                                                                                                                                                   |

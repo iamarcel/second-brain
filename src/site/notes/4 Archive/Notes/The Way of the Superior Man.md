@@ -94,7 +94,9 @@ You can ravish your woman so deeply that her surrender breaks your heart into li
 If you are going to tryst with women and world at all, better to go all the way and ravish them from the depths of your true core, blooming them open with the wide gifts of your unrelenting heart.
 
 ### Enjoy your friends’ criticism
-About once a week, you should sit down with your closest men friends and discuss what you are doing in your life and what you are afraid of doing. Short and simple. Then your friends should give you a behavioral experiment, something you can do that will reveal something to you, or grant more freedom in your life. ^ab52dc
+About once a week, you should sit down with your closest men friends and discuss what you are doing in your life and what you are afraid of doing. Short and simple. Then your friends should give you a behavioral experiment, something you can do that will reveal something to you, or grant more freedom in your life.
+{ #ab52dc}
+
 
 Good friends should not tolerate mediocrity in one another.
 

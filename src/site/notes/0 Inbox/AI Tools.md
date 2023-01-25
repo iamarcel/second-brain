@@ -2,30 +2,79 @@
 {"dg-publish":true,"permalink":"/0-inbox/ai-tools/"}
 ---
 
-tags:: [[on/artificial-intelligence\|on/artificial-intelligence]] [[3 Resources/Tools\|Tools]]
+tags:: [[3 Resources/AI\|AI]] [[3 Resources/Tools\|Tools]]
 
 # Collection Sites
 https://gpt3demo.com
 https://www.futuretools.io/
 https://allthingsai.com/?ref=futuretools.io
+[Futurepedia](https://www.futurepedia.io/)
 
 [FlowGPT](https://flowgpt.com) - prompts, ranked, trending etc
 [Google Sheet of GPT-3 Prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
 [Notion page of ChatGPT Tools and Tips](https://entreresource.notion.site/ChatGPT-Prompts-Tools-and-Tips-91a2343b03f3428cb7b2f4298f938733)
-[Cookup.ai](https://cookup.ai/) - Ongoing list of GPT-3 use cases and prompts
+[Cookup.ai](https://cookup.ai/) - Ongoing list of [[GPT\|GPT]]-3 use cases and prompts
 
-# Tools
+# High-Level Tools
 
-[Rewind - tool that tracks and makes all computer activity searchable.](https://www.rewind.ai/)
+[Rewind](https://www.rewind.ai/)
+Tool that tracks and makes all computer activity searchable.
+Feels like it screen records and indexes everything. It's local so that's nice.
 
-[Tome - Online generation tool of slideshow, with story and images](https://beta.tome.app/)
+*Haven't tried it.*
 
-[BHuman - Mass create personalized video messages](https://www.bhuman.ai/)
+[Tome](https://beta.tome.app/)
+Online generation tool of slideshow, with story and images.
 
-[D-ID - Create virtual presenter (even from your own footage) - Used in MyHeritage](https://www.d-id.com/)
+*Wasn't incredibly impressive the first time I tried, but could be a good way to kickstart a talk.*
 
-[Mubert - Generate music for video, podcast etc](https://mubert.com)
+[BHuman](https://www.bhuman.ai/)
+Mass create personalized video messages.
+Record one video message with a placeholder, it'll fill it in (in your own voice) and create videos in batch.
 
-[Adrenaline](https://useadrenaline.com/) - paste code, paste error, get explanation
+*Haven't tried*
 
-[Replicate](https://replicate.com) - Online inference. Pay per GPU second. Minimal design.
+[D-ID](https://www.d-id.com/)
+Create virtual presenter, text-to-speech and video.
+You can even create a presenter from your own footage.
+Used in MyHeritage for the animations.
+
+*Haven't tried*
+
+[Mubert](https://mubert.com)
+Generate music for video, podcast etc.
+Stock music but generated.
+
+[Adrenaline](https://useadrenaline.com/)
+Paste code, paste error, get explanation
+
+[Beatoven](https://www.beatoven.ai/)
+Generated soundtracks, specifically for adding as background track to videos. Allows you to change the mood over time and it'll mix it nicely.
+
+[Resume Worded](https://resumeworded.com)
+Automatically generated feedback on your resume.
+
+[Moveworks](https://www.moveworks.com/)
+Conversational AI platform that solves issues and prevents problems at work.
+
+[Video Tapit](https://videotapit.com)
+Generate blog post from YouTube video link.
+
+[ChatGPT Writer](https://chatgptwriter.ai/)
+Chrome extension that adds a ChatGPT popup to Gmail.
+
+## Search Engines
+[Phind](https://phind.com/)
+[Perplexity AI](https://www.perplexity.ai/)
+[ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) - free browser extension
+
+# Low-Level Tools
+
+[Replicate](https://replicate.com) 
+Online inference. Pay per GPU second. Minimal design.
+
+[NLPCloud](https://nlpcloud.com/)
+Use a variety of NLP algorithms (non-OpenAI). Most of their plans are monthly instead of pay-per-use which, on larger scale, makes it much cheaper than OpenAI.
+
+**OpenAI Whisper**
+Excellent speech recognition

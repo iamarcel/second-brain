@@ -75,7 +75,9 @@ We pursue them in that order, but their importance is reverse.
 **Don't take yourself too seriously. You're just a monkey with a plan.**
 
 
-To me, happiness is not about positive thoughts. It's not about negative thoughts. It's about the absence of desire, especially the absence of desire for external things. The fewer desires I can have, the more I can accept the current state of things, the less my mind is moving, because the mind really exists in motion toward the future or the past. The more present I am, the happier and more content I will be. If I latch onto a feeling, if I say "oh, I'm happy now" and I want to stay happy, then I'm going to drop out of that happiness. Now, suddenly, the mind is moving. It's trying to attach to something. It's trying to create a permanent situation out of a temporary situation. ^556d05
+To me, happiness is not about positive thoughts. It's not about negative thoughts. It's about the absence of desire, especially the absence of desire for external things. The fewer desires I can have, the more I can accept the current state of things, the less my mind is moving, because the mind really exists in motion toward the future or the past. The more present I am, the happier and more content I will be. If I latch onto a feeling, if I say "oh, I'm happy now" and I want to stay happy, then I'm going to drop out of that happiness. Now, suddenly, the mind is moving. It's trying to attach to something. It's trying to create a permanent situation out of a temporary situation.
+{ #556d05}
+
 
 Real happiness comes as a side effect of peace.
 

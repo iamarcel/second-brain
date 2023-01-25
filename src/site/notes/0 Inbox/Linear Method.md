@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/linear-method/"}
 ---
 
-tags:: [[3 Resources/Productivity\|Productivity]] [[Software\|Software]] [[Project Management\|Project Management]]
+tags:: [[3 Resources/Productivity\|Productivity]] [[0 Inbox/Software\|Software]] [[Project Management\|Project Management]]
 [Source](https://linear.app/docs/linear-method)
 
 Software development method used by https://linear.app. Much simpler and sense-making than Agile.

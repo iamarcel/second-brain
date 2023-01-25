@@ -20,21 +20,7 @@ The main point of a [[0 Inbox/Niche of One\|Niche of One]] is that narrowing dow
 
 
 
-tags:: #a/concept 
-
-Multipotentiality is the curiosity or preference to follow different passions. The artistic or intellectual ability to excel in two or more different fields. ^05d43a
-
-> A multipotentialite is a person who has many different interests and creative pursuits in life.
-> 
-> Multipotentialites have no “one true calling” the way specialists do. Being a multipotentialite is our destiny. We have many paths and we pursue all of them, either sequentially or simultaneously (or both).
-> 
-> Multipotentialites thrive on learning, exploring, and mastering new skills. We are excellent at bringing disparate ideas together in creative ways. This makes us incredible innovators and problem solvers.
-> 
-> When it comes to new interests that emerge, our insatiable curiosity leads us to absorb everything we can get our hands on. As a result, we pick up new skills fast and tend to be a wealth of information.
-> 
-> — Emilie Wapnick, Terminology, Puttylike
-
-![](https://www.qaspire.com/images/sketchnotes/24_multipot.jpg)
+Multipotentiality is the curiosity or preference to follow different passions. The artistic or intellectual ability to excel in two or more different fields. 
 
 </div></div>
 
@@ -47,7 +33,9 @@ Many creatives who dabble in many disciplines secretly dream of a job where they
 
 **Your entire success as a creator is to find idea market fit. You are looking to explain and develop your ideas in creative form as fast and as uniquely as possible.**
 
-Let your persona shine. **Humans are drawn to people.** ^5d50db
+Let your persona shine. **Humans are drawn to people.**
+{ #5d50db}
+
 
 Differentiate yourself even more by choosing your aesthetics _right now_ that would naturally fit your personality, vibe, and the best way your ideas will be received by your audience. Aesthetics are power in being recognized and remembered before you offer anything.
 

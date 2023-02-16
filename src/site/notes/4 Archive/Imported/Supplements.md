@@ -1,0 +1,46 @@
+---
+{"dg-publish":true,"permalink":"/4-archive/imported/supplements/"}
+---
+
+up:: [[2 Areas/Health\|Health]]
+
+# Base
+
+
+## Vitamin D
+
+Officially deficient in a large part of the population. Higher than “normal” doses are probably optimal. Is technically a hormone, works actively in a huge amount of system processes.
+
+Cheapest way to get this is in droppers.
+
+Dose: 5000IU daily or something around that.
+
+
+## Magnesium + [[4 Archive/Notes/Zinc\|Zinc]]
+
+Magnesium deficiency is common in the western diet.
+
+Magnesium helps sleep, and is synergetic with sleep. For people deficient in either (even a bit), supplementing had a big impact on [Testosterone](Testosterone.md) levels.
+
+There are a lot of different variants that might have a focus of impact on other parts off the body.
+
+Dose:
+
+-   450mg magnesium
+-   30mg zinc
+
+
+## Fish Oil
+
+Green Pasture *fermented* cod liver oil + butter.
+
+Ferented cod liver oil seems to have better effects than regular cod liver oil, as it’s more bioavailable[?].
+
+
+## Creatine
+
+Most well-researched workout supplement. Helps ATP production.
+
+
+# [Testosterone](Testosterone.md)
+

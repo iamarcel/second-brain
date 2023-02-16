@@ -16,6 +16,7 @@ tags:: #a/moc
 | [[4 Archive/Imported/Digital Minimalism\|Digital Minimalism]]                                          | #a/concept                                                          |
 | [[4 Archive/Notes/Emotional Professionalism\|Emotional Professionalism]]                               | #a/concept [[on/emotion\|on/emotion]] [[on/working\|on/working]]                            |
 | [[4 Archive/Notes/Evergreen Note\|Evergreen Note]]                                                     | [[2 Areas/Second Brain\|Second Brain]] [[on/note-taking\|on/note-taking]] [[on/thinking\|on/thinking]] #a/concept      |
+| [[4 Archive/Notes/Flow\|Flow]]                                                                         | [[on/focus\|on/focus]] [[3 Resources/Productivity\|Productivity]] #a/concept                            |
 | [[4 Archive/Notes/Flow-First Work\|Flow-First Work]]                                                   | #output/essay [[wip\|wip]] #a/concept                                    |
 | [[4 Archive/Notes/Free Workouts\|Free Workouts]]                                                       | #output/concept #a/concept                                          |
 | [[4 Archive/Notes/Glitch Hopping\|Glitch Hopping]]                                                     | #a/concept                                                          |

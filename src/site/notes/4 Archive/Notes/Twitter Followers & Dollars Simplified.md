@@ -4,7 +4,7 @@
 
 up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]
 author:: [[4 Archive/Notes/Dan Koe\|Dan Koe]]
-tags:: #source/video-course [[Twitter\|Twitter]] [[Social Media\|Social Media]]
+tags:: #source/video-course [[Twitter\|Twitter]] [[0 Inbox/Social Media\|Social Media]]
 
 # Course Notes
 

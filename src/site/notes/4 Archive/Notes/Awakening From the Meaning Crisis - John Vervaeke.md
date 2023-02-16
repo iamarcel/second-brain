@@ -64,7 +64,7 @@ You're a natural-born cyborg. Your have evolved to be integrated with machines. 
 
 # Flow, Metaphor and the Axial Revolution
 
-Part of what shamans do is getting into a [Flow](20210714113339-flow.md) state. Video games are one of the most reliable ways to get us into a flow state.
+Part of what shamans do is getting into a [Flow](Flow.md) state. Video games are one of the most reliable ways to get us into a flow state.
 
 **Addictions run off of machines that are evolutionary adaptive.**
 

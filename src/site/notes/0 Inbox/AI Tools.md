@@ -15,6 +15,15 @@ https://allthingsai.com/?ref=futuretools.io
 [Notion page of ChatGPT Tools and Tips](https://entreresource.notion.site/ChatGPT-Prompts-Tools-and-Tips-91a2343b03f3428cb7b2f4298f938733)
 [Cookup.ai](https://cookup.ai/) - Ongoing list of [[GPT\|GPT]]-3 use cases and prompts
 
+# Text Generation
+[[0 Inbox/ChatGPT\|ChatGPT]]
+[Alpa](https://opt.alpa.ai/): OPT-175B model
+[Bloom on Huggingface](https://huggingface.co/bigscience/bloom)
+
+# Image Generation
+- Stable Diffusion
+- Dreamix: video editing, image to video
+
 # High-Level Tools
 
 [Rewind](https://www.rewind.ai/)
@@ -78,3 +87,11 @@ Use a variety of NLP algorithms (non-OpenAI). Most of their plans are monthly in
 
 **OpenAI Whisper**
 Excellent speech recognition
+
+# Models
+
+[Image 2 Sound FX](https://huggingface.co/spaces/fffiloni/image-to-sound-fx)
+
+[Real-Time Brain-to-Image Reconstructions](https://medarc.notion.site/Real-Time-Brain-to-Image-Reconstructions-e1116f115715456a96bb053a304b6292)
+Beginning of research phase.
+

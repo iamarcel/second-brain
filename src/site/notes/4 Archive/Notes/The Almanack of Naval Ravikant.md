@@ -60,6 +60,8 @@ A happy person isn't someone who is happy all the time. It's someone who effortl
 
 
 Desire is a contract you make with yourself to be unhappy until you get what you want. (Page 138)
+{ #bf1ed5}
+
 
 A calm mind, a fit body, and a house full of love.
 

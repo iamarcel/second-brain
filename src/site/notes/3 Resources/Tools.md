@@ -11,3 +11,5 @@
 
 Spacedrive
 Distributed file manager. Seamlessly combines data from multiple devices into the same application.
+
+[Senja](https://senja.io/?via=jayclouse) - Collect testimonials

@@ -1,0 +1,58 @@
+---
+{"dg-publish":true,"permalink":"/0-inbox/maximizing-reactivity-tunch/"}
+---
+
+tags:: #output/presentation [[3 Resources/Programming\|Programming]] [[4 Archive/Notes/Angular\|Angular]] [[4 Archive/Notes/Reactive Programming\|Reactive Programming]]
+
+# Brainstorm
+- Advantages
+	- Less code
+	- Improved rendering performance
+	- Clear side-effects
+	- Less bugs
+- Why?
+	- Understanding
+		- Basically functional programming: you know what goes in and what comes out
+	- Stability
+		- Immutability
+		- But there's *more*: not just *what* is fixed as immutable, but also *when* is explicit
+		- This means things change when they need to
+		- Refactoring is easy, no need to consider the new thing everywhere
+	- Performance
+		- React rendering is shit because it doesn't know shit
+		- Default Angular rendering is even worse
+		- But if everything is reactive it knows perfectly
+		- RxAngular: default zone-based renderer isn't very efficient, we need to change it out
+- How?
+	- State management: the best solution isn't to fix it, it's to skip it
+	- Everything is a stream
+	- The least amount of `Subject`s as possible  (they're fake)
+	- No logic in event handler methods
+	- Refactoring flow
+		- Properties + modifying methods -> computed Observable
+		- Event handler -> Subject trigger -> computed Observable
+		- Sharing across components: BehaviorSubject-in-a-service
+		- Hey wait this is state management
+- What?
+	- Everything `OnPush`
+		- Pushes you to structure your app better, declaratively
+		- Like strict mode
+	- All your fields are `readonly` (except inputs)
+	- Reactive-Angular library
+		- \*rxLet
+		- PushPipe
+		- \*rxIf
+			- else, suspense, error, complete
+		- \*rxFor
+	- Define observables from other observables in the constructor
+		- The template handles subscribing, that's perfect
+		- Reuse the same subscription in the template (rxLet)
+	- Only `.subscribe()` if you *really* have no other option
+	- Implement side effects with `tap()` and combine them in a `merge` so you only have a *single subscription in the entire component*!
+	- Passing Observables in `Input()`s
+	- Opting out of `Zone`
+		- Run outside of Zone
+		- Unpatch events
+- Ummm forget everything I said
+	- Signals
+	- See SolidJS

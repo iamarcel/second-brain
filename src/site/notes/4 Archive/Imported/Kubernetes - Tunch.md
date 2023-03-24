@@ -107,156 +107,171 @@ We want to use Google Cloud but yeah…
 
 1.  Creating a deployment
 
-        # myapp-deployment.yaml
-        apiVersion: apps/v1
-        kind: Deployment
-        metadata:
-          name: myapp-api
-          labels:
-            app.kubernetes.io/name: myapp
-            app.kubernetes.io/component: api
-        spec:
-          selector:
-            matchLabels:
-              app.kubernetes.io/name: myapp
-              app.kubernetes.io/component: api
-          replicas: 2
-          template:
-            metadata:
-              labels:
-                app.kubernetes.io/name: myapp
-                app.kubernetes.io/component: api
-            spec:
-              containers:
-              - name: api
-                image: nginx
+```yaml
+	# myapp-deployment.yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: myapp-api
+  labels:
+	app.kubernetes.io/name: myapp
+	app.kubernetes.io/component: api
+spec:
+  selector:
+	matchLabels:
+	  app.kubernetes.io/name: myapp
+	  app.kubernetes.io/component: api
+  replicas: 2
+  template:
+	metadata:
+	  labels:
+		app.kubernetes.io/name: myapp
+		app.kubernetes.io/component: api
+	spec:
+	  containers:
+	  - name: api
+		image: nginx
+```
     
-        kubectl apply -f myapp-deployment.yaml
-        kubectl deployment list
-        kubectl pod list
+```sh
+kubectl apply -f myapp-deployment.yaml
+kubectl deployment list
+kubectl pod list
+```
 
 2.  Creating a service
 
-        # myapp-service.yaml
-        apiVersion: v1
-        kind: Service
-        metadata:
-          name: myapp-api
-          labels:
-            app.kubernetes.io/name: myapp
-            app.kubernetes.io/component: api
-        spec:
-          selector:
-            app.kubernetes.io/name: myapp
-            app.kubernetes.io/component: api
-          ports:
-          - protocol: TCP
-            port: 80
-            targetPort: 80
+```yaml
+# myapp-service.yaml
+apiVersion: v1
+kind: Service
+metadata:
+  name: myapp-api
+  labels:
+	app.kubernetes.io/name: myapp
+	app.kubernetes.io/component: api
+spec:
+  selector:
+	app.kubernetes.io/name: myapp
+	app.kubernetes.io/component: api
+  ports:
+  - protocol: TCP
+	port: 80
+	targetPort: 80
+```
     
+```sh
         kubectl apply -f myapp-service.yaml
         kubectl get service
+```
 
 3.  Writing great deployments
 
     1.  Update without downtime
     
         Use `maxSurge` to let it scale up when it’s updating pods one by one.
-        
-            apiVersion: apps/v1
-            kind: Deployment
-            # ...
-            spec:
-              strategy:
-                type: RollingUpdate
-                rollingUpdate:
-                  maxSurge: 1
-                  maxUnavailable: 0
+
+```
+apiVersion: apps/v1
+kind: Deployment
+# ...
+spec:
+  strategy:
+	type: RollingUpdate
+	rollingUpdate:
+	  maxSurge: 1
+	  maxUnavailable: 0
+```
     
-    2.  Keep resource usage in check
-    
-        This is especially important when you have multiple environments on the same cluster.
-        
-            apiVersion: apps/v1
-            kind: Deployment
-            # ...
-            
-            spec:
-              template:
-                spec:
-                  containers:
-                    - name: myapp
-                      resources:
-                        requests:
-                          cpu: 100m
-                          memory: 128Mi
-                        limits:
-                          cpu: 2
-                          memory: 2G
+2.  Keep resource usage in check
+
+	This is especially important when you have multiple environments on the same cluster.
+
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+# ...
+
+spec:
+  template:
+	spec:
+	  containers:
+		- name: myapp
+		  resources:
+			requests:
+			  cpu: 100m
+			  memory: 128Mi
+			limits:
+			  cpu: 2
+			  memory: 2G
+```
     
     3.  Configure deployments
     
         As per [Factor III](https://12factor.net/config), store configuration in environment variables. This is the most universally supported way to inject variables during the runtime of a container. 12 Factor requires strict separation of config and code.
         
         Spring Boot etc can understand your application properties through environment variables automatically.
+		
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+# ...
+spec:
+  template:
+	spec:
+	  containers:
+	  - name: myapp
+		env:
+		- name: JAVA_OPTS
+		  value: "-Xms{{ .Values.heapSize }} -Xmx{{ .Values.heapSize }}"
+		- name: MYAPP_API_USERNAME
+		  valueFrom:
+			secretKeyRef:
+			  name: myapp-api-secret
+			  key: username
+		- name: MYAPP_API_PASSWORD
+		  valueFrom:
+			secretKeyRef:
+			  name: myapp-api-secret
+			  key: password
+```
         
-            apiVersion: apps/v1
-            kind: Deployment
-            # ...
-            spec:
-              template:
-                spec:
-                  containers:
-                  - name: myapp
-                    env:
-                    - name: JAVA_OPTS
-                      value: "-Xms{{ .Values.heapSize }} -Xmx{{ .Values.heapSize }}"
-                    - name: MYAPP_API_USERNAME
-                      valueFrom:
-                        secretKeyRef:
-                          name: myapp-api-secret
-                          key: username
-                    - name: MYAPP_API_PASSWORD
-                      valueFrom:
-                        secretKeyRef:
-                          name: myapp-api-secret
-                          key: password
-        
-        There is straight *config* and there are also *secrets*. You store them separately (so an admin can manage them) and give permissions to the pods.
-        
-        Config/secrets can be attached as either:
-        
-        -   Environment variables
-        -   Files through a volume mount
-        
-        This is the way you can integrate with the other services of your cloud provider. Azure has a Key Vault Provider:
-        
-            apiVersion: apps/v1
-            kind: Deployment
-            # ...
-            spec:
-              template:
-                spec:
-                  containers:
-                  - name: myapp
-                    volumeMounts:
-                    - name: secrets-store01-inline
-                      mountPath: "/mnt/secrets-store"
-                      readOnly: true
-                    env:
-                    - name: SECRET_USERNAME
-                      valueFrom:
-                        secretKeyRef:
-                          name: foosecret
-                          key: username
-                  volumes:
-                  - name: secrets-store01-inline
-                    csi:
-                      driver: secrets-store.csi.k8s.io
-                      readOnly: true
-                      volumeAttributes:
-                        secretProviderClass: "azure-sync"
+There is straight *config* and there are also *secrets*. You store them separately (so an admin can manage them) and give permissions to the pods.
 
+Config/secrets can be attached as either:
+
+-   Environment variables
+-   Files through a volume mount
+
+This is the way you can integrate with the other services of your cloud provider. Azure has a Key Vault Provider:
+        
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+# ...
+spec:
+  template:
+	spec:
+	  containers:
+	  - name: myapp
+		volumeMounts:
+		- name: secrets-store01-inline
+		  mountPath: "/mnt/secrets-store"
+		  readOnly: true
+		env:
+		- name: SECRET_USERNAME
+		  valueFrom:
+			secretKeyRef:
+			  name: foosecret
+			  key: username
+	  volumes:
+	  - name: secrets-store01-inline
+		csi:
+		  driver: secrets-store.csi.k8s.io
+		  readOnly: true
+		  volumeAttributes:
+			secretProviderClass: "azure-sync"
+```
 
 ### Completing the Pipeline
 

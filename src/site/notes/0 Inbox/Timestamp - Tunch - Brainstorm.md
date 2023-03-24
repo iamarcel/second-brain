@@ -3,7 +3,7 @@
 ---
 
 tags:: #output/lecture [[on/programming\|on/programming]]
-up:: [[4 Archive/Imported/Tunch\|Tunch]]
+up:: [[4 Archive/Notes/Tunch\|Tunch]]
 [[4 Archive/Notes/Timestamp - Tunch\|Timestamp - Tunch]]
 
 # Brainstorm

@@ -4,6 +4,7 @@
 
 tags:: #source/book [[on/meaning\|on/meaning]] 
 author:: [[Simon Sinek\|Simon Sinek]]
+read:: true
 
 # Why Discovery For Invididuals - Partner Guide
 At its core, the WHY is the origin story. You will listen for stories and ask thoughtful questions that will help them dig deeper to find the underlying meaning. These themes will weave together into a golden thread to define who they are at their natural best.

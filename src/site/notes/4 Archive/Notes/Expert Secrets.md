@@ -5,6 +5,7 @@
 
 tags:: #source/book [[2 Areas/Creatorpeneur\|Creatorpeneur]]
 author:: [[0 Inbox/Russell Brunson\|Russell Brunson]]
+read:: true
 
 You will get all you want in life, if you help enough people get what they want.
 

@@ -3,7 +3,7 @@
 ---
 
 tags:: #a/concept 
-author:: [[0 Inbox/Marcel Samyn\|Marcel Samyn]]
+author:: [[4 Archive/Notes/Marcel Samyn\|Marcel Samyn]]
 
 When working we often jump between points of attention and it's easy to lose track in them. E.g., in programming you're searching in 20 files before you know where to start.
 

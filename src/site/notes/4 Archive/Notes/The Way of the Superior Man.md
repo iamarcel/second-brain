@@ -4,6 +4,7 @@
 
 tags::  #source/book [[3 Resources/Masculinity\|Masculinity]] 
 author:: [[David Deida\|David Deida]]
+read:: true
 
 > May this book serve the liberation of your true gifts, so that countless multitudes of being may benefit even more from your living and loving.
 

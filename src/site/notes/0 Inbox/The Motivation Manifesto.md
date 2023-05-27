@@ -4,6 +4,7 @@
 
 tags:: #source/book [[4 Archive/Notes/Motivation\|Motivation]] [[wip\|wip]]
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
+read:: true
 
 # On Human Nature
 ## On Freedom

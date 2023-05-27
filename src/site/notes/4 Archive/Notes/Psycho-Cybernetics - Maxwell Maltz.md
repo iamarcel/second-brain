@@ -4,6 +4,7 @@
 
 tags:: #source/book [[3 Resources/Psychology\|Psychology]] [[on/visualisation\|on/visualisation]] [[on/hypnosis\|on/hypnosis]] [[on/happiness\|on/happiness]] 
 author:: [[Maxwell Maltz\|Maxwell Maltz]]
+read:: true
 
 # Relax and let your Success Mechanism work for you
 Our trouble is that we ignore the automatic Creative Mechanism and **try to solve all our problems by conscious thought**, or forebrain thinking.

@@ -4,6 +4,7 @@
 
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
 tags:: #source/book [[3 Resources/Productivity\|Productivity]] [[on/energy\|on/energy]] [[4 Archive/Notes/Confidence\|4 Archive/Notes/Confidence]]
+read:: true
 
 ## Personal Habits
 

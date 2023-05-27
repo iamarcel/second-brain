@@ -4,6 +4,7 @@
 
 tags:: #source/book [[3 Resources/Marketing\|Marketing]] 
 author:: [[Sabri Suby\|Sabri Suby]]
+read:: true
 
 # Introduction
 ## Single Mother Work Ethic

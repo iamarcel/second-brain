@@ -4,6 +4,7 @@
 
 tags:: [[on/time-management\|on/time-management]] #source/video #source/book 
 author:: [[Oliver Burkeman\|Oliver Burkeman]]
+read:: true
 
 Watched [[4 Archive/Notes/Ali Abdaal\|Ali Abdaal]]'s summary of the book.
 

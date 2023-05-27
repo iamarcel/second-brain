@@ -6,9 +6,9 @@ tags:: #a/moc
 
 # Concepts to produce better work
 [[4 Archive/Notes/Flow-First Work\|Flow-First Work]]
-[[Personal Productivity Network\|Personal Productivity Network]]
+[[0 Inbox/Personal Productivity Network\|Personal Productivity Network]]
 [[4 Archive/Imported/Intermediate Packets\|Intermediate Packets]]
-[[Out-of-Order Execution\|Out-of-Order Execution]]
+[[0 Inbox/Out-of-Order Execution\|Out-of-Order Execution]]
 [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]
 [[Standard Operating Procedure\|Standard Operating Procedure]]
 

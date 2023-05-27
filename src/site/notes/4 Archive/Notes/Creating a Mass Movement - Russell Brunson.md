@@ -35,7 +35,7 @@ Questions to find True Believers:
 **People are silently begging to be led.**
 
 ## Become an attractive character, and live the life your audience wishes they could live.
-See [[Dotcom Secrets - Russell Brunson\|Dotcom Secrets - Russell Brunson]].
+See [[0 Inbox/Dotcom Secrets - Russell Brunson\|Dotcom Secrets - Russell Brunson]].
 
 People will follow you because you have completed the journey they are on right now. It can be scary to become vulnerable and show your backstories as well as your life now, but it's the key to becoming a leader that will inspire people to change.
 

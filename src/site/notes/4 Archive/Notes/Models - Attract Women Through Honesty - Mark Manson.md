@@ -3,8 +3,9 @@
 ---
 
 
-tags:: #source/book
+tags:: #source/book [[4 Archive/Notes/Dating\|Dating]] [[Attraction\|Attraction]]
 author:: [[4 Archive/Imported/Mark Manson\|Mark Manson]]
+read:: true
 
 # Movement
 

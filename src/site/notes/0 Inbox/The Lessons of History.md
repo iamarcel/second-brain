@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/0-inbox/the-lessons-of-history/"}
 ---
 
-
-tags:: #source/book 
+tags:: #source/book [[History\|History]] [[3 Resources/Philosophy\|Philosophy]] [[on/culture\|on/culture]]
 author:: [[Will Durant\|Will Durant]] [[Ariel Durant\|Ariel Durant]]
+read:: true
 
 # Reflections
 History smiles at all attempts to force its flow into theoretical patterns or logical grooves; it plays havoc with out generalizations, breaks all our rules; history is baroque.

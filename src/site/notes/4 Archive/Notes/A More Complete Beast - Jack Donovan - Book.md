@@ -4,6 +4,7 @@
 
 tags:: #source/book 
 author:: [Jack Donovan](20220312093136-jack_donovan.md)
+read:: true
 
 # Quotes
 

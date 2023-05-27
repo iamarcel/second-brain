@@ -25,7 +25,7 @@ Make high performance outerwear (jackets).
 
 ## Havonalabs
 <https://www.havonalabs.co.uk/>
-Fidlock belts
+Fidlock belts, don't exist anymore
 
 ## Enfin Leve [[3 Resources/Techwear\|Techwear]]
 Make great [high-performance pants](https://enfinleve.com/collections/bottoms). Also have a women’s collection.
@@ -34,7 +34,12 @@ Ametzu pants are nice (like the Acronym P10). <https://enfinleve.com/collections
 
 Variety of fabric options. Ability to customize to your size.
 
-# Fabrics
+## People of Shibuya
+https://peopleofshibuya.com
+
+## [[4 Archive/Notes/Jeans\|Jeans]]
+
+# Technical Fabrics
 ## Schoeller Dryskin
 -   **Feel:** Stretchy, highly comfortable. Pretty soft.
 -   **Performance:** Water-resistace: Nylon stops water ingress.

@@ -4,6 +4,7 @@
 
 tags:: #source/book [[on/entrepeneurship\|on/entrepeneurship]] [[3 Resources/Productivity\|Productivity]] [[on/happiness\|on/happiness]] 
 author:: [[0 Inbox/Naval Ravikant\|Naval Ravikant]] [[Jack Butcher\|Jack Butcher]]
+read:: true
 
 **Retirement is when you stop sacrificing today for an imaginary tomorrow. When today is complete, in and of itself, you're retired.** (Page 78)
 

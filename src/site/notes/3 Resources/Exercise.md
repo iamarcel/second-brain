@@ -24,4 +24,5 @@ The main goal of exercise is to **maintain muscle**, especially as you get older
 - Short bouts of high-intensity exercise
 	- The higher the intensity, the shorter the exercise can be
 	- [[Body By Science\|Body By Science]] (book) explains a 15 minute-a-week hyper-efficient workout: 5 exercises each, heavy weights on a machine, move them slowly for as long as you can. Should be so heavy that you need to give up after 1 minute 30. Increase the weights every week (unless you fail after less than 1 minute).
+	- [[0 Inbox/10X Method\|10X Method]] is in large part very similar to this, but adds more balanced other elements and tries to be a more holistic health approach.
 	- [[Stronglifts 5x5\|Stronglifts 5x5]] is roughly what I do now. Strength training with a barbell. This trains more of the body as a whole, and I like these exercises more than the machine exercises of Body By Science.

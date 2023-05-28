@@ -57,4 +57,4 @@ Then you have a *single subscription* in your file and all the side effects grou
 Often we do a bootstrapping network call when the relevant component first renders. This can take a while, so write a provider that starts the loading on the relevant service already.
 
 # See Also
-- [[textgenerator/prompts/TypeScript\|TypeScript]]
+- [[4 Archive/Notes/TypeScript\|TypeScript]]

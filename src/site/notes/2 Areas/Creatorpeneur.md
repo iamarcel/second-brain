@@ -19,7 +19,7 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 ## Concepts & Statements
 - [[0 Inbox/Your expertise comes from doing the teaching\|Your expertise comes from doing the teaching]]
 - [[0 Inbox/Niche of One\|Niche of One]]
-- [[0 Inbox/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]]
+- [[4 Archive/Notes/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]]
 
 ## Tools
 - [[4 Archive/Notes/Creatorpeneur Tech Stack\|Creatorpeneur Tech Stack]]
@@ -53,7 +53,7 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 | [[0 Inbox/Lead them to the answer but do not give it - Expert Secrets\|Lead them to the answer but do not give it - Expert Secrets]]                                           |
 | [[0 Inbox/Lessons From Online Course Sales - Justin Welsh\|Lessons From Online Course Sales - Justin Welsh]]                                                                   |
 | [[4 Archive/Notes/My Messaging\|My Messaging]]                                                                                                                                 |
-| [[0 Inbox/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]]                                                                         |
+| [[4 Archive/Notes/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]]                                                                 |
 | [[0 Inbox/Niche of One\|Niche of One]]                                                                                                                                         |
 | [[0 Inbox/One-Person Business 1M Revenue in 810 Days - Justin Welsh - Twitter Thread\|One-Person Business 1M Revenue in 810 Days - Justin Welsh - Twitter Thread]]             |
 | [[0 Inbox/Online Courses MOC\|Online Courses MOC]]                                                                                                                             |
@@ -63,7 +63,7 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 | [[0 Inbox/Portfolio Thinking\|Portfolio Thinking]]                                                                                                                             |
 | [[0 Inbox/Red Pill Content\|Red Pill Content]]                                                                                                                                 |
 | [[0 Inbox/Show Your Work - Austin Kleon\|Show Your Work - Austin Kleon]]                                                                                                       |
-| [[0 Inbox/The Creation Pyramid\|The Creation Pyramid]]                                                                                                                         |
+| [[4 Archive/Notes/The Creation Pyramid\|The Creation Pyramid]]                                                                                                                 |
 | [[0 Inbox/The Rise of the Full-Stack Freelancer\|The Rise of the Full-Stack Freelancer]]                                                                                       |
 | [[0 Inbox/The world rewards the best communicators\|The world rewards the best communicators]]                                                                                 |
 | [[0 Inbox/The YouTube Mindset - How to Grow 100 000 Subscribers in One Year\|The YouTube Mindset - How to Grow 100 000 Subscribers in One Year]]                               |
@@ -77,6 +77,7 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 | [[0 Inbox/Your First 6-Figure Online Business - Justin Welsh - The Saturday Solopreneur\|Your First 6-Figure Online Business - Justin Welsh - The Saturday Solopreneur]]       |
 | [[0 Inbox/YouTube Video Production MOC\|YouTube Video Production MOC]]                                                                                                         |
 
+{ .block-language-dataview}
 
 
 

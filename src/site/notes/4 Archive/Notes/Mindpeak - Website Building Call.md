@@ -133,7 +133,7 @@ If your work isn't online, it doesn't exist.
 Imagine if your next boss didn't have to read your resume because he already reads your blog. Imagine being a student and getting your first gig based on a school project you posted online. Imagine losing your job but having a social network of people familiar with your work and ready to help you find a new one.
 
 A website is a [[0 Inbox/Serendipity Vehicle\|Serendipity Vehicle]].
-Visual: attractor model with dots. Website extends your amount of dots, or makes you bigger. Relate to [[0 Inbox/Leverage Stacking\|Leverage Stacking]].
+Visual: attractor model with dots. Website extends your amount of dots, or makes you bigger. Relate to [[4 Archive/Notes/Leverage Stacking\|Leverage Stacking]].
 
 Shout it from the rooftops.
 

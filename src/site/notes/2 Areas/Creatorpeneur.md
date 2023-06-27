@@ -24,6 +24,28 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 ## Tools
 - [[4 Archive/Notes/Creatorpeneur Tech Stack\|Creatorpeneur Tech Stack]]
 
+# Business / App Ideas
+## Quote Card Generator
+Create quote cards in batch, using Remotion. Set up a few templates + design options, maybe generate backgrounds with Stable Diffusion
+
+- I saw someone else doing well with a "carousel generator" for LinkedIn. Had advanced adjustment options which I wouldn't want for myself.
+- Nilesh came up with that idea: I can churn out quotes at breakneck speed but putting them all in Canva is a ton of work.
+
+## Simple Funnels
+Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill in the fields, done. Super fast because it's on Qwik. A few well-designed templates and no advanced builder that would mess up the beauty of your designs.
+
+## [[4 Archive/Notes/AI Resume and Website Builder\|AI Resume and Website Builder]]
+
+## [[4 Archive/Notes/AI Voice Assistant\|AI Voice Assistant]]
+
+## [[4 Archive/Notes/CV Website Course\|CV Website Course]]
+
+## [[4 Archive/Notes/Daily Motivation Bot\|Daily Motivation Bot]]
+
+## [[2 Areas/Reservatie App\|Reservatie App]]
+
+## [[4 Archive/Notes/Prompt Alchemy - My ChatGPT Guide\|Prompt Alchemy - My ChatGPT Guide]]
+
 # All Notes
 | File                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

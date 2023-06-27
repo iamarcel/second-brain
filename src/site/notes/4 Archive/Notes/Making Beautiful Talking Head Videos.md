@@ -5,6 +5,8 @@
 
 tags:: #output/essay [[on/video\|on/video]]
 
+[Watch the video on YouTube](https://www.youtube.com/watch?v=GJ1CTviJ_Ik)
+
 # The 20% of Making Beautiful Talking Head Videos
 Beautiful images are *sticky*, they make your viewers stick around.
 

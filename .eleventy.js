@@ -38,6 +38,7 @@ module.exports = function (eleventyConfig) {
   let markdownLib = markdownIt({
     breaks: true,
     html: true,
+    linkify: true,
   })
     .use(require("markdown-it-anchor"), {
       slugify: headerToId,
@@ -248,7 +249,7 @@ module.exports = function (eleventyConfig) {
         if(deadLink){
           return `<a class="internal-link is-unresolved" href="/404">${title}</a>`;
         }
-        return `<a class="internal-link data-note-icon="${noteIcon}" href="${permalink}${headerLinkPath}">${title}</a>`;
+        return `<a class="internal-link" data-note-icon="${noteIcon}" href="${permalink}${headerLinkPath}">${title}</a>`;
       })
     );
   });

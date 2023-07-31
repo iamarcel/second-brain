@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/the-big-reset-use-ai-to-build-wealth-and-get-ahead-tom-bilyeu-peter-diamandis/"}
 ---
 
-tags:: #source/video [[0 Inbox/GPT\|GPT]] [[3 Resources/AI\|AI]]
+tags:: #source/video [[4 Archive/Notes/Large Language Models\|Large Language Models]] [[3 Resources/AI\|AI]]
 people:: [[Peter Diamandis\|Peter Diamandis]] [[4 Archive/Imported/Tom Bilyeu\|Tom Bilyeu]]
 
 Every company needs a Chief AI Officr. Someone who is on top of their game.

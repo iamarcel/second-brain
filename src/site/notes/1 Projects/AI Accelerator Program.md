@@ -57,3 +57,19 @@ Time saved framing: cost is €124 per week. If you charge €300 per hour, half
 >
 > They are on top of the AI and offer free workshops on how to integrate it into your company. I expect that they will be embedding more AI features soon. 
 
+---
+
+Attract audience through YouTube videos.
+
+- How to automate content marketing with Airtable, GPT-4 and Zapier
+	- Integrate Zapier to generate content
+	- Image generation
+		- Eden AI
+	- Quote card generation
+		- Bannerbear, has documentation for using it with Zapier
+	- Secondary Goals
+		- Show that I'm an AI consultant
+			- The first part, figuring out the steps to take, is crucial. It sounds basic and obvious, but that's only because I've done the work. I understand the landscape of tools and how they can work together. I've investigated and vetted hundreds of AI and non-AI tools, been programming for 17 years and advising businesses in how to use it. I have the insights now and I can show you the way.
+			- The second part, developing, is just executing the steps. That's what I'll show you step by step but maybe you just want to have your hands off and have someone else struggle through it. That's fine. At least you know *it's possible*.
+		- Get people interested in AI Accelerator
+			- If you're interested in saving hours, maybe even more than a day, per week by implementing AI and other high-tech tools, check out the webinar I'm hosting. I teach businesses how to implement AI and when it compounds, oh baby it's so much fun. Because you can focus on what really matters to you, all the rest is easy and automated and just flows. I teach people online in groups where we all learn use cases from each other and I teach specific techniques or I help you figure out how to turn your challenges and ideas into reality. Even if you're not a programmer.

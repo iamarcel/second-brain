@@ -58,6 +58,7 @@ Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill
 | [[1 Projects/Become a Modern Master\|Become a Modern Master]]                                                                                                                  |
 | [[4 Archive/Notes/Brendon Burchard went from earning nothing to financial freedom in 1.5 years\|Brendon Burchard went from earning nothing to financial freedom in 1.5 years]] |
 | [[4 Archive/Notes/Chat Ben Van Delm - 20220821\|Chat Ben Van Delm - 20220821]]                                                                                                 |
+| [[0 Inbox/Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-07-28\|Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-07-28]]     |
 | [[4 Archive/Notes/Creating a Mass Movement - Russell Brunson\|Creating a Mass Movement - Russell Brunson]]                                                                     |
 | [[2 Areas/Creatorpeneur\|Creatorpeneur]]                                                                                                                                       |
 | [[4 Archive/Notes/Creatorpeneur Tech Stack\|Creatorpeneur Tech Stack]]                                                                                                         |

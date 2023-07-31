@@ -3,7 +3,7 @@
 ---
 
 up:: [[0 Inbox/AI-Powered Business - MVU 2023 Workshop\|AI-Powered Business - MVU 2023 Workshop]] [[0 Inbox/Mindvalley University 2023\|Mindvalley University 2023]]
-tags:: [[3 Resources/AI\|AI]] [[0 Inbox/ChatGPT\|ChatGPT]] [[Stable Diffusion\|Stable Diffusion]] #output/workshop 
+tags:: [[3 Resources/AI\|AI]] [[0 Inbox/ChatGPT\|ChatGPT]] [[0 Inbox/Stable Diffusion\|Stable Diffusion]] #output/workshop 
 
 ChatGPT is the cheapest, fastest way to access intelligence on-demand. Think of it like an intern with an infinite amount of time, but they managed to bend spacetime so a day of their work is finished in a few seconds.
 
@@ -15,7 +15,10 @@ So their true power is unlocked once you give your own information. This could b
 
 That's what we'll do today. We'll use some great existing frameworks and get ChatGPT to be our creative thinker. We're in the driver's seat but the AI is doing much of the work.
 
-# Making a Product in 30 Minutes
+# TODO
+- [ ] Explain AIPRM beginner https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj?hl=en
+
+# Making a Product in 1 Hour
 
 https://ms-ai-mastery-example.carrd.co/
 

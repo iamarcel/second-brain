@@ -13,7 +13,7 @@ https://allthingsai.com/?ref=futuretools.io
 [FlowGPT](https://flowgpt.com) - prompts, ranked, trending etc
 [Google Sheet of GPT-3 Prompts](https://docs.google.com/spreadsheets/d/1EuciDyKqFg2CIoQS89tF238oGtJq8a4mRx8kV9eA1Lc/edit#gid=2011839893)
 [Notion page of ChatGPT Tools and Tips](https://entreresource.notion.site/ChatGPT-Prompts-Tools-and-Tips-91a2343b03f3428cb7b2f4298f938733)
-[Cookup.ai](https://cookup.ai/) - Ongoing list of [[0 Inbox/GPT\|GPT]]-3 use cases and prompts
+[Cookup.ai](https://cookup.ai/) - Ongoing list of [[4 Archive/Notes/Large Language Models\|Large Language Models]] use cases and prompts
 
 # Text Generation
 [[0 Inbox/ChatGPT\|ChatGPT]]
@@ -21,7 +21,7 @@ https://allthingsai.com/?ref=futuretools.io
 [Bloom on Huggingface](https://huggingface.co/bigscience/bloom)
 
 # Image Generation
-- Stable Diffusion
+- [[0 Inbox/Stable Diffusion\|Stable Diffusion]]
 - Dreamix: video editing, image to video
 
 # High-Level Tools

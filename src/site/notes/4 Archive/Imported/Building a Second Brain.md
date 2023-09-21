@@ -57,7 +57,7 @@ Creative people are better at recognizing relationships, making associations and
 
 What are the chances that the most creative, most innovative approaches will instantly be top of mind?
 
-“Slow burn:” allowing bits of thought matter to slowly simmer like a selicious pot of stew brewing on the stove. It is a calmer, more sustainable approach to creativity that relies on the gradual accumulation of ideas, instead of all-out binges of magic hustle.
+“Slow burn:” allowing bits of thought matter to slowly simmer like a delicious pot of stew brewing on the stove. It is a calmer, more sustainable approach to creativity that relies on the gradual accumulation of ideas, instead of all-out binges of magic hustle.
 
 #### Sharpens our unique perspectives
 

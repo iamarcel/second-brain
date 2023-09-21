@@ -12,7 +12,7 @@ I specifically search for meeting with guys only as well.
 
 # Improving Activities
 [[4 Archive/Notes/Things to do with friends\|Things to do with friends]]
-[[0 Inbox/Questions to think about with friends\|Questions to think about with friends]]
+[[4 Archive/Notes/Questions to think about with friends\|Questions to think about with friends]]
 [[4 Archive/Notes/Activity - Holiday - Ideas\|Activity - Holiday - Ideas]]
 
 Relations bring life to life.

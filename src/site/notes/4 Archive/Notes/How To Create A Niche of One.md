@@ -3,7 +3,7 @@
 ---
 
 author:: [[Sana A Ahmed\|Sana A Ahmed]]
-up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]
+up:: [[4 Archive/Become a Modern Master\|Become a Modern Master]]
 tags:: #source/article #output/exercise [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[on/problems\|on/problems]] [[3 Resources/Purpose\|Purpose]]
 [Source](https://sanaaahmed.com/how-to-create-a-niche-of-one/)
 

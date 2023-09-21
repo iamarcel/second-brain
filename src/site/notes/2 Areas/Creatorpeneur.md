@@ -6,7 +6,7 @@
 tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 
 # Projects
-[[1 Projects/Become a Modern Master\|Become a Modern Master]]
+[[4 Archive/Become a Modern Master\|Become a Modern Master]]
 
 # Learning
 ## Foundations
@@ -55,10 +55,11 @@ Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill
 | [[4 Archive/Notes/Ali Abdaal Deep Dive - Sahil Bloom - Grew from 0 to 500k\|Ali Abdaal Deep Dive - Sahil Bloom - Grew from 0 to 500k]]                                         |
 | [[4 Archive/Notes/Backstory Framework - Justin Welsh\|Backstory Framework - Justin Welsh]]                                                                                     |
 | [[4 Archive/Notes/Balance mystery and openness\|Balance mystery and openness]]                                                                                                 |
-| [[1 Projects/Become a Modern Master\|Become a Modern Master]]                                                                                                                  |
+| [[4 Archive/Become a Modern Master\|Become a Modern Master]]                                                                                                                   |
 | [[4 Archive/Notes/Brendon Burchard went from earning nothing to financial freedom in 1.5 years\|Brendon Burchard went from earning nothing to financial freedom in 1.5 years]] |
 | [[4 Archive/Notes/Chat Ben Van Delm - 20220821\|Chat Ben Van Delm - 20220821]]                                                                                                 |
 | [[0 Inbox/Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-07-28\|Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-07-28]]     |
+| [[0 Inbox/Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-08-04\|Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-08-04]]     |
 | [[4 Archive/Notes/Creating a Mass Movement - Russell Brunson\|Creating a Mass Movement - Russell Brunson]]                                                                     |
 | [[2 Areas/Creatorpeneur\|Creatorpeneur]]                                                                                                                                       |
 | [[4 Archive/Notes/Creatorpeneur Tech Stack\|Creatorpeneur Tech Stack]]                                                                                                         |

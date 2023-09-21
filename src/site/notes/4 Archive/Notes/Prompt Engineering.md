@@ -43,3 +43,6 @@ Before answering my query, write down:
 - User's Query Evaluation: A critical evaluation of my query in the context of this larger goal, if it makes sense.
 
 Then, answer my query.
+
+### Prompt for improving writing
+> Please edit the passage to improve clarity, flow, and impact. Fix any errors and suggest ways to make it more engaging.

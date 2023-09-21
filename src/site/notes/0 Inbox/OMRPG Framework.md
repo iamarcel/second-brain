@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/omrpg-framework/"}
 ---
 
-tags:: #a/concept [[3 Resources/Productivity\|Productivity]] [[1 Projects/Goals\|Goals]] [[on/planning\|on/planning]] [[Habits\|Habits]]
+tags:: #a/concept [[3 Resources/Productivity\|Productivity]] [[Goals\|Goals]] [[on/planning\|on/planning]] [[Habits\|Habits]]
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
 
 OMRPG Framework

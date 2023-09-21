@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/the-almanack-of-naval-ravikant/"}
 ---
 
-tags:: #source/book [[on/entrepeneurship\|on/entrepeneurship]] [[3 Resources/Productivity\|Productivity]] [[on/happiness\|on/happiness]] 
+tags:: #source/book [[3 Resources/Entrepreneurship\|Entrepreneurship]] [[3 Resources/Productivity\|Productivity]] [[on/happiness\|on/happiness]] 
 author:: [[0 Inbox/Naval Ravikant\|Naval Ravikant]] [[Jack Butcher\|Jack Butcher]]
 read:: true
 

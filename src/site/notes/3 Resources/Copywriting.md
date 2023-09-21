@@ -7,6 +7,7 @@
 [[0 Inbox/Sell Like Crazy Summit\|Sell Like Crazy Summit]]
 
 # Frameworks
+## CPEAS
 Concept: Hook them with a counterintuitive statement that peaks curiosity.  
   
 Pain: Clearly articulate their pain and show them that you understand their frustrations.  
@@ -16,6 +17,10 @@ Explain: Give value, teach and explain why they are in pain.
 Acknowledgement: Justify their failures and throw rocks at their enemies. Tell them that it’s not their fault.  
   
 Solution: Introduce a unique solution to solve their pain.
+
+## Tweet Frameworks
+- [[4 Archive/Notes/Concept Bullets Bring-It-Home - Tweet Framework\|Concept Bullets Bring-It-Home - Tweet Framework]]
+- [[4 Archive/Notes/Three Point of Progress to Framework - Tweet Framework\|Three Point of Progress to Framework - Tweet Framework]]
 
 # Concepts
 [[Say what you want to say, then say what you want to say\|Say what you want to say, then say what you want to say]]
@@ -32,6 +37,7 @@ Solution: Introduce a unique solution to solve their pain.
 > [!NOTE] About
 > The aim of this prompt is to give an LLM very close, explicit guidance on how to write good sales copy.
 
+```
 Let's introduce a new style of writing called EPSW (Emotional Persuasive StoryWriting). Stories written in this style are highly emotional, forming a connection where the reader feels like they're in the shoes of the subject of the story, and have an emotional rollercoaster that goes to deep pain and then back up through a transformation. Finally, in the end it transitions to introducing some product or service that was responsible for the transformation.
 
 The following principles are central to the EPSW writing approach:
@@ -70,5 +76,4 @@ In terms of formatting, keep these guidelines in mind:
 - Add subheadings that tell a story by themselves and summarize the larger text, enticing the reader to continue reading.
 
 Write an EPWS text for the following brief:
-
-==TODO: Give sections a name so ChatGPT can follow it, now it always stops after the subheading with its self-guidance.==
+```

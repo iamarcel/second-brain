@@ -30,12 +30,13 @@ https://allthingsai.com/?ref=futuretools.io
 Tool that tracks and makes all computer activity searchable.
 Feels like it screen records and indexes everything. It's local so that's nice.
 
-*Haven't tried it.*
-
 [Tome](https://beta.tome.app/)
 Online generation tool of slideshow, with story and images.
 
 *Wasn't incredibly impressive the first time I tried, but could be a good way to kickstart a talk.*
+
+[Gamma](https://gamma.app/)
+Slideshow generation.
 
 [BHuman](https://www.bhuman.ai/)
 Mass create personalized video messages.
@@ -71,6 +72,9 @@ Generate blog post from YouTube video link.
 
 [ChatGPT Writer](https://chatgptwriter.ai/)
 Chrome extension that adds a ChatGPT popup to Gmail.
+
+Motion
+Automatically plan your tasks with AI, auto day plan scheduler
 
 ## Search Engines
 [Phind](https://phind.com/)

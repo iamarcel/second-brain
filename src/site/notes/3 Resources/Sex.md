@@ -24,6 +24,8 @@ I have abstained from masturbating a lot over the years, from the supposed nofap
 
 But maybe completely abstaining hurt my endurance. So I'll try the opposite now: endurance training. I can still make sure I don't ejaculate, but masturbate a lot.
 
+One great idea for going down on her: while you're doing it, she closes her eyes and you whisper in her ears what you love about her and how she makes you feel.
+
 ## Penis Enlargement
 I have an above-average penis but this still interests me—even if just for the lulz. Enlarging your penis, I don't know, it feels like it's a joke so I'd have a good internal laugh if I can pull it off.
 

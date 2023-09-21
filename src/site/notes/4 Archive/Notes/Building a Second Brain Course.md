@@ -148,7 +148,7 @@ Tiago showed an 8-item area list. Nice sentence:
 
 - Everything that's in any of your systems that is not clearly a project or area, just move it into the Archive folder. Just put everything in Documents into Archive.
 
-Quote from the Golden Age of Apple: "**I don't care about organizing, I have a creative project.**" Those were the kind of people that succeeded. [[on/creativity\|on/creativity]] [[on/organization\|on/organization]]
+Quote from the Golden Age of Apple: "**I don't care about organizing, I have a creative project.**" Those were the kind of people that succeeded. [[on/creativity\|on/creativity]] [[on/Organization\|Organization]]
 
 ## Unit 3: Session 5
 

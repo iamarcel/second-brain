@@ -335,4 +335,4 @@ Spend time building *systems* that provide value without needing (much) time and
 
 
 # References
-- [[0 Inbox/Work the System\|Work the System]]
+- [[0 Inbox/Work the System - Sam Carpenter\|Work the System - Sam Carpenter]]

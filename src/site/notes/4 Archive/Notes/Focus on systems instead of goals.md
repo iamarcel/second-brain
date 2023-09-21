@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/focus-on-systems-instead-of-goals/"}
 ---
 
-tags:: [[3 Resources/Productivity\|Productivity]] [[1 Projects/Goals\|Goals]] [[on/systems\|on/systems]]
+tags:: [[3 Resources/Productivity\|Productivity]] [[Goals\|Goals]] [[on/systems\|on/systems]]
 author:: [[James Clear\|James Clear]]
 [Source](https://jamesclear.com/goals-systems)
 

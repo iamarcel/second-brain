@@ -3,7 +3,7 @@
 ---
 
 tags:: #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[3 Resources/Purpose\|Purpose]]
-up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]
+up:: [[4 Archive/Become a Modern Master\|Become a Modern Master]]
 
 [[0 Inbox/Naval Ravikant\|Naval Ravikant]]: The way to get out of the competition trap is to be authentic.
 

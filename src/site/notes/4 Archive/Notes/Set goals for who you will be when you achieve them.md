@@ -3,7 +3,7 @@
 ---
 
 
-tags:: #a/statement  [[1 Projects/Goals\|Goals]] [[on/happiness\|on/happiness]] [[3 Resources/Purpose\|Purpose]] [[on/fulfillment\|on/fulfillment]]
+tags:: #a/statement  [[Goals\|Goals]] [[on/happiness\|on/happiness]] [[3 Resources/Purpose\|Purpose]] [[on/fulfillment\|on/fulfillment]]
 
 > The reason that most of us are unhappy most of the time is that we set our goals — not for the person we’re going to be when we reach them — we set our goals for the person we are when we set them. (Jim Coudal)
 

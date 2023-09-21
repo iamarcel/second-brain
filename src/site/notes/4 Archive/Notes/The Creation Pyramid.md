@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/the-creation-pyramid/"}
 ---
 
-tags:: #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[2 Areas/Writing\|Writing]] [[1 Projects/Become a Modern Master\|Become a Modern Master]]
+tags:: #a/concept [[2 Areas/Creatorpeneur\|Creatorpeneur]] [[2 Areas/Writing\|Writing]] [[4 Archive/Become a Modern Master\|Become a Modern Master]]
 author:: [[4 Archive/Notes/Dan Koe\|Dan Koe]]
 
 ![Pasted image 20221210163911.png](/img/user/0%20Inbox/Pasted%20image%2020221210163911.png)

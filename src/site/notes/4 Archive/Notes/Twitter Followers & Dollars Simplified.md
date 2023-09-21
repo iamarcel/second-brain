@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/twitter-followers-and-dollars-simplified/"}
 ---
 
-up:: [[1 Projects/Become a Modern Master\|Become a Modern Master]]
+up:: [[4 Archive/Become a Modern Master\|Become a Modern Master]]
 author:: [[4 Archive/Notes/Dan Koe\|Dan Koe]]
 tags:: #source/video-course [[Twitter\|Twitter]] [[0 Inbox/Social Media\|Social Media]]
 

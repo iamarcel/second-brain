@@ -43,7 +43,7 @@ Something disrupts the comfort.
 ### Refusal of the Call
 Hero is overwhelmed and believes problem is beyond their capabilities.
 Communicates the risks to the journey ahead.
-Remaning here deteriorates life and relationships.
+Remaining here deteriorates life and relationships.
 Hero desperately guidance:
 ### Meeting with the Mentor
 Leads hero eventually to the realization that personal change is required.

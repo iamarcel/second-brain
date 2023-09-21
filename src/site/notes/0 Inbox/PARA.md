@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/para/"}
 ---
 
-tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/organization\|on/organization]] 
+tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/Organization\|Organization]] 
 author:: [[4 Archive/Imported/Tiago Forte\|Tiago Forte]]
 up:: [[2 Areas/Second Brain\|Second Brain]]
 

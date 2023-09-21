@@ -3,7 +3,7 @@
 ---
 
 author:: [[Sam Ovens\|Sam Ovens]]
-tags:: [[3 Resources/Philosophy\|Philosophy]] [[on/entrepeneurship\|on/entrepeneurship]] [[2 Areas/Coaching\|Coaching]] [[4 Archive/Notes/Motivation\|Motivation]]
+tags:: [[3 Resources/Philosophy\|Philosophy]] [[3 Resources/Entrepreneurship\|Entrepreneurship]] [[2 Areas/Coaching\|Coaching]] [[4 Archive/Notes/Motivation\|Motivation]]
 
 It's all you. You're the dark force holding yourself back.
 

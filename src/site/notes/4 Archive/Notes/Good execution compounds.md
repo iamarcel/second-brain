@@ -7,7 +7,7 @@ up:: [[4 Archive/Notes/Execution is Exponential - Divinations\|Execution is Expo
 
 Tasks typically follow each other, in a more or less funnel-kind of way. This means that improvements in earlier steps propagate to later steps, and small improvements across each step compound into much greater improvements for the whole system.
 
-[[0 Inbox/Work the System\|Work the System]] is one of the books that explores systematizing, which is a universal way of improving execution.
+[[0 Inbox/Work the System - Sam Carpenter\|Work the System - Sam Carpenter]] is one of the books that explores systematizing, which is a universal way of improving execution.
 
 Also, [[0 Inbox/Goodness is viral\|Goodness is viral]]. It leads to increased morale, raises the bar for everyone, and the energy is contagious.
 

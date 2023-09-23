@@ -195,6 +195,21 @@ Presentation and Communication:
 
 - Helping with presentation content
 
+## What People Use Automations For
+Tim:
+- Filtering incoming traffic
+- When I'm writing an email I'm using ChatGPT to make it more understandable
+- Booking links: agenda synced
+- Information flows
+- Just using the built-in features
+
+Michael:
+- It helped me switching one email to another
+	- Forward
+	- Autoreply (this is the old email)
+
+One person in the team doesn't speak English. She get the video, description in Spanish, translate.
+
 ---
 
 # Attract audience through YouTube videos.

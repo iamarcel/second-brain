@@ -3,7 +3,7 @@
 ---
 
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
-tag:: #source/video [[3 Resources/Public Speaking\|Public Speaking]]
+tags:: #source/video [[3 Resources/Public Speaking\|Public Speaking]]
 
 # Secrets to Stage Presentations
 

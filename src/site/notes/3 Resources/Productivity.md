@@ -9,7 +9,7 @@ tags:: #a/moc
 [[0 Inbox/Personal Productivity Network\|Personal Productivity Network]]
 [[4 Archive/Imported/Intermediate Packets\|Intermediate Packets]]
 [[0 Inbox/Out-of-Order Execution\|Out-of-Order Execution]]
-[[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]
+[[4 Archive/Notes/Just-In-Time Planning\|Just-In-Time Planning]]
 [[Standard Operating Procedure\|Standard Operating Procedure]]
 
 # Statements

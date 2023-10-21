@@ -355,3 +355,136 @@ Life itself is the feminine. There is never a shortage of feminine energy, only 
 Whenever you are feeling isolated and weary, feel the present moment as if it were a woman.
 
 Relax your body and feel the ocean of feminine energy around you. Feel your surroundings as her form, the sounds around you as her moans and laughter, and the light around you as her smile. Actually relax with the moment as you would relax with your lover, not metaphorically but literally, bodily, with full intention and presence.
+
+---
+
+# The Teaching Lessons
+## A Man's Way
+You don't know what's going to happen the next moment. Life is a complete, continuous mystery.
+
+What if you would die in three days? What would you need to give?
+
+Man is consciousness, stillness. Masculine energy is what is present, what stays when everything around changes. Feminine energy is constantly flowing, changing.
+
+**Practice stillness.** This awakens your masculine energy.
+
+**Give your deepest gift now.** Don't wait if you don't know your deepest purpose yet, or if you need to make money. Set aside 30 minutes each day to start giving what you believe your deepest give is. Today. It's okay if it changes tomorrow.
+
+How do you know your deepest purpose when your mind is constantly changing? Your relationship to your own changing mind and changing body, is your relationship to your *feminine* energy. So to find your deepest *masculine* purpose, you must learn to love your mind and body in their ever-changing state, without believing it too much.
+
+From stage 1 to stage 2, where you become independent, you learn to trust the body and mind. But from stage 2 to 3 you learn to not trust it. You know they are worthy to be deeply loved, but your essence is much deeper than anything in the mind, or in the body.
+
+**Our sense of purpose is never discovered in something we can think.**
+
+A man's thoughts come and go, but his consciousness thus his purpose stays.
+
+When she feels him changing his purpose every day, she cannot trust him as he's attending to the fluctuations of his thoughts instead of attending to the constant deeper purpose that's in his heart. The feminine will only be able to trust the masculine when it's rooted in this never-changing root. The expression is always changing, like an artist. But if it's true, real, sourced in depth—it always comes through through this expression.
+
+For that he needs the capacity to be still with his ever-changing thoughts, his dance as much as to be still with the dance of his woman. The capacity to feel depth, love the dancing. Feel his lover as she is without trying to change her and **without necessarily believing what she says any more than he believes his own mind**. He listens to them more as he would listen to a song, or the wind rustling, or the waves crashing. It doesn't tell you what to do—it's an *expression* of your deepest heart. Don't listen to the expression, listen to the *source* of the expression. How? A lot of it is emotional. Are we willing to feel the constantly changing feminine, without hoping at some point the feminine will make sense? One of the masculine's mistakes is trying to get to some kind of singular resolution.
+
+The feminine doesn't want to bring anything to the end. So if a man thinks his mind will at some point get to a singular purpose, he simply got the wrong assumption.
+
+Simultaneously be with this, and source yourself in death. An in-the-moment *feeling* realization. What is deeper than anything that appears?
+
+Learn to dance with all the feminine.
+
+The deepest part of your being is the deepest part of all being.
+
+**You will never know your purpose in mind. Ever.** Your mind is *only change*. Your purpose is sourced in where you go when you fall asleep and deeper. Where you are born from and where you are born moment to moment. From that depth of being you dance with her, that is your mind, the world, your lover, the weather, the politics. And you do not lose continuity with what never changes.
+
+So if you're waiting for your purpose to appear in your mind you'll literally be waiting your entire life.
+
+If you stop waiting to know your purpose in mind, for your woman to reflect your purpose, for the world to reflect your purpose—and instead feel your motivation from your deepest consciousness and then express it *into* the world of woman, world, body, that is the beginning of being a superior man in the world.
+
+The way of the superior man is to embrace that dance with love. To feel Evey nuance of her dance, your mind, with feeling and vulnerability. And at the same time to source yourself in death. What was before, after me, what is deeper than everything else?
+
+You will never know your purpose in mind, ever.
+
+## Dealing with women
+Relationship with your mind = with women.
+
+Do you believe your mind? It's like the weather and the wind and the weather. It has wisdom but can also randomly fluctuate.
+
+The weather doesn't lie.
+
+As a man you need to learn to feel the feminine, listen to it, because there's often much wisdom, intuitive depth, deeper connection to the nuances of life that you never might have. It might simply be an expression of her weather too. She simply expresses the flow that is true in the moment.
+
+Trust your mind is sourced in depth but also know it's simply a bubble at the top of the waves.
+
+Asking how do you feel often makes it worse. Because often she can't put it into words. Her words don't necessarily mean what we think they mean. Like taking the ocean and putting it into a little box.
+
+Don't try to know what she's feeling, feel what she is feeling. You can learn to feel into her heart. In a third stage relationship often you feel her heart deeper than she can and she feels yours deeper than you can.
+
+To analyze what she means is almost by definition to reduce her to the limits of your own mind. And she is much deeper, much more complex, mysterious, full, than your own verbal mind will ever be able to grasp. And so are you.
+
+The masculine is always trying to reduce to the simplest possible rules.
+
+**The masculine is always trying to reduce the fullness to live to the emptiness of consciousness.** He's always trying to empty the mind. Get it to nothing.
+
+So in conversation she's not there to have you get the conversation to a close. If you're not giving you that presence, she will do anything to bring you to that presence. Anything is better than an empty shelf, whatever it is. To her, the meaning *is the conversation*, not the resolution.
+
+The masculine wants to find a resolution for a conversation—for the feminine, the conversation *is* the purpose.
+
+So in conversation it's important to embrace her values as much as yours. She is bringing you life, motion, emotion. **She *is* the miracle of life** and light and nature and emotion. You are that that is unaffected by motion and emotion.
+
+Because the feminine is energy, life force, the motion of love, is light dancing—the feminine is both the most attractive thing there is to men, as the most confusing, chaotic and sometimes even repulsive.
+
+Here you've chosen this woman for her spontaneity, her life, her love she shines—at the same time when she wants to shine that light you have to say no. It's very important to feel your deepest purpose. How do you need to live so you can die complete? What are you willing to be responsible for? Outside of that chosen responsibility, let her manifest light and beauty in her way. You might learn a lot. Yeah sometimes you need to mediate,  it more often the little things don't matter that much. Let her deal with what's very important to her and you with what is to you. Give feedback.
+
+She who turns you on most, sexually, will be who turns you off most during the rest of your life. In your masculine, trying to get something done, her feminine energy might be an obstruction to you. How is that? This is the way it always is.
+
+Chinese symbol for sex: flowering combat. Dancing, pleasureble opposition. If you stay connected to your heart, everything she says is connected to your deepest source. If it doesn't deepen your heart or her heart you might need to halt the conversation.
+
+So you need to decide: why are you together with your woman? If you're not clear, everything will muddle together. Decide the single most important reason.
+
+How does sex add to or subtract from our deepest purpose?
+
+Learn to understand the feminine energy you need to receive in order to stay inspired to keep giving your deepest gift.
+
+
+She wants to feel you are not dependent on her in order to be able to give your deepest gift fully. She can only trust you if she knows your heart isn't bending to her will.
+
+**She wants to feel divinity itself motivating your life and motivating your desire to be with her.** She wants to feel loved and taken by God when she is loved and taken by you. Therefore divinity is what's most important to you and to her.
+
+So if you still come after her even if you don't feel this divinity, you're following superficial desires. She won't want to choose you. Because you're not complete.
+
+Therefore, choose to be with a partner who chooses tobe with you.
+
+Her deepest desire is to feel the inexplicable divine that is inside all of us.
+
+So at some point in any pursuit of a woman you have to demonstratie your deepest desire. I love you but I love God more than chasing you.
+
+**She wants to feel your deepest desire**. (Which might include he)
+
+The Superior Man feels the feminine around him, so much that it sort of comes from within. He doesn't chase it, he doesn't leave it alone either, he just gives with the purpose of giving to connect with god.
+
+For both the evolved masculine and feminine, they transition from needing to take in order to grow their masculine or feminine, to wanting to do the same but with the purpose of *giving*.
+
+She will become a slut for God. Using her feminine energy to enchant you into divinity, but she will also be cally and ready to chop your head off if you're not ready, if you're not present. As you both grow she will become more and more lovingly willing to chop your head off. Then you can feel true divinity as she offers you uninhibited surrender. Take me, she says, take me if you dare. And it is that "if you dare" that separates the bimbo from the goddess.
+
+She will take you so deeply that you disappear into divinity, but if you give her less than your heart, she will chop off your head. And a superior man welcomes that in his partner.
+
+Because the masculine is always striving towards ultimate freedom, committing feels like a restriction, limiting the possibilities of the abundant everything. The masculine is inherently opposed in a way to commitment.
+
+### Feminine Attractiveness
+If you identify with the masculine, when you totally relaxed you rest as consciousness. Pure awareness. The reflecting mirror to all that is happening. And all that is happening, that moves, that changes—is the feminine.
+
+So the man's relationship to all appearance is his relationship to women.
+
+The desire for peace is a completely masculine desire.
+
+As we relax, we find that intense emotions, the weather, storms—are not different from consciousness. They are the light of consciousness itself. There is no need to change the weather pattern, outside or in your partner.
+
+**In the third stage, the masculine doesn't rest in consciousness separate from the feminine—instead he rests as consciousness *appearing as* the feminine.**
+
+**When your heart feels lust, it becomes inspiration. You want to *give*.***
+
+How you interact with every moment is how you interact with your woman.
+
+This moment can be embraced as a woman.
+
+**Relax so deeply that it feels like you're so deeply inside your woman, literally. Breath is full, heart is open, skin is relaxed, mind is relaxed—all practices that can be done every single moment.**
+
+When you're turned off by this moment it's the same as when you're turned off by your woman. Same practices. Stop, feel your deepest purpose. What are you here for? How do you give your deepest purpose to this woman, this world, which may no longer turn you on? How do we continue giving our gifts even if in the moment our lesser desires are repulsed by what appears?
+
+The way of the superior man is feeling what is *always true*. Which is love, or consciousness—they're the same. Your obligation is to enter the moment and open it as consciousness as love. Enter your woman and open her.

@@ -4,7 +4,7 @@
 
 tags:: #a/concept 
 author:: [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]
-up:: [[0 Inbox/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]
+up:: [[4 Archive/Notes/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]
 
 The basic framework to structure your email sequences / promotions.
 

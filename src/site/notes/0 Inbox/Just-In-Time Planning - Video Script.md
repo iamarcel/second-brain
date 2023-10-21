@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/just-in-time-planning-video-script/"}
 ---
 
-Script about [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]].
+Script about [[4 Archive/Notes/Just-In-Time Planning\|Just-In-Time Planning]].
 
 # Brainstorm
 ## For who is this video?

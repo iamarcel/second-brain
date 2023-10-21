@@ -49,6 +49,7 @@ Here are some links to content that is already published on this site. There's a
 - [[2 Areas/Creatorpeneur\|Creatorpeneur]]
 - [[2 Areas/Health\|Health]]
 - [[2 Areas/Second Brain\|Second Brain]]
+- [[2 Areas/Self-Obsolescence\|Self-Obsolescence]]
 
 { .block-language-dataview}
 
@@ -70,6 +71,7 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Emotional Contagion\|Emotional Contagion]]
 - [[4 Archive/Notes/Emotional Professionalism\|Emotional Professionalism]]
 - [[4 Archive/Notes/Evergreen Note\|Evergreen Note]]
+- [[4 Archive/Notes/Factored Cognition\|Factored Cognition]]
 - [[4 Archive/Notes/Flow\|Flow]]
 - [[4 Archive/Notes/Flow-First Work\|Flow-First Work]]
 - [[4 Archive/Notes/Free Workouts\|Free Workouts]]
@@ -77,7 +79,7 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Gödel's Incompleteness Theorems\|Gödel's Incompleteness Theorems]]
 - [[4 Archive/Notes/Higher-Order Traits\|Higher-Order Traits]]
 - [[4 Archive/Notes/Idea Emergence\|Idea Emergence]]
-- [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]
+- [[4 Archive/Notes/Just-In-Time Planning\|Just-In-Time Planning]]
 - [[4 Archive/Imported/Kayfabe\|Kayfabe]]
 - [[4 Archive/Notes/Lean Writing\|Lean Writing]]
 - [[4 Archive/Notes/Leap of Insight\|Leap of Insight]]
@@ -87,6 +89,7 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Mental Squeeze Point\|Mental Squeeze Point]]
 - [[4 Archive/Notes/Minimally Viably Competent\|Minimally Viably Competent]]
 - [[4 Archive/Notes/Mise en place\|Mise en place]]
+- [[4 Archive/Notes/Modern Mastery - Dan Koe\|Modern Mastery - Dan Koe]]
 - [[4 Archive/Notes/Multifinality\|Multifinality]]
 - [[4 Archive/Notes/Multipotentiality\|Multipotentiality]]
 - [[4 Archive/Notes/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]]
@@ -205,10 +208,10 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/A Framework For a Virtuous Life - Call with Tales\|A Framework For a Virtuous Life - Call with Tales]]                                                                                                                         |
 | [[4 Archive/Notes/A More Complete Beast - Jack Donovan - Book\|A More Complete Beast - Jack Donovan - Book]]                                                                                                                                     |
 | [[3 Resources/AI\|AI]]                                                                                                                                                                                                                           |
-| [[1 Projects/AI Accelerator Program\|AI Accelerator Program]]                                                                                                                                                                                    |
 | [[4 Archive/Notes/AI Notes Group Lesson - Airtable\|AI Notes Group Lesson - Airtable]]                                                                                                                                                           |
 | [[4 Archive/Notes/AI Summit\|AI Summit]]                                                                                                                                                                                                         |
 | [[0 Inbox/AI Tools\|AI Tools]]                                                                                                                                                                                                                   |
+| [[4 Archive/Notes/AI-assisted Decision-making - Dan Shipper - Every\|AI-assisted Decision-making - Dan Shipper - Every]]                                                                                                                         |
 | [[4 Archive/Notes/Airtable AI - Powerful new features to govern and scale with ease\|Airtable AI - Powerful new features to govern and scale with ease]]                                                                                         |
 | [[4 Archive/Notes/Angular\|Angular]]                                                                                                                                                                                                             |
 | [[0 Inbox/Antibiotics\|Antibiotics]]                                                                                                                                                                                                             |
@@ -216,6 +219,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Ascension Attention\|Ascension Attention]]                                                                                                                                                                                     |
 | [[4 Archive/Notes/Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do\|Athletes and musicians pursue virtuosity in fundamental skills much more rigorously than knowledge workers do]] |
 | [[4 Archive/Notes/Awakening From the Meaning Crisis - John Vervaeke\|Awakening From the Meaning Crisis - John Vervaeke]]                                                                                                                         |
+| [[4 Archive/Become a Modern Master\|Become a Modern Master]]                                                                                                                                                                                     |
 | [[4 Archive/Imported/Becoming_a_Successful_Photographer\|Becoming_a_Successful_Photographer]]                                                                                                                                                    |
 | [[4 Archive/Notes/Beginner photography Mistakes - Video Script\|Beginner photography Mistakes - Video Script]]                                                                                                                                   |
 | [[4 Archive/Notes/Beyond Perfection - How AI Unleashes Creativity by Lowering Our Standards - Tiago Forte\|Beyond Perfection - How AI Unleashes Creativity by Lowering Our Standards - Tiago Forte]]                                             |
@@ -273,6 +277,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Expert Secrets\|Expert Secrets]]                                                                                                                                                                                               |
 | [[3 Resources/Eyesight\|Eyesight]]                                                                                                                                                                                                               |
 | [[4 Archive/Notes/Facebook Ads\|Facebook Ads]]                                                                                                                                                                                                   |
+| [[4 Archive/Notes/Factored Cognition\|Factored Cognition]]                                                                                                                                                                                       |
 | [[0 Inbox/Failure\|Failure]]                                                                                                                                                                                                                     |
 | [[3 Resources/Fashion\|Fashion]]                                                                                                                                                                                                                 |
 | [[4 Archive/Imported/Filmmaking_for_Photographers\|Filmmaking_for_Photographers]]                                                                                                                                                                |
@@ -284,6 +289,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Four Thousand Weeks\|Four Thousand Weeks]]                                                                                                                                                                                     |
 | [[4 Archive/Notes/Free Workouts\|Free Workouts]]                                                                                                                                                                                                 |
 | [[0 Inbox/Furry\|Furry]]                                                                                                                                                                                                                         |
+| [[0 Inbox/General Transformation Course Process Structure - How To Create Anything\|General Transformation Course Process Structure - How To Create Anything]]                                                                                   |
 | [[4 Archive/Notes/Generative AI - Impact on Performance and Satisfaction\|Generative AI - Impact on Performance and Satisfaction]]                                                                                                               |
 | [[4 Archive/Notes/Get Rich Quick Schemes\|Get Rich Quick Schemes]]                                                                                                                                                                               |
 | [[4 Archive/Notes/Glitch Hopping\|Glitch Hopping]]                                                                                                                                                                                               |
@@ -309,7 +315,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Jeans\|Jeans]]                                                                                                                                                                                                                 |
 | [[0 Inbox/John Vervaeke - Jordan Hall - Explorations in Meaning\|John Vervaeke - Jordan Hall - Explorations in Meaning]]                                                                                                                         |
 | [[0 Inbox/Just-in-time learning bypasses overwhelm\|Just-in-time learning bypasses overwhelm]]                                                                                                                                                   |
-| [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]                                                                                                                                                                                         |
+| [[4 Archive/Notes/Just-In-Time Planning\|Just-In-Time Planning]]                                                                                                                                                                                 |
 | [[0 Inbox/Just-In-Time Planning - Video Script\|Just-In-Time Planning - Video Script]]                                                                                                                                                           |
 | [[4 Archive/Imported/Kayfabe\|Kayfabe]]                                                                                                                                                                                                          |
 | [[4 Archive/Notes/Large Language Models\|Large Language Models]]                                                                                                                                                                                 |
@@ -338,6 +344,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Mise en place\|Mise en place]]                                                                                                                                                                                                 |
 | [[4 Archive/Notes/Mix Your Voice With AI - How To Write Anything Using The 5 Different Types Of Writing Voices\|Mix Your Voice With AI - How To Write Anything Using The 5 Different Types Of Writing Voices]]                                   |
 | [[4 Archive/Notes/Models - Attract Women Through Honesty - Mark Manson\|Models - Attract Women Through Honesty - Mark Manson]]                                                                                                                   |
+| [[4 Archive/Notes/Modern Mastery - Dan Koe\|Modern Mastery - Dan Koe]]                                                                                                                                                                           |
 | [[4 Archive/Notes/Monday Week Winning Workshop\|Monday Week Winning Workshop]]                                                                                                                                                                   |
 | [[4 Archive/Notes/Morning Journal\|Morning Journal]]                                                                                                                                                                                             |
 | [[3 Resources/Moving\|Moving]]                                                                                                                                                                                                                   |
@@ -404,6 +411,7 @@ Here are some links to content that is already published on this site. There's a
 | [[2 Areas/Second Brain\|Second Brain]]                                                                                                                                                                                                           |
 | [[4 Archive/Notes/Secrets to Stage Presentations - Brendon Burchard\|Secrets to Stage Presentations - Brendon Burchard]]                                                                                                                         |
 | [[4 Archive/Imported/Self-Hosting\|Self-Hosting]]                                                                                                                                                                                                |
+| [[2 Areas/Self-Obsolescence\|Self-Obsolescence]]                                                                                                                                                                                                 |
 | [[4 Archive/Notes/Sell Like Crazy\|Sell Like Crazy]]                                                                                                                                                                                             |
 | [[4 Archive/Notes/Set goals for who you will be when you achieve them\|Set goals for who you will be when you achieve them]]                                                                                                                     |
 | [[3 Resources/Sex\|Sex]]                                                                                                                                                                                                                         |
@@ -431,8 +439,8 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/The Almanack of Naval Ravikant\|The Almanack of Naval Ravikant]]                                                                                                                                                               |
 | [[4 Archive/Notes/The Art of Culture War - Jordan Hall\|The Art of Culture War - Jordan Hall]]                                                                                                                                                   |
 | [[4 Archive/Notes/The Big Reset - Use AI To Build Wealth And Get Ahead - Tom Bilyeu Peter Diamandis\|The Big Reset - Use AI To Build Wealth And Get Ahead - Tom Bilyeu Peter Diamandis]]                                                         |
-| [[4 Archive/Notes/The Ceiling\|The Ceiling]]                                                                                                                                                                                                     |
 | [[0 Inbox/The Ceiling\|The Ceiling]]                                                                                                                                                                                                             |
+| [[4 Archive/Notes/The Ceiling\|The Ceiling]]                                                                                                                                                                                                     |
 | [[0 Inbox/The constant low-grade chaos of life\|The constant low-grade chaos of life]]                                                                                                                                                           |
 | [[4 Archive/Notes/The Creation Pyramid\|The Creation Pyramid]]                                                                                                                                                                                   |
 | [[4 Archive/Notes/The Dark World of New Age Gurus\|The Dark World of New Age Gurus]]                                                                                                                                                             |
@@ -453,6 +461,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/The Way of the Superior Man\|The Way of the Superior Man]]                                                                                                                                                                     |
 | [[4 Archive/Notes/Things to do with friends\|Things to do with friends]]                                                                                                                                                                         |
 | [[4 Archive/Notes/This is the struggle - Tweet\|This is the struggle - Tweet]]                                                                                                                                                                   |
+| [[0 Inbox/Thought Leader Roadmap\|Thought Leader Roadmap]]                                                                                                                                                                                       |
 | [[4 Archive/Notes/Thought Mining\|Thought Mining]]                                                                                                                                                                                               |
 | [[4 Archive/Notes/Three Point of Progress to Framework - Tweet Framework\|Three Point of Progress to Framework - Tweet Framework]]                                                                                                               |
 | [[4 Archive/Imported/Tiago Forte\|Tiago Forte]]                                                                                                                                                                                                  |
@@ -469,7 +478,8 @@ Here are some links to content that is already published on this site. There's a
 | [[0 Inbox/Tool Learning with Foundation Models\|Tool Learning with Foundation Models]]                                                                                                                                                           |
 | [[4 Archive/Notes/ToolAlpaca - Generalized Tool Learning for Language Models with 3000 Simulated Cases\|ToolAlpaca - Generalized Tool Learning for Language Models with 3000 Simulated Cases]]                                                   |
 | [[3 Resources/Tools\|Tools]]                                                                                                                                                                                                                     |
-| [[0 Inbox/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]                                                                                                                                               |
+| [[4 Archive/Notes/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]                                                                                                                                       |
+| [[4 Archive/Notes/True Leisure and the Tyranny of Total Work - Michael Ashcroft\|True Leisure and the Tyranny of Total Work - Michael Ashcroft]]                                                                                                 |
 | [[4 Archive/Notes/Tunch\|Tunch]]                                                                                                                                                                                                                 |
 | [[4 Archive/Notes/Twitter Followers & Dollars Simplified\|Twitter Followers & Dollars Simplified]]                                                                                                                                               |
 | [[4 Archive/Notes/TypeScript\|TypeScript]]                                                                                                                                                                                                       |
@@ -483,6 +493,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Imported/Weekly Assessment\|Weekly Assessment]]                                                                                                                                                                                      |
 | [[4 Archive/Notes/What Creates My Emotional Experience\|What Creates My Emotional Experience]]                                                                                                                                                   |
 | [[4 Archive/Notes/What if you didn’t need money or attention - Derek Sivers\|What if you didn’t need money or attention - Derek Sivers]]                                                                                                         |
+| [[4 Archive/Notes/What Women Like About Men\|What Women Like About Men]]                                                                                                                                                                         |
 | [[0 Inbox/What women mean when they say a man is handsome\|What women mean when they say a man is handsome]]                                                                                                                                     |
 | [[0 Inbox/What you're selling is the implementation\|What you're selling is the implementation]]                                                                                                                                                 |
 | [[4 Archive/Notes/When you feel like a failure\|When you feel like a failure]]                                                                                                                                                                   |

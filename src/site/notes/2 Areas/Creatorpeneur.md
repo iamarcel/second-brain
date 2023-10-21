@@ -13,7 +13,7 @@ tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 - [[4 Archive/Notes/How to profit from solving your own problems - Dan Koe\|How to profit from solving your own problems - Dan Koe]]
 - [[4 Archive/Notes/How Writing Online Made me a Millionaire - Ali Abdaal\|How Writing Online Made me a Millionaire - Ali Abdaal]]
 - [[0 Inbox/The Rise of the Full-Stack Freelancer\|The Rise of the Full-Stack Freelancer]]
-- [[0 Inbox/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]
+- [[4 Archive/Notes/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]
 - [[4 Archive/Notes/Modern Mastery - Dan Koe\|Modern Mastery - Dan Koe]]
 
 ## Concepts & Statements
@@ -57,6 +57,7 @@ Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill
 | [[4 Archive/Notes/Balance mystery and openness\|Balance mystery and openness]]                                                                                                 |
 | [[4 Archive/Become a Modern Master\|Become a Modern Master]]                                                                                                                   |
 | [[4 Archive/Notes/Brendon Burchard went from earning nothing to financial freedom in 1.5 years\|Brendon Burchard went from earning nothing to financial freedom in 1.5 years]] |
+| [[0 Inbox/Building an Expert Empire - Brendon Burchard\|Building an Expert Empire - Brendon Burchard]]                                                                         |
 | [[4 Archive/Notes/Chat Ben Van Delm - 20220821\|Chat Ben Van Delm - 20220821]]                                                                                                 |
 | [[0 Inbox/Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-07-28\|Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-07-28]]     |
 | [[0 Inbox/Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-08-04\|Chat with Marcel Szenessy - Seminarpartner AI Workshop Brainstorm - 2023-08-04]]     |
@@ -67,6 +68,7 @@ Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill
 | [[4 Archive/Notes/Expert Secrets\|Expert Secrets]]                                                                                                                             |
 | [[0 Inbox/Fame is the most efficient business model\|Fame is the most efficient business model]]                                                                               |
 | [[4 Archive/Notes/From 5 Months of Cash to 2 Million - Ankur Warikoo - Twitter Thread\|From 5 Months of Cash to 2 Million - Ankur Warikoo - Twitter Thread]]                   |
+| [[0 Inbox/General Transformation Course Process Structure - How To Create Anything\|General Transformation Course Process Structure - How To Create Anything]]                 |
 | [[4 Archive/Notes/Grow Followers and Make Money - Adewuyi Tamilore - Twitter Thread\|Grow Followers and Make Money - Adewuyi Tamilore - Twitter Thread]]                       |
 | [[4 Archive/Notes/Guide - Build a Niche of One - Justin Welsh\|Guide - Build a Niche of One - Justin Welsh]]                                                                   |
 | [[4 Archive/Notes/How to build a perspective\|How to build a perspective]]                                                                                                     |
@@ -91,7 +93,7 @@ Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill
 | [[0 Inbox/The Rise of the Full-Stack Freelancer\|The Rise of the Full-Stack Freelancer]]                                                                                       |
 | [[0 Inbox/The world rewards the best communicators\|The world rewards the best communicators]]                                                                                 |
 | [[0 Inbox/The YouTube Mindset - How to Grow 100 000 Subscribers in One Year\|The YouTube Mindset - How to Grow 100 000 Subscribers in One Year]]                               |
-| [[0 Inbox/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]                                                                             |
+| [[4 Archive/Notes/Total Product Blueprint - Brendon Burchard\|Total Product Blueprint - Brendon Burchard]]                                                                     |
 | [[4 Archive/Notes/Tweets - Charles Miller\|Tweets - Charles Miller]]                                                                                                           |
 | [[0 Inbox/What do you pick to sell? Everything\|What do you pick to sell? Everything]]                                                                                         |
 | [[0 Inbox/What you're selling is the implementation\|What you're selling is the implementation]]                                                                               |

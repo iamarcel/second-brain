@@ -6,7 +6,7 @@ tags:: #output/essay [[wip\|wip]] #a/concept
 
 Basically a manifesto for the Gardener way of working.
 Be rooted when working.
-JIT organization. [[0 Inbox/Just-In-Time Planning\|Just-In-Time Planning]]
+JIT organization. [[4 Archive/Notes/Just-In-Time Planning\|Just-In-Time Planning]]
 [[0 Inbox/Personal Productivity Network\|Personal Productivity Network]]
 [[0 Inbox/Pipelining\|Pipelining]]
 [[0 Inbox/Out-of-Order Execution\|Out-of-Order Execution]]

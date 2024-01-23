@@ -2,8 +2,11 @@
 {"dg-publish":true,"permalink":"/3-resources/fashion/"}
 ---
 
+# Women’s Vendors
+Gorgeous dresses, comfortable too:
+https://www.aym-studio.com
 
-# Vendors
+# Men’s Vendors
 ## Rosen-X (Nice [[3 Resources/Techwear\|Techwear]])
 <https://rosen-store.com/collections/rosen-x>
 

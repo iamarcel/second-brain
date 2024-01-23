@@ -8,7 +8,7 @@ Public homepage: [[4 Archive/Notes/Digital Garden Home\|Digital Garden Home]]
 
 # Concepts
 - [[4 Archive/Notes/CODE\|CODE]]
-- [[0 Inbox/PARA\|PARA]]
+- [[4 Archive/Notes/PARA\|PARA]]
 - [[0 Inbox/Progressive Summarization\|Progressive Summarization]]
 - [[4 Archive/Notes/Maps of Content\|Maps of Content]]
 

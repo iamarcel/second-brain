@@ -3,7 +3,7 @@
 ---
 
 
-tags:: [[4 Archive/Imported/Lighting\|Lighting]] [[on/working\|on/working]] [[2 Areas/Health\|Health]]
+tags:: [[4 Archive/Imported/Lighting\|Lighting]] [[on/working\|on/working]] [[4 Archive/Notes/Health & Fitness\|Health & Fitness]]
 
 Good overview.
 https://hoarelea.com/2019/01/15/the-ultimate-guide-to-circadian-lighting/

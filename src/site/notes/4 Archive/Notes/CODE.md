@@ -18,7 +18,7 @@ Do not only capture external information, capture your own ideas too.
 Keep track of your 12 favorite problems and look at the world through that lens.
 
 # Organize
-Use [[0 Inbox/PARA\|PARA]]. People need clear workspaces to be able to create.
+Use [[4 Archive/Notes/PARA\|PARA]]. People need clear workspaces to be able to create.
 
 # Distill
 Find the essence.

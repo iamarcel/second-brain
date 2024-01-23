@@ -109,6 +109,9 @@ tags:: [[3 Resources/Productivity\|Productivity]] [[on/routines\|on/routines]]
 ### What do I want to get better at next week?
 
 
+### Was there any point in the week where you were half-assing it?
+
+
 ## Mission & Focus
 
 

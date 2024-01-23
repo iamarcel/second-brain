@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/cold-shower/"}
 ---
 
-up:: [[2 Areas/Health\|Health]]
+up:: [[4 Archive/Notes/Health & Fitness\|Health & Fitness]]
 
 Cold exposure, through a shower or better yet, an ice bath, is great for your health. It improve the immune response and lowers inflammation. [[Wim Hof\|Wim Hof]]
 

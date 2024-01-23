@@ -2,4 +2,4 @@
 {"dg-publish":true,"permalink":"/3-resources/dopamine/"}
 ---
 
-tags:: [[2 Areas/Health\|Health]] [[4 Archive/Notes/Motivation\|Motivation]]
+tags:: [[4 Archive/Notes/Health & Fitness\|Health & Fitness]] [[4 Archive/Notes/Motivation\|Motivation]]

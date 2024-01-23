@@ -3,7 +3,7 @@
 ---
 
 tags:: #source/article [[3 Resources/AI\|AI]] [[Mental Model\|Mental Model]]
-author:: [[Dan Shipper\|Dan Shipper]]
+author:: [[0 Inbox/Dan Shipper\|Dan Shipper]]
 [Source](https://every.to/chain-of-thought/ai-assisted-decision-making)
 
 one of investor Charlie Munger’s most famous adages: “Never, ever, think about something else when you should be thinking about the power of incentives.”

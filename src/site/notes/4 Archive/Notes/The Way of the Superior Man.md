@@ -3,7 +3,6 @@
 ---
 
 tags::  #source/book [[3 Resources/Masculinity\|Masculinity]] 
-author:: [[David Deida\|David Deida]]
 read:: true
 
 > May this book serve the liberation of your true gifts, so that countless multitudes of being may benefit even more from your living and loving.
@@ -442,7 +441,7 @@ How does sex add to or subtract from our deepest purpose?
 Learn to understand the feminine energy you need to receive in order to stay inspired to keep giving your deepest gift.
 
 
-She wants to feel you are not dependent on her in order to be able to give your deepest gift fully. She can only trust you if she knows your heart isn't bending to her will.
+She wants to feel you are not dependent on her in order to be able to give your de epest gift fully. She can only trust you if she knows your heart isn't bending to her will.
 
 **She wants to feel divinity itself motivating your life and motivating your desire to be with her.** She wants to feel loved and taken by God when she is loved and taken by you. Therefore divinity is what's most important to you and to her.
 

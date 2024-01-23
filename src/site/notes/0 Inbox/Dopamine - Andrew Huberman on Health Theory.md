@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/dopamine-andrew-huberman-on-health-theory/"}
 ---
 
-tags:: [[2 Areas/Health\|Health]] #source/video [[3 Resources/Dopamine\|Dopamine]]
+tags:: [[4 Archive/Notes/Health & Fitness\|Health & Fitness]] #source/video [[3 Resources/Dopamine\|Dopamine]]
 author:: [[4 Archive/Imported/Tom Bilyeu\|Tom Bilyeu]] [[Andrew Huberman\|Andrew Huberman]]
 [Source](https://www.youtube.com/watch?v=xLORsLlcT48)
 

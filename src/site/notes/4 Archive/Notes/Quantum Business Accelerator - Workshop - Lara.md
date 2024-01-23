@@ -3,7 +3,7 @@
 ---
 
 tags:: #source/lecture [[on/business\|on/business]]
-people:: [[Lara\|Lara]]
+people:: [[0 Inbox/Lara Nina Shabb\|Lara Nina Shabb]]
 
 Money is spiritual.
 

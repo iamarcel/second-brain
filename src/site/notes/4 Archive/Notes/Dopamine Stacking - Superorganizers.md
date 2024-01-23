@@ -3,7 +3,7 @@
 ---
 
 tags:: #source/article [[3 Resources/Dopamine\|Dopamine]]
-author:: [[Dan Shipper\|Dan Shipper]] [[4 Archive/Imported/Every.to\|Every.to]]
+author:: [[0 Inbox/Dan Shipper\|Dan Shipper]] [[4 Archive/Imported/Every.to\|Every.to]]
 [Source](https://superorganizers.substack.com/p/dopamine-stacking)
 
 In productivity, the work you’ve finished is finished forever. It doesn't matter that you stuck to the same tool all the time.

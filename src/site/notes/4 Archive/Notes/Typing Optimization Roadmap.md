@@ -73,7 +73,7 @@ With ortholinear keyboards we realized that there should be no *row stagger*: th
 
 Your fingers will be in a much more neutral position with an *ortholinear ergonomic column-staggered mechanical keyboard*.
 
-![](https://ergomech.store/web/image/product.image/7/image_1024/Corne?unique=e1aaf7a)
+![Pasted image 20231102103503.png](/img/user/4%20Archive/Notes/Pasted%20image%2020231102103503.png)
 
 By this time you might as well drop the text on the keys too. And set up *tenting* so they stand up a little—that way your wrist is neutral:
 

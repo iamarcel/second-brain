@@ -3,7 +3,7 @@
 ---
 
 
-tags:: [[on/personal-growth\|on/personal-growth]] [[on/routines\|on/routines]] [[2 Areas/Second Brain\|Second Brain]] [[2 Areas/Mindpeak\|Mindpeak]]
+tags:: [[2 Areas/Personal Growth MOC\|Personal Growth MOC]] [[on/routines\|on/routines]] [[2 Areas/Second Brain\|Second Brain]] [[2 Areas/Mindpeak\|Mindpeak]]
 
 ## Marcel’s audio setup
 Desktop setup:

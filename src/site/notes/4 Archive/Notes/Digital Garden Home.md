@@ -47,7 +47,6 @@ Here are some links to content that is already published on this site. There's a
 ## Areas
 - [[2 Areas/Connection\|Connection]]
 - [[2 Areas/Creatorpeneur\|Creatorpeneur]]
-- [[2 Areas/Health\|Health]]
 - [[2 Areas/Second Brain\|Second Brain]]
 - [[2 Areas/Self-Obsolescence\|Self-Obsolescence]]
 
@@ -56,6 +55,7 @@ Here are some links to content that is already published on this site. There's a
 ## Concepts
 - [[4 Archive/Notes/Free Workouts\|Free Workouts]]
 - [[3 Resources/Neuroforming\|Neuroforming]]
+- [[0 Inbox/The constant low-grade chaos of life\|The constant low-grade chaos of life]]
 - [[0 Inbox/Tool Independence\|Tool Independence]]
 - [[0 Inbox/Work is a feeling\|Work is a feeling]]
 
@@ -79,11 +79,13 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Gödel's Incompleteness Theorems\|Gödel's Incompleteness Theorems]]
 - [[4 Archive/Notes/Higher-Order Traits\|Higher-Order Traits]]
 - [[4 Archive/Notes/Idea Emergence\|Idea Emergence]]
+- [[4 Archive/Notes/Infinite Game\|Infinite Game]]
 - [[4 Archive/Notes/Just-In-Time Planning\|Just-In-Time Planning]]
 - [[4 Archive/Imported/Kayfabe\|Kayfabe]]
 - [[4 Archive/Notes/Lean Writing\|Lean Writing]]
 - [[4 Archive/Notes/Leap of Insight\|Leap of Insight]]
 - [[4 Archive/Notes/Leverage Stacking\|Leverage Stacking]]
+- [[4 Archive/Notes/Literary Theme\|Literary Theme]]
 - [[4 Archive/Notes/Maps of Content\|Maps of Content]]
 - [[0 Inbox/MEDS\|MEDS]]
 - [[4 Archive/Notes/Mental Squeeze Point\|Mental Squeeze Point]]
@@ -98,6 +100,7 @@ Here are some links to content that is already published on this site. There's a
 - [[0 Inbox/OMRPG Framework\|OMRPG Framework]]
 - [[4 Archive/Notes/Overton Window\|Overton Window]]
 - [[4 Archive/Notes/OVO\|OVO]]
+- [[4 Archive/Notes/PARA\|PARA]]
 - [[4 Archive/Notes/Pareto Efficiency\|Pareto Efficiency]]
 - [[4 Archive/Notes/Parkinson's Law\|Parkinson's Law]]
 - [[4 Archive/Notes/Participatory Knowing\|Participatory Knowing]]
@@ -108,9 +111,8 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Slow-Burn System\|Slow-Burn System]]
 - [[4 Archive/Notes/Solutide\|Solutide]]
 - [[4 Archive/Notes/Spaced Repetition\|Spaced Repetition]]
-- [[4 Archive/Notes/The Ceiling\|The Ceiling]]
 - [[0 Inbox/The Ceiling\|The Ceiling]]
-- [[0 Inbox/The constant low-grade chaos of life\|The constant low-grade chaos of life]]
+- [[4 Archive/Notes/The Ceiling\|The Ceiling]]
 - [[4 Archive/Notes/The Creation Pyramid\|The Creation Pyramid]]
 - [[0 Inbox/The Decision\|The Decision]]
 - [[4 Archive/Notes/The Hero's Journey\|The Hero's Journey]]
@@ -118,6 +120,7 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/The Raft Model of Reality\|The Raft Model of Reality]]
 - [[0 Inbox/The Third Door\|The Third Door]]
 - [[4 Archive/Notes/The Tyranny of Confidence\|The Tyranny of Confidence]]
+- [[4 Archive/Notes/The Unifying Theory of 2+2\|The Unifying Theory of 2+2]]
 - [[4 Archive/Notes/Thought Mining\|Thought Mining]]
 - [[0 Inbox/Timeflow\|Timeflow]]
 
@@ -136,6 +139,7 @@ Here are some links to content that is already published on this site. There's a
 - [[0 Inbox/Just-in-time learning bypasses overwhelm\|Just-in-time learning bypasses overwhelm]]
 - [[4 Archive/Notes/Make decisions faster to use your intuition more\|Make decisions faster to use your intuition more]]
 - [[4 Archive/Notes/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]]
+- [[4 Archive/Notes/Pressure and Judgement Are The Success Tax\|Pressure and Judgement Are The Success Tax]]
 - [[0 Inbox/Publishing knowledge forces you to understand it better\|Publishing knowledge forces you to understand it better]]
 - [[0 Inbox/Pursue the ignored path\|Pursue the ignored path]]
 - [[0 Inbox/Remind Them\|Remind Them]]
@@ -145,10 +149,12 @@ Here are some links to content that is already published on this site. There's a
 - [[0 Inbox/Simple first, then powerful\|Simple first, then powerful]]
 - [[4 Archive/Notes/Success is effortless\|Success is effortless]]
 - [[0 Inbox/The feminine is not a threat when she calls out\|The feminine is not a threat when she calls out]]
+- [[4 Archive/Notes/The further you are divided from your future, the more you will turn to distraction today\|The further you are divided from your future, the more you will turn to distraction today]]
 - [[4 Archive/Notes/To be happy, be able to hold paradoxes\|To be happy, be able to hold paradoxes]]
 - [[0 Inbox/We feel about ourselves how we feel about others\|We feel about ourselves how we feel about others]]
 - [[0 Inbox/What you're selling is the implementation\|What you're selling is the implementation]]
 - [[4 Archive/Notes/When you feel like a failure\|When you feel like a failure]]
+- [[4 Archive/Notes/When you set goals think about the commitment required\|When you set goals think about the commitment required]]
 
 { .block-language-dataview}
 
@@ -207,12 +213,14 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/1000 Factor Model\|1000 Factor Model]]                                                                                                                                                                                         |
 | [[4 Archive/Notes/A Framework For a Virtuous Life - Call with Tales\|A Framework For a Virtuous Life - Call with Tales]]                                                                                                                         |
 | [[4 Archive/Notes/A More Complete Beast - Jack Donovan - Book\|A More Complete Beast - Jack Donovan - Book]]                                                                                                                                     |
+| [[4 Archive/Notes/Ad Swipe File\|Ad Swipe File]]                                                                                                                                                                                                 |
 | [[3 Resources/AI\|AI]]                                                                                                                                                                                                                           |
 | [[4 Archive/Notes/AI Notes Group Lesson - Airtable\|AI Notes Group Lesson - Airtable]]                                                                                                                                                           |
 | [[4 Archive/Notes/AI Summit\|AI Summit]]                                                                                                                                                                                                         |
 | [[0 Inbox/AI Tools\|AI Tools]]                                                                                                                                                                                                                   |
 | [[4 Archive/Notes/AI-assisted Decision-making - Dan Shipper - Every\|AI-assisted Decision-making - Dan Shipper - Every]]                                                                                                                         |
 | [[4 Archive/Notes/Airtable AI - Powerful new features to govern and scale with ease\|Airtable AI - Powerful new features to govern and scale with ease]]                                                                                         |
+| [[4 Archive/Notes/An Unconventional Approach to Email List Building\|An Unconventional Approach to Email List Building]]                                                                                                                         |
 | [[4 Archive/Notes/Angular\|Angular]]                                                                                                                                                                                                             |
 | [[0 Inbox/Antibiotics\|Antibiotics]]                                                                                                                                                                                                             |
 | [[4 Archive/Notes/Artificial Time - Tiago Forte\|Artificial Time - Tiago Forte]]                                                                                                                                                                 |
@@ -228,11 +236,16 @@ Here are some links to content that is already published on this site. There's a
 | [[3 Resources/Books\|Books]]                                                                                                                                                                                                                     |
 | [[0 Inbox/Books Don't Work - Andy Matuschak\|Books Don't Work - Andy Matuschak]]                                                                                                                                                                 |
 | [[4 Archive/Notes/Brendon Burchard\|Brendon Burchard]]                                                                                                                                                                                           |
+| [[0 Inbox/Brendon Burchard - 5 Strategies that Doubled My Results\|Brendon Burchard - 5 Strategies that Doubled My Results]]                                                                                                                     |
+| [[0 Inbox/Brendon Burchard - Self-Esteem and Success Mindset\|Brendon Burchard - Self-Esteem and Success Mindset]]                                                                                                                               |
+| [[4 Archive/Notes/Brendon Burchard on Finding Fulfillment in Life - GrowthDay\|Brendon Burchard on Finding Fulfillment in Life - GrowthDay]]                                                                                                     |
+| [[4 Archive/Notes/Brendon Burchard on Wealth - Podcast\|Brendon Burchard on Wealth - Podcast]]                                                                                                                                                   |
 | [[4 Archive/Notes/Brunch Babes and Bros - Call 2022-07-30\|Brunch Babes and Bros - Call 2022-07-30]]                                                                                                                                             |
 | [[4 Archive/Notes/Building A Business With AI - Public Page\|Building A Business With AI - Public Page]]                                                                                                                                         |
 | [[4 Archive/Imported/Building a Second Brain\|Building a Second Brain]]                                                                                                                                                                          |
 | [[4 Archive/Notes/Building a Second Brain Course\|Building a Second Brain Course]]                                                                                                                                                               |
 | [[0 Inbox/Captain Sinbad YouTube Intro Analysis\|Captain Sinbad YouTube Intro Analysis]]                                                                                                                                                         |
+| [[4 Archive/Notes/Causes of Delay\|Causes of Delay]]                                                                                                                                                                                             |
 | [[4 Archive/Notes/Chain of Thought Reasoning\|Chain of Thought Reasoning]]                                                                                                                                                                       |
 | [[0 Inbox/Chatbot - Tunch\|Chatbot - Tunch]]                                                                                                                                                                                                     |
 | [[0 Inbox/ChatGPT\|ChatGPT]]                                                                                                                                                                                                                     |
@@ -241,6 +254,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/CODE\|CODE]]                                                                                                                                                                                                                   |
 | [[4 Archive/Notes/Cold Shower\|Cold Shower]]                                                                                                                                                                                                     |
 | [[4 Archive/Imported/Color_Correction\|Color_Correction]]                                                                                                                                                                                        |
+| [[4 Archive/Notes/Complete Guide to Literary Themes - Definition, Examples, and How to Create Literary Themes in Your Writing\|Complete Guide to Literary Themes - Definition, Examples, and How to Create Literary Themes in Your Writing]]     |
 | [[4 Archive/Notes/Concept Bullets Bring-It-Home - Tweet Framework\|Concept Bullets Bring-It-Home - Tweet Framework]]                                                                                                                             |
 | [[3 Resources/Concepts\|Concepts]]                                                                                                                                                                                                               |
 | [[0 Inbox/Condoms\|Condoms]]                                                                                                                                                                                                                     |
@@ -248,6 +262,7 @@ Here are some links to content that is already published on this site. There's a
 | [[3 Resources/Cooking\|Cooking]]                                                                                                                                                                                                                 |
 | [[0 Inbox/Copythinking\|Copythinking]]                                                                                                                                                                                                           |
 | [[3 Resources/Copywriting\|Copywriting]]                                                                                                                                                                                                         |
+| [[4 Archive/Create Second Brain in Obsidian\|Create Second Brain in Obsidian]]                                                                                                                                                                   |
 | [[4 Archive/Notes/Creating a Mass Movement - Russell Brunson\|Creating a Mass Movement - Russell Brunson]]                                                                                                                                       |
 | [[4 Archive/Imported/Creating_Wow_in_Your_Photos\|Creating_Wow_in_Your_Photos]]                                                                                                                                                                  |
 | [[2 Areas/Creatorpeneur\|Creatorpeneur]]                                                                                                                                                                                                         |
@@ -259,6 +274,7 @@ Here are some links to content that is already published on this site. There's a
 | [[3 Resources/Diet\|Diet]]                                                                                                                                                                                                                       |
 | [[4 Archive/Notes/Digital Garden Home\|Digital Garden Home]]                                                                                                                                                                                     |
 | [[4 Archive/Imported/Digital Minimalism\|Digital Minimalism]]                                                                                                                                                                                    |
+| [[4 Archive/Notes/Discipline Is Actually An Emotion - HealthyGamerGG\|Discipline Is Actually An Emotion - HealthyGamerGG]]                                                                                                                       |
 | [[0 Inbox/Discipline is Motivation\|Discipline is Motivation]]                                                                                                                                                                                   |
 | [[4 Archive/Notes/Domo - The Platform for Doing\|Domo - The Platform for Doing]]                                                                                                                                                                 |
 | [[3 Resources/Dopamine\|Dopamine]]                                                                                                                                                                                                               |
@@ -297,18 +313,21 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Good execution compounds\|Good execution compounds]]                                                                                                                                                                           |
 | [[4 Archive/Notes/GrowthDay - Patience\|GrowthDay - Patience]]                                                                                                                                                                                   |
 | [[4 Archive/Notes/Happiness is found in the present\|Happiness is found in the present]]                                                                                                                                                         |
-| [[2 Areas/Health\|Health]]                                                                                                                                                                                                                       |
+| [[4 Archive/Notes/Health & Fitness\|Health & Fitness]]                                                                                                                                                                                           |
 | [[4 Archive/Imported/High Performance Habits\|High Performance Habits]]                                                                                                                                                                          |
 | [[4 Archive/Notes/Higher-Order Traits\|Higher-Order Traits]]                                                                                                                                                                                     |
 | [[0 Inbox/How Ideas Grow - Nathan Baschez - Every\|How Ideas Grow - Nathan Baschez - Every]]                                                                                                                                                     |
 | [[4 Archive/Notes/How to Become a Lifelong Learner With Obsidian - Obsidian October 2022 - Video Script\|How to Become a Lifelong Learner With Obsidian - Obsidian October 2022 - Video Script]]                                                 |
 | [[4 Archive/Notes/How To Become A Master In The Art of Public Speaking - Eric Edmeades\|How To Become A Master In The Art of Public Speaking - Eric Edmeades]]                                                                                   |
+| [[4 Archive/Notes/How To Build A Happy Customer Creating Engine With Paid Traffic\|How To Build A Happy Customer Creating Engine With Paid Traffic]]                                                                                             |
 | [[4 Archive/Notes/How To Create A Niche of One\|How To Create A Niche of One]]                                                                                                                                                                   |
 | [[4 Archive/Notes/How to profit from solving your own problems - Dan Koe\|How to profit from solving your own problems - Dan Koe]]                                                                                                               |
+| [[0 Inbox/How to Start Implementing Obsidian In Your Life - Video Script\|How to Start Implementing Obsidian In Your Life - Video Script]]                                                                                                       |
 | [[4 Archive/Notes/How to use AI for your second brain - Tiago Forte\|How to use AI for your second brain - Tiago Forte]]                                                                                                                         |
 | [[4 Archive/Notes/Humans are fuzzy\|Humans are fuzzy]]                                                                                                                                                                                           |
 | [[4 Archive/Notes/Idea Emergence\|Idea Emergence]]                                                                                                                                                                                               |
 | [[4 Archive/Notes/Impostor syndrome is a sign of growth\|Impostor syndrome is a sign of growth]]                                                                                                                                                 |
+| [[4 Archive/Notes/Infinite Game\|Infinite Game]]                                                                                                                                                                                                 |
 | [[4 Archive/Imported/Intermediate Packets\|Intermediate Packets]]                                                                                                                                                                                |
 | [[4 Archive/Imported/Introduction_to_Fasion_Photography\|Introduction_to_Fasion_Photography]]                                                                                                                                                    |
 | [[4 Archive/Imported/Introduction_to_Natural_Light\|Introduction_to_Natural_Light]]                                                                                                                                                              |
@@ -330,6 +349,8 @@ Here are some links to content that is already published on this site. There's a
 | [[0 Inbox/Light Quality\|Light Quality]]                                                                                                                                                                                                         |
 | [[4 Archive/Imported/Lighting\|Lighting]]                                                                                                                                                                                                        |
 | [[0 Inbox/Linear Method\|Linear Method]]                                                                                                                                                                                                         |
+| [[4 Archive/Notes/Linking Your Thinking\|Linking Your Thinking]]                                                                                                                                                                                 |
+| [[4 Archive/Notes/Literary Theme\|Literary Theme]]                                                                                                                                                                                               |
 | [[0 Inbox/LLM Agents\|LLM Agents]]                                                                                                                                                                                                               |
 | [[4 Archive/Notes/Make decisions faster to use your intuition more\|Make decisions faster to use your intuition more]]                                                                                                                           |
 | [[4 Archive/Notes/Making Beautiful Talking Head Videos\|Making Beautiful Talking Head Videos]]                                                                                                                                                   |
@@ -338,6 +359,7 @@ Here are some links to content that is already published on this site. There's a
 | [[3 Resources/Masculinity\|Masculinity]]                                                                                                                                                                                                         |
 | [[0 Inbox/Medicine\|Medicine]]                                                                                                                                                                                                                   |
 | [[0 Inbox/MEDS\|MEDS]]                                                                                                                                                                                                                           |
+| [[0 Inbox/Membership Programs\|Membership Programs]]                                                                                                                                                                                             |
 | [[4 Archive/Notes/Mental Squeeze Point\|Mental Squeeze Point]]                                                                                                                                                                                   |
 | [[4 Archive/Notes/Mindpeak - Website Building Call\|Mindpeak - Website Building Call]]                                                                                                                                                           |
 | [[4 Archive/Notes/Minimally Viably Competent\|Minimally Viably Competent]]                                                                                                                                                                       |
@@ -345,8 +367,8 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Mix Your Voice With AI - How To Write Anything Using The 5 Different Types Of Writing Voices\|Mix Your Voice With AI - How To Write Anything Using The 5 Different Types Of Writing Voices]]                                   |
 | [[4 Archive/Notes/Models - Attract Women Through Honesty - Mark Manson\|Models - Attract Women Through Honesty - Mark Manson]]                                                                                                                   |
 | [[4 Archive/Notes/Modern Mastery - Dan Koe\|Modern Mastery - Dan Koe]]                                                                                                                                                                           |
+| [[4 Archive/Notes/Momentum Builder Workshop - Lesson 1 - Thematic Arcs\|Momentum Builder Workshop - Lesson 1 - Thematic Arcs]]                                                                                                                   |
 | [[4 Archive/Notes/Monday Week Winning Workshop\|Monday Week Winning Workshop]]                                                                                                                                                                   |
-| [[4 Archive/Notes/Morning Journal\|Morning Journal]]                                                                                                                                                                                             |
 | [[3 Resources/Moving\|Moving]]                                                                                                                                                                                                                   |
 | [[4 Archive/Notes/Multifinality\|Multifinality]]                                                                                                                                                                                                 |
 | [[4 Archive/Notes/Multipotentiality\|Multipotentiality]]                                                                                                                                                                                         |
@@ -359,6 +381,7 @@ Here are some links to content that is already published on this site. There's a
 | [[3 Resources/Neuroforming\|Neuroforming]]                                                                                                                                                                                                       |
 | [[4 Archive/Notes/NG-BE 2023\|NG-BE 2023]]                                                                                                                                                                                                       |
 | [[0 Inbox/Niche of One\|Niche of One]]                                                                                                                                                                                                           |
+| [[4 Archive/Notes/Obsidian\|Obsidian]]                                                                                                                                                                                                           |
 | [[0 Inbox/OMRPG Framework\|OMRPG Framework]]                                                                                                                                                                                                     |
 | [[4 Archive/Notes/Orgasmic Embrace - Bibi Brozozka\|Orgasmic Embrace - Bibi Brozozka]]                                                                                                                                                           |
 | [[0 Inbox/Out-of-Order Execution\|Out-of-Order Execution]]                                                                                                                                                                                       |
@@ -366,7 +389,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Overton Window\|Overton Window]]                                                                                                                                                                                               |
 | [[4 Archive/Notes/Overwhelm\|Overwhelm]]                                                                                                                                                                                                         |
 | [[4 Archive/Notes/OVO\|OVO]]                                                                                                                                                                                                                     |
-| [[0 Inbox/PARA\|PARA]]                                                                                                                                                                                                                           |
+| [[4 Archive/Notes/PARA\|PARA]]                                                                                                                                                                                                                   |
 | [[4 Archive/Notes/Pareto Efficiency\|Pareto Efficiency]]                                                                                                                                                                                         |
 | [[4 Archive/Notes/Parkinson's Law\|Parkinson's Law]]                                                                                                                                                                                             |
 | [[4 Archive/Notes/Participatory Knowing\|Participatory Knowing]]                                                                                                                                                                                 |
@@ -379,6 +402,7 @@ Here are some links to content that is already published on this site. There's a
 | [[0 Inbox/PIT - Overwhelm Model\|PIT - Overwhelm Model]]                                                                                                                                                                                         |
 | [[4 Archive/Imported/Posing_Masterclass\|Posing_Masterclass]]                                                                                                                                                                                    |
 | [[4 Archive/Notes/Posture\|Posture]]                                                                                                                                                                                                             |
+| [[4 Archive/Notes/Pressure and Judgement Are The Success Tax\|Pressure and Judgement Are The Success Tax]]                                                                                                                                       |
 | [[3 Resources/Productivity\|Productivity]]                                                                                                                                                                                                       |
 | [[3 Resources/Programming\|Programming]]                                                                                                                                                                                                         |
 | [[0 Inbox/Progressive Summarization\|Progressive Summarization]]                                                                                                                                                                                 |
@@ -389,6 +413,7 @@ Here are some links to content that is already published on this site. There's a
 | [[0 Inbox/Publishing knowledge forces you to understand it better\|Publishing knowledge forces you to understand it better]]                                                                                                                     |
 | [[3 Resources/Purpose\|Purpose]]                                                                                                                                                                                                                 |
 | [[0 Inbox/Pursue the ignored path\|Pursue the ignored path]]                                                                                                                                                                                     |
+| [[4 Archive/Notes/Quantum Business Accelerator - Workshop - Lara\|Quantum Business Accelerator - Workshop - Lara]]                                                                                                                               |
 | [[4 Archive/Notes/Questions to think about with friends\|Questions to think about with friends]]                                                                                                                                                 |
 | [[4 Archive/Imported/Ray Dalio\|Ray Dalio]]                                                                                                                                                                                                      |
 | [[0 Inbox/React\|React]]                                                                                                                                                                                                                         |
@@ -428,6 +453,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Spaced Repetition\|Spaced Repetition]]                                                                                                                                                                                         |
 | [[0 Inbox/Speaker Nation - Be Heard Masterclass\|Speaker Nation - Be Heard Masterclass]]                                                                                                                                                         |
 | [[4 Archive/Notes/Spiritual Quest - Srikumar Rao\|Spiritual Quest - Srikumar Rao]]                                                                                                                                                               |
+| [[4 Archive/Notes/Stop searching for your passion - Terri Trespicio - TEDxKC\|Stop searching for your passion - Terri Trespicio - TEDxKC]]                                                                                                       |
 | [[4 Archive/Notes/Story Circle\|Story Circle]]                                                                                                                                                                                                   |
 | [[3 Resources/Storytelling\|Storytelling]]                                                                                                                                                                                                       |
 | [[3 Resources/Streaming\|Streaming]]                                                                                                                                                                                                             |
@@ -435,7 +461,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/Suits\|Suits]]                                                                                                                                                                                                                 |
 | [[4 Archive/Imported/Supplements\|Supplements]]                                                                                                                                                                                                  |
 | [[3 Resources/Techwear\|Techwear]]                                                                                                                                                                                                               |
-| [[0 Inbox/The 7 Habits of Highly Effective People - Steven Covey\|The 7 Habits of Highly Effective People - Steven Covey]]                                                                                                                       |
+| [[0 Inbox/The 7 Habits of Highly Effective People - Stephen Covey\|The 7 Habits of Highly Effective People - Stephen Covey]]                                                                                                                     |
 | [[4 Archive/Notes/The Almanack of Naval Ravikant\|The Almanack of Naval Ravikant]]                                                                                                                                                               |
 | [[4 Archive/Notes/The Art of Culture War - Jordan Hall\|The Art of Culture War - Jordan Hall]]                                                                                                                                                   |
 | [[4 Archive/Notes/The Big Reset - Use AI To Build Wealth And Get Ahead - Tom Bilyeu Peter Diamandis\|The Big Reset - Use AI To Build Wealth And Get Ahead - Tom Bilyeu Peter Diamandis]]                                                         |
@@ -445,7 +471,10 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Notes/The Creation Pyramid\|The Creation Pyramid]]                                                                                                                                                                                   |
 | [[4 Archive/Notes/The Dark World of New Age Gurus\|The Dark World of New Age Gurus]]                                                                                                                                                             |
 | [[0 Inbox/The Decision\|The Decision]]                                                                                                                                                                                                           |
+| [[4 Archive/Notes/The Decision and Formula for an Extraordinary Life - Brendon Burchard\|The Decision and Formula for an Extraordinary Life - Brendon Burchard]]                                                                                 |
+| [[4 Archive/Notes/The E-Myth Revisited\|The E-Myth Revisited]]                                                                                                                                                                                   |
 | [[0 Inbox/The feminine is not a threat when she calls out\|The feminine is not a threat when she calls out]]                                                                                                                                     |
+| [[4 Archive/Notes/The further you are divided from your future, the more you will turn to distraction today\|The further you are divided from your future, the more you will turn to distraction today]]                                         |
 | [[4 Archive/Notes/The Garden and the Stream - A Technopastoral\|The Garden and the Stream - A Technopastoral]]                                                                                                                                   |
 | [[4 Archive/Notes/The Hero's Journey\|The Hero's Journey]]                                                                                                                                                                                       |
 | [[4 Archive/Notes/The Infinite Article - Divinations\|The Infinite Article - Divinations]]                                                                                                                                                       |
@@ -458,6 +487,7 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Imported/The Rise of Theodore Roosevelt - Edmund Morris\|The Rise of Theodore Roosevelt - Edmund Morris]]                                                                                                                            |
 | [[0 Inbox/The Third Door\|The Third Door]]                                                                                                                                                                                                       |
 | [[4 Archive/Notes/The Tyranny of Confidence\|The Tyranny of Confidence]]                                                                                                                                                                         |
+| [[4 Archive/Notes/The Unifying Theory of 2+2\|The Unifying Theory of 2+2]]                                                                                                                                                                       |
 | [[4 Archive/Notes/The Way of the Superior Man\|The Way of the Superior Man]]                                                                                                                                                                     |
 | [[4 Archive/Notes/Things to do with friends\|Things to do with friends]]                                                                                                                                                                         |
 | [[4 Archive/Notes/This is the struggle - Tweet\|This is the struggle - Tweet]]                                                                                                                                                                   |
@@ -493,10 +523,12 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Imported/Weekly Assessment\|Weekly Assessment]]                                                                                                                                                                                      |
 | [[4 Archive/Notes/What Creates My Emotional Experience\|What Creates My Emotional Experience]]                                                                                                                                                   |
 | [[4 Archive/Notes/What if you didn’t need money or attention - Derek Sivers\|What if you didn’t need money or attention - Derek Sivers]]                                                                                                         |
+| [[4 Archive/Notes/What the heck is asynchronous communication anyway - Twist\|What the heck is asynchronous communication anyway - Twist]]                                                                                                       |
 | [[4 Archive/Notes/What Women Like About Men\|What Women Like About Men]]                                                                                                                                                                         |
 | [[0 Inbox/What women mean when they say a man is handsome\|What women mean when they say a man is handsome]]                                                                                                                                     |
 | [[0 Inbox/What you're selling is the implementation\|What you're selling is the implementation]]                                                                                                                                                 |
 | [[4 Archive/Notes/When you feel like a failure\|When you feel like a failure]]                                                                                                                                                                   |
+| [[4 Archive/Notes/When you set goals think about the commitment required\|When you set goals think about the commitment required]]                                                                                                               |
 | [[4 Archive/Notes/Wool\|Wool]]                                                                                                                                                                                                                   |
 | [[0 Inbox/Work is a feeling\|Work is a feeling]]                                                                                                                                                                                                 |
 | [[0 Inbox/Work the System - Sam Carpenter\|Work the System - Sam Carpenter]]                                                                                                                                                                     |

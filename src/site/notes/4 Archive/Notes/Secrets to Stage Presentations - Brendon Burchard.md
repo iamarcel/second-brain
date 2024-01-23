@@ -9,7 +9,15 @@ tags:: #source/video [[3 Resources/Public Speaking\|Public Speaking]]
 
 From Brendon's Marketing Monthly, August 2018.
 
-![[2018-08_Stage_Presentations.pdf\|2018-08_Stage_Presentations.pdf]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+
+</div></div>
+
 
 # Adopt the leadership mentality
 

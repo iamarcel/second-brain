@@ -46,6 +46,9 @@ Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill
 
 ## [[4 Archive/Notes/Prompt Alchemy - My ChatGPT Guide\|Prompt Alchemy - My ChatGPT Guide]]
 
+# Brands with specific automations (like chatbots)
+Create brands that are niched down, very quickly, and sell almost the same product to that specific niche. Scale works with AI.
+
 # All Notes
 | File                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,6 +81,7 @@ Create a ClickFunnels alternative that's *extremely simple*. Pick a design, fill
 | [[0 Inbox/Influencer Pro - Jan 1st 2022 Strategy - Brendon Burchard\|Influencer Pro - Jan 1st 2022 Strategy - Brendon Burchard]]                                               |
 | [[0 Inbox/Lead them to the answer but do not give it - Expert Secrets\|Lead them to the answer but do not give it - Expert Secrets]]                                           |
 | [[0 Inbox/Lessons From Online Course Sales - Justin Welsh\|Lessons From Online Course Sales - Justin Welsh]]                                                                   |
+| [[0 Inbox/Membership Programs\|Membership Programs]]                                                                                                                           |
 | [[4 Archive/Notes/My Messaging\|My Messaging]]                                                                                                                                 |
 | [[4 Archive/Notes/Name concepts to get recognized as an expert\|Name concepts to get recognized as an expert]]                                                                 |
 | [[0 Inbox/Niche of One\|Niche of One]]                                                                                                                                         |

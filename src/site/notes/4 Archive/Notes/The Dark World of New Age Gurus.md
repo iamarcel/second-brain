@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/the-dark-world-of-new-age-gurus/"}
 ---
 
-tags:: #source/video [[on/personal-growth\|on/personal-growth]] [[Scams\|Scams]]
+tags:: #source/video [[2 Areas/Personal Growth MOC\|Personal Growth MOC]] [[Scams\|Scams]]
 [Source](https://www.youtube.com/watch?v=yyktccr5apU)
 
 People like [[Napoleon Hill\|Napoleon Hill]] have a very dubious past with a history of scams. But his book still provides some value to some people.

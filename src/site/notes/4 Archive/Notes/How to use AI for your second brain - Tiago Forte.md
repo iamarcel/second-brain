@@ -5,7 +5,7 @@
 tags:: [[0 Inbox/ChatGPT\|ChatGPT]] [[2 Areas/Second Brain\|Second Brain]] [[3 Resources/AI\|AI]]
 author:: [[4 Archive/Imported/Tiago Forte\|Tiago Forte]]
 
-[[Dan Shipper\|Dan Shipper]]: GPT-4 is a reasoning engine. Most people use it to look up information. But it's not a database, it's a reasoning engine.
+[[0 Inbox/Dan Shipper\|Dan Shipper]]: GPT-4 is a reasoning engine. Most people use it to look up information. But it's not a database, it's a reasoning engine.
 
 It hallucinates because it doesn't know. But give it the right information and it becomes incredibly powerful. So the people who organize and store information will have a leg up in a world filled with AI.
 
@@ -18,6 +18,6 @@ Instead, how can I use the most cutting-edge capability of AI to replace my most
 Do time tracking, what do I spend most time on?
 - Laundry? ChatGPT make a checklist and suggestions for improvements + products
 
-"It's an assistant with unlimited free time. They're not the smartest, but you can use their time, energy and enthusiasm infinitely. How would you do it?"
+"**It's an assistant with unlimited free time. They're not the smartest, but you can use their time, energy and enthusiasm infinitely.** How would you do it?"
 
 You don't have to give it neat formatted inputs. 

@@ -10,6 +10,8 @@ In Machine Learning, every new point of training completely reshapes the entire 
 
 To really anchor in new ideas, we need to make them part of our landscape.
 
+Right now, this note is about *knowledge* but the same goes for *feelings* and *emotions*. **Neuroforming includes the process of shaping what you feel.**
+
 ## How To
 - [[4 Archive/Notes/De-streaming\|De-streaming]]
 - [[0 Inbox/Restructure information to understand it\|Restructure information to understand it]]

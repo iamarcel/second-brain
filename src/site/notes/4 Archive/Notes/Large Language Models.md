@@ -16,3 +16,13 @@
 ## Notes
 - [[4 Archive/Notes/My Life Path - Proposed by ChatGPT\|My Life Path - Proposed by ChatGPT]]
 
+## Tools
+- [H2OGPT](https://github.com/h2oai/h2ogpt) Local web-based interface for chatting with document db indexes etc.
+- [Lit-GPT](https://github.com/Lightning-AI/litgpt/tree/main) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
+- [Instructor Embedding](https://github.com/xlang-ai/instructor-embedding) - Embedding specifically adapted to instructions
+
+# Finetuning
+Finetuning delivers better results than RAG, but requires a training step and data prepared in the right format.
+
+Tools
+- [Axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)

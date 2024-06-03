@@ -54,7 +54,7 @@ Power gives understanding.
 - **The first thing is to articulate the biggest, clearest desired result people abstractly felt but never had clarified for them.** Then build a strategy of action they can take, new concepts they had never recognized they wanted before.
 
 Understanding gives certainty.
-- Certainty: preeminence means *hopefulness*.* Best wishes for every single prospect they come in contact with, better and higher wish or hopes than they even wanted for themselves.
+- Certainty: preeminence means *hopefulness*. Best wishes for every single prospect they come in contact with, better and higher wish or hopes than they even wanted for themselves.
 - It is this hopefulness that gives their customers the courage, belief, strength and the desire to establish a long-term, loyal, lifelong relationship with that company.
 
 Certainty gives trust.
@@ -64,7 +64,7 @@ Without trust, people won't take action.
 - Most buyers base everything they do on absolute, authoritative leadership.
 - People are silently thinking, "I don't know what to do," so they are searching for someone they trust, who understands their point of view and can point them in the right direction.
 - People really are mad—they don't feel anyone is listening to what they really want.
-- You should go to someone and say, **"I understand your frustration, and I think I can help. Here's what I perceive you really want, and I'd like you to tell me first if that's right or wrong. Once you and I agree that we both clearly and fuly agree on your ultimate goals and dreams and wishes, then we can move forward with a plan to make them come true. And I think I can do that for you".**
+- You should go to someone and say, **"I understand your frustration, and I think I can help. Here's what I perceive you really want, and I'd like you to tell me first if that's right or wrong. Once you and I agree that we both clearly and fully agree on your ultimate goals and dreams and wishes, then we can move forward with a plan to make them come true. And I think I can do that for you".**
 
 6. The strategy of preeminence relies on authentic communications
 
@@ -116,6 +116,6 @@ Never be afraid to ask your current customers, is there a better way?
 Reduce the height of the hurdles.
 Talk about frustrations or desire they really feel.
 People worry about whether they stand out, whether people will care—let them know you think they're special, let them know you care.
-Don't make them buy les than they want.
+Don't make them buy less than they want.
 
 13. Make the customer the center of attention

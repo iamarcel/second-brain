@@ -22,6 +22,8 @@ Question on the walk. What do you wish would change for the next level of our re
 Hopeful change. "I would love for you to be nicer to yourself." Sleep more. I want positive changes for your life, not to please me.
 **Want good things for your partner, *for them*.**
 
+> If you want anything from your partner, ask them to become their best. In their own definition.
+
 Your partner is not
 Your healer
 Your therapist
@@ -46,5 +48,3 @@ The job is for both of you to seek wholeness in your own life.
 "I hate *you complete me*." If I need you to close me out, I'm always going to spin out.
 
 When I'm full and whole in myself, I'm not needy.
-
-> If you want anything from your partner, ask them to become their best. In their own definition.

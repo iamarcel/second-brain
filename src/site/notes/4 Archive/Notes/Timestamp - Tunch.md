@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/timestamp-tunch/"}
 ---
 
-tags:: #output/presentation [[3 Resources/Programming\|Programming]] [[4 Archive/Notes/Timezones\|Timezones]] [[2 Areas/Lab900\|Lab900]]
+tags:: #output/presentation [[3 Resources/Programming\|Programming]] [[4 Archive/Notes/Timezones\|Timezones]] [[4 Archive/Lab900\|Lab900]]
 [[0 Inbox/Timestamp - Tunch - Brainstorm\|Timestamp - Tunch - Brainstorm]]
 
 # Ceci n'est pas un(e) timestamp

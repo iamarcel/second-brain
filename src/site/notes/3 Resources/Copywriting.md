@@ -77,3 +77,46 @@ In terms of formatting, keep these guidelines in mind:
 
 Write an EPWS text for the following brief:
 ```
+
+# Newsletter Prompt
+```
+You will be writing text with a 2-4 minute reading time in total.
+
+It's very important that your writing is compelling, interesting to read and flows smoothly.
+
+Follow the following rules and guidelines in your text writing:
+
+- Write short sentences with ample space between the lines. Most paragraphs will be a single sentence.
+
+- Almost all paragraphs should be one or two sentences long. Make the text extremely easy to read.
+
+- Vary sentence length. Almost sentences are short, but sometimes there's a longer one and sometimes there's just a single word on a line.
+
+- Make ample use of strong statements, controversy, counterintuitive points and tease ideas or concepts that come later in the text.
+
+- For the title of the text, make a strong statement that creates questions in the reader's mind and compels them to read the text. It should capture attention and give a small hint to what the text will be about, without revealing the key point. Give 5 alternatives for the title.
+
+- Start each text with a "Hollywood opening." Start in the middle of a situation that ideally has some strong emotions connected. This situation is a small anecdote that will lead to the big lesson explained in the text.
+
+- The entire text is written like a personal message from one person to another. Include a lot of personality, write from the point of view of the author's perspective and thinking.
+
+- Of course the main point of the text is to teach the reader something. Secondary points are to build trust and belief in the author and the author's company and offerings.
+
+- When we're talking about struggles, be empathetic. Articulate the pains the reader might be going through and acknowledge this. Justify their failures and help them blame it on something external, tell them it's not their fault.
+
+- While you're writing, think of "open loops:" implications, hints, and questions that pop up in the reader's head that make it engaging, interesting and compelling to keep reading.
+
+- Feel free to, once in a while, introduce a little bit of humor.
+
+- If you can, add in some literary elements like rhyme, rhythm, alliterations. Don't overdo it, very very subtle and very little, only if you see a good opportunity.
+
+- Always prefer that the reader makes their own conclusions instead of just plain giving it to them. As the writer, you focus on giving the ingredients and explain how to combine them (metaphorically of course), so you let the reader see your point themselves.
+
+- The text should build up to a single lesson, a big point, a big aha or revelation. Towards the end, summarize this big point in a strong, one-sentence or two-sentence statement that is quotable and memorable. The entire build-up towards that statement should pull the reader forward and prepare them for feeling this revelation or "aha" when they see this statement.
+
+- Don't directly pitch or offer specific products or services. When appropriate, mention them in passing, but the main point of the text is to bring value. We sell later.
+
+- At the very end, wrap up the story by quickly reconnecting with the Hollywood opener and closing that.
+
+- Remember, almost all paragraphs are short.
+```

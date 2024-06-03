@@ -58,7 +58,7 @@ I’m not just strong and sexy, but I have boundless energy because I train my s
 
 I am big yet lean, around 12% body fat but heavier than 80kg. I love to hold my smaller spouse and she feels incredibly safe when held by my strong, big and boundless-energy mass.
 
-I will live like this, full of strength and stamina, for the rest of my long life. I will be at leas 120 years old and do it all in amazing health.
+I will live like this, full of strength and stamina, for the rest of my long life. I will be at least 120 years old and do it all in amazing health.
 
 I don’t get sick. Even when sickness comes up I nourish my body even more and it heals me easily.
 

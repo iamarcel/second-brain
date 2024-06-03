@@ -41,3 +41,5 @@ I'm just starting on this and it'll take months if not years to see results, but
 
 Don't wear tight-fitting underwear. I've noticed that loose underwear causes me to have more (semi-) erections during the day. That's actually a good sign. So I'll transition to that type of underwear now.
 
+# Resources
+- [OMGYES](https://start.omgyes.com/join) - Research-based lessons on stimulating women

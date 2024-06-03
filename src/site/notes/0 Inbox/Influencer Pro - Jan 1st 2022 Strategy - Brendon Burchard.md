@@ -143,7 +143,7 @@ They're back and converting really well. I don't know why and I don't care.
 
 Hold a webinar, sell things for $150+.
 
-What to sell? See [[Offer Grid\|Offer Grid]] in [[0 Inbox/Thought Leader Roadmap\|Thought Leader Roadmap]].
+What to sell? See [[0 Inbox/Offer Grid\|Offer Grid]] in [[0 Inbox/Thought Leader Roadmap\|Thought Leader Roadmap]].
 
 Most of you only need 3 things to sell.
 

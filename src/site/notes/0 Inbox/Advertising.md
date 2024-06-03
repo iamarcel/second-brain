@@ -17,3 +17,7 @@ Think about: **how likely is someone to share this?** Bonus points if it makes t
 - Is it authentic?
 - Is there an “ah ha” moment in it where the reader is shown a different perspective?
 
+## Instagram
+Guide:
+https://nodemedia.notion.site/The-Actionable-Framework-to-Produce-Instagram-Native-Content-by-Aniruddha-Mishra-49b4a539b141438b9558f24f31833a7c
+

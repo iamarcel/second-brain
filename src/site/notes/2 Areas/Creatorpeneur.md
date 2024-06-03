@@ -87,6 +87,7 @@ Create brands that are niched down, very quickly, and sell almost the same produ
 | [[0 Inbox/Niche of One\|Niche of One]]                                                                                                                                         |
 | [[0 Inbox/One-Person Business 1M Revenue in 810 Days - Justin Welsh - Twitter Thread\|One-Person Business 1M Revenue in 810 Days - Justin Welsh - Twitter Thread]]             |
 | [[0 Inbox/Online Courses MOC\|Online Courses MOC]]                                                                                                                             |
+| [[0 Inbox/Output Content\|Output Content]]                                                                                                                                     |
 | [[2 Areas/Output Video MOC\|Output Video MOC]]                                                                                                                                 |
 | [[0 Inbox/Oversimplify when telling stories - Expert Secrets\|Oversimplify when telling stories - Expert Secrets]]                                                             |
 | [[0 Inbox/Personal Monopoly\|Personal Monopoly]]                                                                                                                               |

@@ -14,6 +14,7 @@ tags:: [[0 Inbox/ChatGPT\|ChatGPT]]
 - [[4 Archive/Notes/ReAct - Language Models\|ReAct - Language Models]]
 - [[4 Archive/Notes/Reflexion\|Reflexion]]
 - [[4 Archive/Notes/Retrieval-Augmented Learning - Embeddings and Documents\|Retrieval-Augmented Learning - Embeddings and Documents]]
+- [[0 Inbox/Chain of Density - Summarization Prompts\|Chain of Density - Summarization Prompts]]
 
 ## Sources
 - https://learnprompting.org/docs/intro

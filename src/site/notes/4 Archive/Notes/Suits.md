@@ -21,6 +21,35 @@ Summer suits can come in an open wool weave or linen, both of which show more te
 
 A linen suit is often blended with silk and cotton to make it a bit smoother and more wrinkle resistant than standard linen.
 
+### Wool
+How the wool is prepared:
+- **Worsted** is long fibers spun tightly, like other fabrics. Most common.
+- **Woolen** is "fluffy wool" like you'll find in winter sweaters. More insulating.
+
+Four-season weaves:
+- **Twill** shows a diagonal pattern. Doesn't let much light through, very dense. Tougher and more springy = wrinkle-resistant.
+- **Plain weave** looks like the normal over-under weave. More open than twill. Softer drape, less wrinkle resistant.
+
+Spring/summer weaves:
+- **High-twist** is very similar to worsted plain weave, yarn is twisted more so it's even more springy, open weave.
+	- 300g weight is most common
+	- 4-ply is very durable and very wrinkle resistant, esp. when heavy
+	- Can be very rigid, so can be uncomfortable if the fit is not perfect or too tight
+	- There are high-twist 4-ply wools spun in a way they have natural stretch 
+- **Super** are very fine threads, softer and more delicate and less wrinkle resistant. Recommended to have it not in the beginning. Light weight works better in plain weave. 
+
+Winter weaves:
+- **Tweed** is an open weave, very soft, heavier
+- **Woolen flannels** are very warm, beautiful drape, soft.
+	- Colors are subdued so you can experiment here
+
+Twill at 320g+ "makes a super nice business suit" and drapes very softly, opposite to what it does at lighter weights.
+
+Hopsack:
+- Tight open weave
+- Very light, great for summer
+- The thick weave makes it very durable
+
 ## Shoulder Padding
 The amount of padding in the shoulder is partly style but I feel like more padding feels more formal than less padding. You can even go to almost-nothing which makes the jacket feel and drape more like a sweater than the stiff suit you might think of at first.
 

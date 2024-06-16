@@ -114,8 +114,8 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Slow-Burn System\|Slow-Burn System]]
 - [[4 Archive/Notes/Solutide\|Solutide]]
 - [[4 Archive/Notes/Spaced Repetition\|Spaced Repetition]]
-- [[0 Inbox/The Ceiling\|The Ceiling]]
 - [[4 Archive/Notes/The Ceiling\|The Ceiling]]
+- [[0 Inbox/The Ceiling\|The Ceiling]]
 - [[4 Archive/Notes/The Creation Pyramid\|The Creation Pyramid]]
 - [[0 Inbox/The Decision\|The Decision]]
 - [[4 Archive/Notes/The Hero's Journey\|The Hero's Journey]]
@@ -190,6 +190,7 @@ Here are some links to content that is already published on this site. There's a
 - [[3 Resources/Public Speaking\|Public Speaking]]
 - [[3 Resources/Purpose\|Purpose]]
 - [[3 Resources/Relationships\|Relationships]]
+- [[3 Resources/SEO\|SEO]]
 - [[3 Resources/Sex\|Sex]]
 - [[3 Resources/Sleep\|Sleep]]
 - [[3 Resources/Storytelling\|Storytelling]]
@@ -459,6 +460,8 @@ Here are some links to content that is already published on this site. There's a
 | [[4 Archive/Imported/Self-Hosting\|Self-Hosting]]                                                                                                                                                                                                |
 | [[2 Areas/Self-Obsolescence\|Self-Obsolescence]]                                                                                                                                                                                                 |
 | [[4 Archive/Notes/Sell Like Crazy\|Sell Like Crazy]]                                                                                                                                                                                             |
+| [[3 Resources/SEO\|SEO]]                                                                                                                                                                                                                         |
+| [[0 Inbox/SEO for Beginners - Rank 1 In Google - Brian Dean\|SEO for Beginners - Rank 1 In Google - Brian Dean]]                                                                                                                                 |
 | [[4 Archive/Notes/Set goals for who you will be when you achieve them\|Set goals for who you will be when you achieve them]]                                                                                                                     |
 | [[3 Resources/Sex\|Sex]]                                                                                                                                                                                                                         |
 | [[4 Archive/Notes/Sex is dangerous\|Sex is dangerous]]                                                                                                                                                                                           |

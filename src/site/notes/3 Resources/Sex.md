@@ -17,6 +17,19 @@ A girl's first orgasm is hardest. You can let her cool down a little bit and the
 
 The tip of the clitoris (the pointy part that sticks out and you can see) is very sensitive. Great place to stimulate but be careful not to overdo it. Even "two hairs" of pressure, when done long enough, can make her cum. Many women's clit is hidden underneath a "hood," you can often (but not always) pull it away by pushing up with your thumb and exposing the clit itself.
 
+Around or just after the orgasm I like placing my entire palm on the pubic bone and opening of the vagina, and pressing down on it. You can press surprisingly hard, if you hit the right spot. It's incredibly grounding and soothing for her—and it can even *cause* an orgasm to happen when she's a bit tense and you let her relax with this move.
+
+## The G-Spot & Squirting (?)
+I could consistently make this happen with but neither of us really understood what's going on. There was suddenly a lot of fluid though, of a much dryer consistency than the usual lube'y wetness. No idea where it came from.
+
+The technique here is (quite intense) G-spot stimulation. The spot is like if she's on her back, you put in your finger 2/3rds, palm up and do the "come here" motion. There's a spongy, textured bit right there. Stroke it, push it, that's the place.
+
+That only gets you so far. For the "next level" (please be careful with this), turn your hand around and use your *thumb* to hit the spot. There's a lot more strength and flexibility in that finger. Be prepared for a sore wrist if she's on her back because it's a cramped position. Or you can flip her on her belly and get in easily from behind.
+
+The fun part of this "thumb" variant is that the rest of your fingers end up right around the clit.
+
+To really hammer hard (either with the thumb, or your two middle fingers when she's on her back), keep the wrist locked and use your shoulder and bicep to perform the movement.
+
 ## Deepening Connection
 The best sex is where we both disappear into each other. It's a place where we let go of our egos and where this "earthly" act becomes something deeply spiritual.
 

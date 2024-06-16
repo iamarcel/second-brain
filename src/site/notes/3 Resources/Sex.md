@@ -55,6 +55,8 @@ Then, redirect the sexual energy that's being pent up out of your genitals. Ther
 
 Start doing this already during foreplay. It's no fun already being at 9/10 and having to take a break just as things are getting started.
 
+If you refuse to ejaculate, your girl will go crazy for you. Because she wants to make you cum, and making you cum is also her gaining some power over you. If you don't let her, she'll be mad at you and insanely turned on at the same time.
+
 One more word: don't get *too* stuck up in this. You'll definitely lose some connection and "letting go" as you're practicing this. It's okay to sometimes just say *fuck it* and fuck her hard and go into beast mode and roar and ejaculate after 2 seconds. Just blame her for being too hot 😉. After all it's evolutionarily advantageous for guys to cum quickly.
 
 ## More

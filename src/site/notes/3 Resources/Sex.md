@@ -17,14 +17,50 @@ A girl's first orgasm is hardest. You can let her cool down a little bit and the
 
 The tip of the clitoris (the pointy part that sticks out and you can see) is very sensitive. Great place to stimulate but be careful not to overdo it. Even "two hairs" of pressure, when done long enough, can make her cum. Many women's clit is hidden underneath a "hood," you can often (but not always) pull it away by pushing up with your thumb and exposing the clit itself.
 
-## Male Endurance
+## Deepening Connection
+The best sex is where we both disappear into each other. It's a place where we let go of our egos and where this "earthly" act becomes something deeply spiritual.
+
+Practicing presence in daily life will pay dividends in the bedroom. You can *feel* this. Your partner becomes the only thing that's there, you look deep into each other's eyes, your breaths are perfectly synced and your union becomes the entire world.
+
+Consciously breathe with her. Meditate, or have a sauna, or do breathwork, before sex and thank me later.
+
+## Preventing Ejaculation
 For a long time I've gotten to the point of no return too soon in my opinion. I've definitely learned how far I can go, how to back off, slowing down and ramping back up. That way I can have sex for a long time. And it's very satisfying for my partner as I'm great at fellatio. But still I'd like to keep going for longer when I'm really hammering hard.
 
-I have abstained from masturbating a lot over the years, from the supposed nofap benefits. I do feel that not ejaculating gives me more drive—drive to get a girl that I can redirect to work. That's great.
+So when you're alone, the practice of edging where you come close to ejaculating and then stop it is great to understand where your limits are. Practically, you can even squeeze your pelvic floor to keep the sperm in your body. (If that's difficult, breathing out fully and *then* squeezing has a stronger effect.) You'll still lose the erection though. 
 
-But maybe completely abstaining hurt my endurance. So I'll try the opposite now: endurance training. I can still make sure I don't ejaculate, but masturbate a lot.
+In any case, this is crucial to understand where you are on your "ejaculation scale" from 0 to 10, where you orgasm and ejaculate on 10. Then you understand when to stop, go slower or back off for a while.
 
+## Lasting Longer While Getting Stimulation
+Getting close to ejaculation actually makes it very difficult to for example keep penetrating her, continuously, for a long time. You're always close to the edge and need to slow down often. Of course it's fun to switch between hard and soft, but it's even more fun to have total control.
+
+I'm practicing to getting to the point where I can *decide* to not cum, no matter what she does to me.
+
+This requires taking the presence and meditative practice to another level.
+
+It's not about getting to a 9/10 and then squeezing it. In fact it's tension that makes us men ejaculate, so **staying relaxed is key**. Much more similar to women's orgasms, where we are definitely circulating sexual energy but we're much closer to something like a 6-7/10.
+
+You can practice masturbating while keeping your pelvic floor and other muscles relaxed all the time. The erection won't be as hard as your 9/10 but you can just keep going on and on and on.
+
+The "reverse Kegel" is a specific technique to relax. Where a normal Kegel is like "pulling in" and squeezing like you're stopping yourself from peeing, the reverse Kegel is more of a "pushing out" feeling close to *trying to* pee or shit harder. You can kind of feel your butt cheeks go apart a little when you push out. During sex though don't do this too hard—the key point is relaxing.
+
+From here you do a similar thing to the 9/10 technique from before: try to keep your erection/arousal level around here. I know, you'll want to keep going because you're "only at 8." This takes some discipline. If you're a good man you have it.
+
+## Lasting Longer: Spiritual Practices
+This is something I'm getting acquainted with right now and I still have to wade through the vocabulary before I *really* understand it. In any case, it comes down to helping you stay in this 6-7 zone where you're not getting tense yet full of energy.
+
+The first key point is deep belly breathing. Breathe into your balls, bro! (You'll notice that if you use this visualization, you kinda already do a little reverse Kegel while breathing in.)
+
+Then, redirect the sexual energy that's being pent up out of your genitals. There are a lot of different options here: up the spine, in a circle up from the back and back around and down in the front, pushing the energy into your lover.
+
+Start doing this already during foreplay. It's no fun already being at 9/10 and having to take a break just as things are getting started.
+
+One more word: don't get *too* stuck up in this. You'll definitely lose some connection and "letting go" as you're practicing this. It's okay to sometimes just say *fuck it* and fuck her hard and go into beast mode and roar and ejaculate after 2 seconds. Just blame her for being too hot 😉. After all it's evolutionarily advantageous for guys to cum quickly.
+
+## More
 One great idea for going down on her: while you're doing it, she closes her eyes and you whisper in her ears what you love about her and how she makes you feel.
+
+Taking away her vision is in general something super arousing—the anticipation of "where is he going to touch me next" is priceless.
 
 ## Penis Enlargement
 I have an above-average penis but this still interests me—even if just for the lulz. Enlarging your penis, I don't know, it feels like it's a joke so I'd have a good internal laugh if I can pull it off.

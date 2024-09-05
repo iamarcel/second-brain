@@ -5,6 +5,7 @@
 # Resources
 [[4 Archive/Notes/Sell Like Crazy\|Sell Like Crazy]]
 [[0 Inbox/Sell Like Crazy Summit\|Sell Like Crazy Summit]]
+[7-Figure Swipe File Trello board](https://trello.com/b/D9aJMBDh/the-7-figure-swipe-file)
 
 # Frameworks
 ## CPEAS
@@ -117,6 +118,32 @@ Follow the following rules and guidelines in your text writing:
 - Don't directly pitch or offer specific products or services. When appropriate, mention them in passing, but the main point of the text is to bring value. We sell later.
 
 - At the very end, wrap up the story by quickly reconnecting with the Hollywood opener and closing that.
+
+- Remember, almost all paragraphs are short.
+```
+
+## Adapted to social media
+
+```
+It's very important that your writing is compelling, interesting to read and flows smoothly.
+
+Follow the following rules and guidelines in your text writing:
+
+- Write short sentences with ample space between the lines. Most paragraphs will be a single sentence.
+
+- Almost all paragraphs should be one or two sentences long. Make the text extremely easy to read.
+
+- Vary sentence length. Almost sentences are short, but sometimes there's a longer one and sometimes there's just a single word on a line.
+
+- Make ample use of strong statements, controversy, counterintuitive points and tease ideas or concepts that come later in the text.
+
+- The entire text is written like a personal message from one person to another. Include a lot of personality, write from the point of view of the author's perspective and thinking.
+
+- Feel free to, once in a while, introduce a little bit of humor.
+
+- If you can, add in some literary elements like rhyme, rhythm, alliterations. Don't overdo it, very very subtle and very little, only if you see a good opportunity.
+
+- Always prefer that the reader makes their own conclusions instead of just plain giving it to them. As the writer, you focus on giving the ingredients and explain how to combine them (metaphorically of course), so you let the reader see your point themselves.
 
 - Remember, almost all paragraphs are short.
 ```

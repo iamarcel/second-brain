@@ -3,7 +3,7 @@
 ---
 
 tags:: #source/article [[3 Resources/Copywriting\|Copywriting]] #a/concept 
-author:: [[0 Inbox/The Modern Marketing System\|The Modern Marketing System]] [[0 Inbox/Sphere of Influence\|Sphere of Influence]]
+author:: [[3 Resources/The Modern Marketing System\|The Modern Marketing System]] [[0 Inbox/Sphere of Influence\|Sphere of Influence]]
 [Source](https://themodernmarketingsystem.com/academy/soi/preeminence/)
 
 I use story-driven educational, highly valuable content that is strategically designed to establish authority, and then to further the sale (establishing a chain of beliefs) down the line.

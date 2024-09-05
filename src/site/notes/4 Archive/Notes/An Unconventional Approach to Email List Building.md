@@ -3,7 +3,7 @@
 ---
 
 tags:: #source/article [[3 Resources/Marketing\|Marketing]]
-author:: [[0 Inbox/The Modern Marketing System\|The Modern Marketing System]]
+author:: [[3 Resources/The Modern Marketing System\|The Modern Marketing System]]
 [Source](https://themodernmarketingsystem.com/list-building/)
 
 ![](https://themodernmarketingsystem.com/images/POP.png)

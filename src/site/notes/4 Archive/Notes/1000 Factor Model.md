@@ -9,4 +9,6 @@ source:: [[4 Archive/Notes/Tales Alves\|Tales Alves]]
 
 To make yourself do things, you just need to align enough arrows.
 
+[[4 Archive/Notes/Motivation\|Motivation]]: To motivate yourself, **have 1000 reasons** to do something, because the things that motivate you will be different on different days.
+
 The [[4 Archive/Notes/Mise en place\|Mise en place]] really matters.

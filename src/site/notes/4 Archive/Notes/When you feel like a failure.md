@@ -3,7 +3,7 @@
 ---
 
 tags:: [[0 Inbox/Failure\|Failure]] [[on/emotion\|on/emotion]] #a/statement 
-source:: [[0 Inbox/Nilesh Satguru\|Nilesh Satguru]]
+source:: [[4 Archive/Notes/Nilesh Satguru\|Nilesh Satguru]]
 
 When you feel like a failure, you... 
 - Play small 

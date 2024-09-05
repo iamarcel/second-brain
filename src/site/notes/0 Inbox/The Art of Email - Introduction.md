@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/0-inbox/the-art-of-email-introduction/"}
 ---
 
-tags:: #source/article  [[Email Marketing\|Email Marketing]] [[3 Resources/Marketing\|Marketing]]
-author:: [[0 Inbox/The Modern Marketing System\|The Modern Marketing System]] [[The Art of Email\|The Art of Email]]
+tags:: #source/article  [[0 Inbox/Email Marketing\|Email Marketing]] [[3 Resources/Marketing\|Marketing]]
+author:: [[3 Resources/The Modern Marketing System\|The Modern Marketing System]] [[The Art of Email\|The Art of Email]]
 [Source](https://themodernmarketingsystem.com/academy/aoe/introduction/)
 
 AoE is built on the premise that your email marketing is a *system* that produces *emergent* results, not a collection of random parts with different jobs to accomplish.

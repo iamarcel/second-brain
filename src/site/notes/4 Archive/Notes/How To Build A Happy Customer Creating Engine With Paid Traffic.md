@@ -3,7 +3,7 @@
 ---
 
 tags:: #source/article [[0 Inbox/Advertising\|Advertising]] [[3 Resources/Marketing\|Marketing]]
-author:: [[0 Inbox/The Modern Marketing System\|The Modern Marketing System]]
+author:: [[3 Resources/The Modern Marketing System\|The Modern Marketing System]]
 [Source](https://themodernmarketingsystem.com/paid-traffic-course/)
 
 Broadly useful training is rare. Tactics are taught at the expense of principles (and tactics change quickly).

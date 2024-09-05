@@ -3,7 +3,7 @@
 ---
 
 tags:: [[on/business\|on/business]] [[3 Resources/Marketing\|Marketing]] [[4 Archive/Imported/Leadership\|Leadership]] #a/concept 
-author:: [[Jay Abraham\|Jay Abraham]]
+author:: [[0 Inbox/Jay Abraham\|Jay Abraham]]
 
 Strategy to catapult business success and multiply results. Preemptive business strategy to forge your activities around.
 

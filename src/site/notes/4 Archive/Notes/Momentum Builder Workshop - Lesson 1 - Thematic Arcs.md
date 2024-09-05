@@ -5,7 +5,7 @@
 
 
 tags:: #source/article [[3 Resources/Marketing\|Marketing]] [[2 Areas/Writing\|Writing]] [[3 Resources/Copywriting\|Copywriting]]
-author:: [[0 Inbox/The Modern Marketing System\|The Modern Marketing System]] [[Momentum Builder Workshop\|Momentum Builder Workshop]]
+author:: [[3 Resources/The Modern Marketing System\|The Modern Marketing System]] [[Momentum Builder Workshop\|Momentum Builder Workshop]]
 [Source](https://themodernmarketingsystem.com/academy/mbw-lean/lesson-1/)
 
 Part of the ‘secret sauce' that makes our campaigns so successful is the way we create **thematic arcs** that tie our writing and messages together, *pulling* readers forward, step-by-step from beginning to end.

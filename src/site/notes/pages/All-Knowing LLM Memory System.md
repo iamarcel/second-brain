@@ -1,0 +1,133 @@
+---
+{"dg-publish":true,"permalink":"/pages/all-knowing-llm-memory-system/"}
+---
+
+- Overview of my system
+	- Goal: build a memory system that can be used by an AI assistant that gives it "perfect memory."
+	- Key principles
+		- Salience
+			- Some things might be more "top of mind" for the assistant
+			- This can depend on recency or general importance like PageRank
+			- Highly salient things will be passed to the assistant even if they're not particularly related to the current query, allowing for interactions like "yea but yesterday you said..."
+		- Eager Querying + Deliberate Querying
+			- **Eager Querying**: during regular interactions with the assistant, a fast algorithm pulls up some relevant information with a low level of detail.
+			- **Deliberate Querying**: the AI model can decide to call upon the query tool to retrieve more detailed information.
+		- Data Structure: A combination of graph (entities and relations discovered by an LLM), vector embedding (allowing for semantic search) and direct search (for specific terms)
+		- AI-driven traversal: The AI is made aware of the graph structure and can decide to query more deeply.
+		- Episodic Memory: The timeline of events is stored in the graph database as well, powering recency salience and allowing memories of specific moments or dates. This also allows timestamped references to other nodes.
+		- [[pages/0 Inbox/Progressive Summarization\|Progressive Summarization]]: Especially important for episodic memory, the history of interactions is progressively summarized to include less detail with respect to things a longer time ago.
+			- In GraphRAG this is implemented as a summary property on nodes. I don't agree with having it on every single node, and we'll need to create new nodes for summaries of things if the LLM doesn't come up with this by itself. E.g., if we have "iPhone" and "Samsung phone" nodes, something should be smart enough to create the "Smartphone" node, summarize and link it.
+		- Hierarchical + Connection Edges: The AI needs to be able to traverse both high-level information and more details as necessary.
+		- Randomness: in any situation, *some* less-related and/or less-salient entries are returned
+- Discussion with ChatGPT
+  collapsed:: true
+	- #### **1. Memory System Structure**
+	- **Unified Graph Approach:**
+		- All memory types (short-term, mid-term, long-term) should exist within a single graph structure for seamless interaction.
+		- Graph enables hierarchical organization and links:
+			- High-level concepts → Subsections → Detailed nodes.
+			- Links between episodic events and long-term nodes for richer retrieval.
+		- Benefits:
+			- Hierarchical indexing for focused retrieval.
+			- Temporal and semantic connections improve query relevance.
+			- Promotion of episodic memory into long-term memory when frequently referenced.
+	- #### **2. Short-Term and Episodic Memory**
+	- **Integration into the Graph:**
+		- Episodic memory nodes represent recent interactions, tasks, or user states.
+		- Metadata for episodic nodes:
+			- Timestamp, decay rate, relevance, semantic links.
+		- Temporal decay model:
+			- Episodic memory decays unless referenced or promoted.
+			- Lazy promotion: Only integrate into long-term memory when explicitly needed.
+	- **Dynamic Retrieval Strategy:**
+		- Search episodic layer first; expand to mid/long-term if needed.
+		- Temporal links between episodic nodes preserve event sequences.
+	- #### **3. Ingestion of Existing Notes**
+	- **Starting Point:**
+		- Use unstructured notes (Logseq/Obsidian) as seed data for the memory system.
+	- **Analysis by LLMs:**
+		- Capabilities:
+			- Extract entities, relationships, and structure.
+			- Summarize and infer links between concepts.
+		- Challenges:
+			- LLM variability in outputs (relation types, entity consistency).
+			- Need for structured guidance.
+	- **Strategies for Consistency:**
+		- Define an ontology:
+			- Entities (e.g., `Person`, `Project`, `Idea`).
+			- Relationships (e.g., `is working on`, `depends on`, `relates to`).
+		- Few-shot prompting with examples ensures adherence to ontology.
+		- Post-processing rules or graph constraints validate consistency.
+		- Optional fine-tuning of LLM for better domain-specific performance.
+	- #### **4. Writing Back Insights to Notes**
+	- **Durability and Portability:**
+		- Write enriched insights into notes to ensure a durable, human-readable datastore.
+		- Use Markdown structure (YAML frontmatter, tags):
+			- Entities, relationships, summaries embedded directly in notes.
+		- Sync mechanisms:
+			- Assistant updates notes periodically or when user actions modify memory.
+			- Diff-based syncing ensures consistency.
+	- **Version Control:**
+		- Avoid overwriting; append changes for a traceable knowledge history.
+	- #### **5. Relation Building and Maintenance**
+	- **Entity and Relationship Types:**
+		- Use a graph database (e.g., Neo4j) for strict type enforcement and validation.
+		- Relationships include:
+			- Hierarchical links (abstraction levels).
+			- Temporal links (event sequences).
+			- Semantic links (conceptual relationships).
+	- **Iterative Refinement:**
+		- Periodically reprocess old notes with updated tools/ontologies for better consistency.
+		- Adapt memory structure over time as relevance changes.
+	- #### **6. Key Processes for Continuous Growth**
+	- **Real-Time Updates:**
+		- Analyze and integrate new or modified notes immediately.
+		- Enrich memory graph incrementally based on interactions.
+	- **Event-Driven Enrichment:**
+		- Prioritize frequent queries or referenced areas for deeper enrichment.
+	- **Summarization Pipelines:**
+		- Periodic compression of episodic memory into mid-term nodes.
+		- Multi-layer summaries ensure high-level overviews and detailed access.
+	- #### **7. Future-Proofing Knowledge**
+	- **Benefits of Unified Graph with Note Syncing:**
+		- Durable personal knowledge base in Markdown ensures portability.
+		- Retains all processed insights independent of the assistant system.
+		- Supports long-term usability even if switching systems.
+	- #### **8. Open Questions and Considerations**
+	- **Eager vs. Lazy Retrieval:**
+		- Fine-tune when to retrieve related nodes versus relying purely on search queries.
+	- **LLM Limitations:**
+		- Assess if variability in semantic extraction can hinder the quality of relationships.
+		- Explore hybrid models (LLM + rule-based or symbolic systems).
+	- ### **Key Outcome:**
+	  
+	  The system should integrate short-term, mid-term, and long-term memory within a unified, linked graph structure. By ingesting and enriching existing notes while maintaining a durable and portable knowledge base, the assistant becomes smarter, more contextually aware, and evolves dynamically over time.
+- Search algorithms and concepts
+  collapsed:: true
+	- Similarity Search
+	  collapsed:: true
+		- About
+			- Similarity Search lets you find similar things, this is how we use RAG usually. See also: [[pages/4 Archive/Notes/Retrieval-Augmented Learning - Embeddings and Documents\|Retrieval-Augmented Learning - Embeddings and Documents]]
+			- It has semantic representations that let us find things fast
+			- We retrieve with k-NN (K nearest neighbor) but in practice more with ANN (Approximate Nearest Neighbors) that uses index structures to narrow the search space.
+		- Facebook AI Similarity Search (FAISS) - leading library to implement efficient similarity search
+		- Hierarchical Navigable Small Words (HNSW) indexing
+			- HNSW is a graph-based ANN index. A "proximity graph."
+			- Probability skip lists: levels of linked lists with increasing precision, once we "past" the thing we're looking for we go one level deeper to search for the exact thing.
+			- This is still indexing over vector search, so it still has the vector search limitations I think
+		- Cascading Retrieval
+	- Neural Information Retrieval
+	  collapsed:: true
+		- Method that usually first-stage retrieves candidate documents, and then re-ranks this using a contextualized language model such as BERT.
+		- DeepImpact takes docT5query and adds semantic importance *per token* in the document
+		- the "pinecone-sparse-v0" thing (embedder?) does this weighing of tokens
+			- MW this sounds interesting actually in terms of named entity extraction when I'm building a graph over documents too
+			- pinecone-sparse-v0 is model-free so no inference required at query encode time, that's nice
+		- Reranking
+			- Pinecone has some re-rankers, this is useful for limiting the documents that finally end up in the LLM context
+	- Query Prediction: docT5query takes a document and generates queries for which the document might be relevant. This pushes neural inference to *indexing time*.
+	  collapsed:: true
+		- MW this links well to the "sleep mode" synthesis phase of the model I'd be building
+- Technologies
+  collapsed:: true
+	- [CozoDB](https://docs.cozodb.org/en/latest/) A database relational first but also great support for graph, it seems. Very small community, but looks great. You do queries through Datalog. It seems to have something like PageRank built-in.

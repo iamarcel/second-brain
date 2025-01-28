@@ -16,7 +16,12 @@ Have fun and ponder where these stories come from in your own. What beliefs, pre
 
 
 
-About once a week, you should sit down with your closest men friends and discuss what you are doing in your life and what you are afraid of doing. Short and simple. Then your friends should give you a behavioral experiment, something you can do that will reveal something to you, or grant more freedom in your life. 
+- ### Enjoy your friends’ criticism
+  About once a week, you should sit down with your closest men friends and discuss what you are doing in your life and what you are afraid of doing. Short and simple. Then your friends should give you a behavioral experiment, something you can do that will reveal something to you, or grant more freedom in your life. 
+  
+  Good friends should not tolerate mediocrity in one another.
+  
+  The father force is the force of loving challenge and guidance.
 
 </div></div>
 

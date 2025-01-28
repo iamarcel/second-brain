@@ -25,6 +25,8 @@ tags:: [[0 Inbox/ChatGPT\|ChatGPT]]
 ## Prompt Lists
 - [111 Writing Prompts](https://gigantic-grin-edb.notion.site/Prompt-Vault-e2bfc73890c046968d0a194089b2cbc2)
 - [ChatGPT Template for Sales Copy](https://joserosado.notion.site/Chat-GPT-Templatize-Sales-Copy-de3b98e243bb48dea3c96a5bd1f18449)
+- [GPT-4 Engineering Mastery 2.0](https://closed-hyacinth-b7f.notion.site/GPT-4-Engineering-Mastery-2-0-9ba52a8018fd423dba3b2f7c719c9be2)
+- [X Business Mastery](https://closed-hyacinth-b7f.notion.site/Business-Mastery-Prompt-Pack-90446100636e4e74bca92882ee33ca7c)
 
 ## Ideas
 ### Proactivity

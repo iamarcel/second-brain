@@ -4,7 +4,7 @@
 
 
 tags:: #output/tweet 
-up:: [[4 Archive/Become a Modern Master\|Become a Modern Master]]
+up:: [[4 Archive/Notes/Become a Modern Master\|Become a Modern Master]]
 
 
 # Key Points

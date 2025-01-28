@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/airtable-ai-powerful-new-features-to-govern-and-scale-with-ease/"}
 ---
 
-tags:: #source/article [[0 Inbox/Airtable\|Airtable]] [[3 Resources/AI\|AI]] [[4 Archive/AI Accelerator Program\|AI Accelerator Program]]
+tags:: #source/article [[0 Inbox/Airtable\|Airtable]] [[3 Resources/AI\|AI]] [[4 Archive/Notes/AI Accelerator Program\|AI Accelerator Program]]
 author:: [[Airtable Blog\|Airtable Blog]]
 [Source](https://blog.airtable.com/new-enterprise-features-to-govern-and-scale/?utm_ID=recVmRgLtijrlDgrw&utm_source=lifecycle_team&utm_medium=email&utm_campaign=it_ss_ss_newsletter-whats-new&utm_content=email_2309_v1_control&utm_extra2=701PE000001CHkVYAW&utm_extra5=0-90D_active)
 

@@ -5,12 +5,12 @@
 up:: [[4 Archive/Notes/Tunch\|Tunch]]
 
 Links:
+
 - [[4 Archive/Notes/Large Language Models\|Large Language Models]]
 - [[4 Archive/Notes/Prompt Engineering\|Prompt Engineering]]
-- [[0 Inbox/LLM Agents\|LLM Agents]]
+- [[LLM Agents\|LLM Agents]]
 - [[0 Inbox/ChatGPT\|ChatGPT]]
-
-# Presentation
+- # Presentation
 - Explain Chat API
 - completion(message[])
 	- { role: "system" | "assistant" | "user", content: string }

@@ -4,5 +4,5 @@
 
 
 - [[4 Archive/Notes/Large Language Models\|Large Language Models]]
-	- [[0 Inbox/LLM Agents\|LLM Agents]]
+	- [[LLM Agents\|LLM Agents]]
 - [[0 Inbox/ChatGPT\|ChatGPT]]

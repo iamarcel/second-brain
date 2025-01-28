@@ -10,57 +10,57 @@ We know [[4 Archive/Notes/Spaced Repetition\|Spaced Repetition]] works very well
 Jason Capital keeps each of his notes on an index card and reviews them before going to sleep.
 [[4 Archive/Notes/Maps of Content\|Maps of Content]] surface notes so you're exposed to them often.
 
-| File                                                                                                                                | Date modified                 |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[1 Projects/Marcel Samyn Brand Document\|Marcel Samyn Brand Document]]                                                          | 3:31 PM - October 08, 2024    |
-| [[1 Projects/Sexual Kung Fu - Ejaculation Control Course\|Sexual Kung Fu - Ejaculation Control Course]]                          | 3:31 PM - October 08, 2024    |
-| [[0 Inbox/Claire Hayek\|Claire Hayek]]                                                                                           | 5:17 PM - October 07, 2024    |
-| [[4 Archive/AI Accelerator Program\|AI Accelerator Program]]                                                                     | 11:08 AM - October 02, 2024   |
-| [[Journal/2024-10-01\|2024-10-01]]                                                                                               | 7:55 AM - October 01, 2024    |
-| [[3 Resources/Jar of Awesome\|Jar of Awesome]]                                                                                   | 7:57 AM - September 30, 2024  |
-| [[Goals\|Goals]]                                                                                                                 | 7:48 AM - September 30, 2024  |
-| [[0 Inbox/Zielo Studio\|Zielo Studio]]                                                                                           | 2:12 PM - September 27, 2024  |
-| [[Journal/2024-09-14\|2024-09-14]]                                                                                               | 8:17 AM - September 16, 2024  |
-| [[0 Inbox/Letter - Is it really difficult - 2024-09-14\|Letter - Is it really difficult - 2024-09-14]]                           | 8:54 AM - September 14, 2024  |
-| [[2024-09-13 Chat with Laura - Zielo Studio\|2024-09-13 Chat with Laura - Zielo Studio]]                                         | 8:15 AM - September 14, 2024  |
-| [[Journal/2024-09-13\|2024-09-13]]                                                                                               | 9:37 AM - September 13, 2024  |
-| [[1 Projects/How to Host a Successful Webinar Webinar - Workshop\|How to Host a Successful Webinar Webinar - Workshop]]          | 8:49 AM - September 13, 2024  |
-| [[2024-09-11 Call with Thomas\|2024-09-11 Call with Thomas]]                                                                     | 3:23 PM - September 11, 2024  |
-| [[2024-09-11 MSP TB AI LinkedIn Live\|2024-09-11 MSP TB AI LinkedIn Live]]                                                       | 2:13 PM - September 11, 2024  |
-| [[2024-09-13 Check backup of Hanit again\|2024-09-13 Check backup of Hanit again]]                                               | 11:49 AM - September 11, 2024 |
-| [[2024-09-13 Write some more emails for Hanit\|2024-09-13 Write some more emails for Hanit]]                                     | 11:49 AM - September 11, 2024 |
-| [[2024-09-13 Read and schedule Hanit emails\|2024-09-13 Read and schedule Hanit emails]]                                         | 11:49 AM - September 11, 2024 |
-| [[2024-09-13 Write some stories for Hanit\|2024-09-13 Write some stories for Hanit]]                                             | 11:49 AM - September 11, 2024 |
-| [[2024-09-11 Work on DCM Form App\|2024-09-11 Work on DCM Form App]]                                                             | 11:49 AM - September 11, 2024 |
-| [[Chat with Hanit - 2024-09-10\|Chat with Hanit - 2024-09-10]]                                                                   | 4:14 PM - September 10, 2024  |
-| [[2024-09-10 MSP - Enable Lead Ads\|2024-09-10 MSP - Enable Lead Ads]]                                                           | 2:59 PM - September 10, 2024  |
-| [[2024-09-11 MSP TB Prepare Resource PDF\|2024-09-11 MSP TB Prepare Resource PDF]]                                               | 2:27 PM - September 10, 2024  |
-| [[2024-09-10 DCM - Setup\|2024-09-10 DCM - Setup]]                                                                               | 1:57 PM - September 10, 2024  |
-| [[2024-09-10 MSP - AI Webinar Prep\|2024-09-10 MSP - AI Webinar Prep]]                                                           | 1:56 PM - September 10, 2024  |
-| [[2024-09-10 Gym\|2024-09-10 Gym]]                                                                                               | 9:08 AM - September 10, 2024  |
-| [[2024-09-10 MSP Work\|2024-09-10 MSP Work]]                                                                                     | 9:08 AM - September 10, 2024  |
-| [[2024-09-10 Hanit Checkup\|2024-09-10 Hanit Checkup]]                                                                           | 9:08 AM - September 10, 2024  |
-| [[2024-09-09 DCM Form App\|2024-09-09 DCM Form App]]                                                                             | 9:07 AM - September 10, 2024  |
-| [[2024-09-09 Call with Yuri\|2024-09-09 Call with Yuri]]                                                                         | 3:44 PM - September 09, 2024  |
-| [[0 Inbox/Drones\|Drones]]                                                                                                       | 2:18 PM - September 09, 2024  |
-| [[Journal/2024-09-09\|2024-09-09]]                                                                                               | 8:29 AM - September 09, 2024  |
-| [[0 Inbox/Letter - Stories make the simple things land - 2024-09-07\|Letter - Stories make the simple things land - 2024-09-07]] | 3:50 PM - September 08, 2024  |
-| [[Journal/2024-09-08\|2024-09-08]]                                                                                               | 1:28 PM - September 08, 2024  |
-| [[2024-09-08 Narnia Call\|2024-09-08 Narnia Call]]                                                                               | 9:56 AM - September 08, 2024  |
-| [[2024-09-08 Movie\|2024-09-08 Movie]]                                                                                           | 9:56 AM - September 08, 2024  |
-| [[2024-09-08 Visiting Tim\|2024-09-08 Visiting Tim]]                                                                             | 9:56 AM - September 08, 2024  |
-| [[2024-09-08 Gym\|2024-09-08 Gym]]                                                                                               | 9:52 AM - September 08, 2024  |
-| [[2024-09-08 Reading From the Core\|2024-09-08 Reading From the Core]]                                                           | 9:52 AM - September 08, 2024  |
-| [[0 Inbox/From The Core - John Wineland\|From The Core - John Wineland]]                                                         | 9:04 AM - September 08, 2024  |
-| [[2024-09-07 Day Tasks\|2024-09-07 Day Tasks]]                                                                                   | 8:17 AM - September 08, 2024  |
-| [[Journal/2024-09-07\|2024-09-07]]                                                                                               | 9:47 PM - September 07, 2024  |
-| [[2024-09-07 DCM - onboard new coaches\|2024-09-07 DCM - onboard new coaches]]                                                   | 3:26 PM - September 07, 2024  |
-| [[2024-09-07 Do some writing\|2024-09-07 Do some writing]]                                                                       | 10:58 AM - September 07, 2024 |
-| [[0 Inbox/Output Content\|Output Content]]                                                                                       | 10:35 AM - September 07, 2024 |
-| [[0 Inbox/Untitled 27\|Untitled 27]]                                                                                             | 9:32 AM - September 07, 2024  |
-| [[4 Archive/Templates/Daily Journal Template\|Daily Journal Template]]                                                           | 9:09 AM - September 07, 2024  |
-| [[0 Inbox/Automations Review for DCM - 2024-9-04\|Automations Review for DCM - 2024-9-04]]                                       | 2:55 PM - September 04, 2024  |
-| [[Journal/2024-09-04\|2024-09-04]]                                                                                               | 10:45 AM - September 04, 2024 |
-| [[0 Inbox/Chat with MSP Teambuilding - 2024-09-03\|Chat with MSP Teambuilding - 2024-09-03]]                                     | 7:12 PM - September 03, 2024  |
+| File                                                                                                                            | Date modified               |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[0 Inbox/The Calm Company - Main Funnel\|The Calm Company - Main Funnel]]                                                   | 4:25 PM - January 28, 2025  |
+| [[0 Inbox/MSP TB - NeuroLeadership Program\|MSP TB - NeuroLeadership Program]]                                               | 10:37 AM - January 28, 2025 |
+| [[4 Archive/Notes/My Identity\|My Identity]]                                                                                 | 8:05 AM - January 28, 2025  |
+| [[journals/2025-01-27\|2025-01-27]]                                                                                          | 8:47 AM - January 27, 2025  |
+| [[journals/2025-01-26\|2025-01-26]]                                                                                          | 7:38 PM - January 26, 2025  |
+| [[4 Archive/Notes/Post - You matter post-AI\|Post - You matter post-AI]]                                                     | 4:41 PM - January 25, 2025  |
+| [[journals/2025-01-25\|2025-01-25]]                                                                                          | 9:03 AM - January 25, 2025  |
+| [[journals/2025-01-24\|2025-01-24]]                                                                                          | 5:20 PM - January 24, 2025  |
+| [[journals/2025-01-23\|2025-01-23]]                                                                                          | 3:58 PM - January 23, 2025  |
+| [[logseq/bak/4 Archive/Notes/Morning Mindset/2025-01-23T09_24_16.657Z.Desktop\|2025-01-23T09_24_16.657Z.Desktop]]            | 10:24 AM - January 23, 2025 |
+| [[logseq/bak/4 Archive/Notes/Large Language Models/2025-01-23T09_24_16.653Z.Desktop\|2025-01-23T09_24_16.653Z.Desktop]]      | 10:24 AM - January 23, 2025 |
+| [[logseq/bak/0 Inbox/My 300/2025-01-23T09_24_16.439Z.Desktop\|2025-01-23T09_24_16.439Z.Desktop]]                             | 10:24 AM - January 23, 2025 |
+| [[logseq/bak/0 Inbox/MSP TB - NeuroLeadership Program/2025-01-23T09_24_16.438Z.Desktop\|2025-01-23T09_24_16.438Z.Desktop]]   | 10:24 AM - January 23, 2025 |
+| [[logseq/bak/0 Inbox/A Day in 2027/2025-01-23T09_24_16.397Z.Desktop\|2025-01-23T09_24_16.397Z.Desktop]]                      | 10:24 AM - January 23, 2025 |
+| [[logseq/bak/4 Archive/Templates/Daily Journal Template/2025-01-23T09_24_16.669Z.Desktop\|2025-01-23T09_24_16.669Z.Desktop]] | 10:24 AM - January 23, 2025 |
+| [[4 Archive/Notes/Morning Mindset\|Morning Mindset]]                                                                         | 9:10 AM - January 23, 2025  |
+| [[4 Archive/Templates/Daily Journal Template\|Daily Journal Template]]                                                       | 9:07 AM - January 23, 2025  |
+| [[journals/2025-01-22\|2025-01-22]]                                                                                          | 10:03 PM - January 22, 2025 |
+| [[journals/2025-01-22.sync-conflict-20250122-193042-YXEAOEV\|2025-01-22.sync-conflict-20250122-193042-YXEAOEV]]              | 7:30 PM - January 22, 2025  |
+| [[Untitled\|Untitled]]                                                                                                       | 10:38 AM - January 22, 2025 |
+| [[journals/2025-01-20\|2025-01-20]]                                                                                          | 9:46 AM - January 21, 2025  |
+| [[journals/2025-01-21\|2025-01-21]]                                                                                          | 9:43 AM - January 21, 2025  |
+| [[journals/2025-01-20.sync-conflict-20250120-091751-YXEAOEV\|2025-01-20.sync-conflict-20250120-091751-YXEAOEV]]              | 9:17 AM - January 20, 2025  |
+| [[4 Archive/Notes/Large Language Models\|Large Language Models]]                                                             | 8:33 AM - January 20, 2025  |
+| [[journals/2025-01-20.sync-conflict-20250120-083245-YXEAOEV\|2025-01-20.sync-conflict-20250120-083245-YXEAOEV]]              | 8:32 AM - January 20, 2025  |
+| [[journals/2025-01-19\|2025-01-19]]                                                                                          | 5:52 PM - January 19, 2025  |
+| [[0 Inbox/ChatGPT\|ChatGPT]]                                                                                                 | 4:56 PM - January 19, 2025  |
+| [[Tech Prophet Vision\|Tech Prophet Vision]]                                                                                 | 4:55 PM - January 19, 2025  |
+| [[4 Archive/Notes/Prompt Engineering\|Prompt Engineering]]                                                                   | 8:47 AM - January 19, 2025  |
+| [[journals/2025-01-18\|2025-01-18]]                                                                                          | 7:19 PM - January 18, 2025  |
+| [[0 Inbox/A Day in 2027\|A Day in 2027]]                                                                                     | 1:02 PM - January 18, 2025  |
+| [[0 Inbox/My 300\|My 300]]                                                                                                   | 12:11 PM - January 18, 2025 |
+| [[journals/2025-01-17.sync-conflict-20250117-135255-YXEAOEV\|2025-01-17.sync-conflict-20250117-135255-YXEAOEV]]              | 1:52 PM - January 17, 2025  |
+| [[Chat with Jean-Francois - 2025-01-17 - Discai\|Chat with Jean-Francois - 2025-01-17 - Discai]]                             | 1:49 PM - January 17, 2025  |
+| [[journals/2025-01-17\|2025-01-17]]                                                                                          | 1:38 PM - January 17, 2025  |
+| [[journals/2025-01-15\|2025-01-15]]                                                                                          | 8:03 PM - January 15, 2025  |
+| [[journals/2025-01-14\|2025-01-14]]                                                                                          | 4:21 PM - January 14, 2025  |
+| [[logseq/bak/3 Resources/Jar of Awesome/2025-01-14T07_42_30.996Z.Desktop\|2025-01-14T07_42_30.996Z.Desktop]]                 | 8:42 AM - January 14, 2025  |
+| [[3 Resources/Jar of Awesome\|Jar of Awesome]]                                                                               | 8:42 AM - January 14, 2025  |
+| [[logseq/bak/3 Resources/Jar of Awesome/2025-01-14T07_42_24.594Z.Desktop\|2025-01-14T07_42_24.594Z.Desktop]]                 | 8:42 AM - January 14, 2025  |
+| [[logseq/bak/3 Resources/Jar of Awesome/2025-01-14T07_42_18.386Z.Desktop\|2025-01-14T07_42_18.386Z.Desktop]]                 | 8:42 AM - January 14, 2025  |
+| [[logseq/bak/journals/2025-01-14/2025-01-14T07_41_43.901Z.Desktop\|2025-01-14T07_41_43.901Z.Desktop]]                        | 8:41 AM - January 14, 2025  |
+| [[logseq/bak/4 Archive/Notes/Morning Mindset/2025-01-14T07_41_03.384Z.Desktop\|2025-01-14T07_41_03.384Z.Desktop]]            | 8:41 AM - January 14, 2025  |
+| [[logseq/bak/4 Archive/Notes/Morning Mindset/2025-01-14T07_40_55.923Z.Desktop\|2025-01-14T07_40_55.923Z.Desktop]]            | 8:40 AM - January 14, 2025  |
+| [[logseq/bak/4 Archive/Notes/Morning Mindset/2025-01-14T07_40_52.584Z.Desktop\|2025-01-14T07_40_52.584Z.Desktop]]            | 8:40 AM - January 14, 2025  |
+| [[journals/2025-01-13\|2025-01-13]]                                                                                          | 6:59 PM - January 13, 2025  |
+| [[logseq/bak/journals/2025-01-05/2025-01-13T17_55_50.922Z.Desktop\|2025-01-13T17_55_50.922Z.Desktop]]                        | 6:55 PM - January 13, 2025  |
+| [[logseq/bak/journals/2025-01-10/2025-01-13T17_55_50.923Z.Desktop\|2025-01-13T17_55_50.923Z.Desktop]]                        | 6:55 PM - January 13, 2025  |
+| [[logseq/bak/journals/2025-01-04/2025-01-13T17_55_50.921Z.Desktop\|2025-01-13T17_55_50.921Z.Desktop]]                        | 6:55 PM - January 13, 2025  |
+| [[logseq/bak/journals/2025-01-06/2025-01-13T17_55_50.923Z.Desktop\|2025-01-13T17_55_50.923Z.Desktop]]                        | 6:55 PM - January 13, 2025  |
 
 { .block-language-dataview}

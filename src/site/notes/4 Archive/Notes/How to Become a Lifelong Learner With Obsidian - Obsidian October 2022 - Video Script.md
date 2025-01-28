@@ -57,7 +57,7 @@ Thank you GPT-3:
 - [[4 Archive/Notes/The Garden and the Stream - A Technopastoral\|The Garden and the Stream - A Technopastoral]]
 - [[4 Archive/Notes/De-streaming\|De-streaming]]
 	- [[0 Inbox/Remember what you learn by reviewing recent notes regularly\|Remember what you learn by reviewing recent notes regularly]]
-		- Example: [[Journal/2022-10-09\|2022-10-09]]
+		- Example: [[journals/2022-10-09\|2022-10-09]]
 	- [[0 Inbox/Progressive Summarization\|Progressive Summarization]]
 	- [[0 Inbox/Restructure information to understand it\|Restructure information to understand it]]
 		- Example: [[4 Archive/Notes/A Framework For a Virtuous Life - Call with Tales\|A Framework For a Virtuous Life - Call with Tales]]

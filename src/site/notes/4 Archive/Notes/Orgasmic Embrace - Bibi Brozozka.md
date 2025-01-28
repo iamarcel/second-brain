@@ -3,7 +3,7 @@
 ---
 
 
-up:: [[4 Archive/Mindvalley University 2022\|Mindvalley University 2022]]
+up:: [[4 Archive/Notes/Mindvalley University 2022\|Mindvalley University 2022]]
 author:: [[4 Archive/Notes/Bibi Brozozka\|Bibi Brozozka]]
 tags:: #source/lecture 
 

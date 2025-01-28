@@ -3,7 +3,7 @@
 ---
 
 up:: [[0 Inbox/ChatGPT\|ChatGPT]] [[0 Inbox/AI Tools\|AI Tools]] #output/software 
-tags:: [[0 Inbox/LLM Agents\|LLM Agents]]
+tags:: [[LLM Agents\|LLM Agents]]
 
 # Vision
 LifeGPT takes state-of-the-art artificial intelligence and makes it as useful as possible for your life. Think of it as a virtual assistant: you can talk to it and have regular conversations, but you can also direct it with tasks that it can execute on your behalf, autonomously in the background. Lastly, you can connect LifeGPT to an inbox like your e-mail or direct messages, and instruct it to hold conversations or even take actions on your behalf.

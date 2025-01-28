@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/watchful-dragons-why-and-how-to-tell-a-story/"}
 ---
 
-up:: [[4 Archive/Become a Modern Master\|Become a Modern Master]]
+up:: [[4 Archive/Notes/Become a Modern Master\|Become a Modern Master]]
 tags:: [[3 Resources/Storytelling\|Storytelling]]
 
 Why tell stories? Dragons.

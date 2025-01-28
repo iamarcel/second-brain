@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/mix-your-voice-with-ai-how-to-write-anything-using-the-5-different-types-of-writing-voices/"}
 ---
 
-tags:: #source/article [[4 Archive/AI Accelerator Program\|AI Accelerator Program]] [[0 Inbox/ChatGPT\|ChatGPT]] [[2 Areas/Writing\|Writing]]
+tags:: #source/article [[4 Archive/Notes/AI Accelerator Program\|AI Accelerator Program]] [[0 Inbox/ChatGPT\|ChatGPT]] [[2 Areas/Writing\|Writing]]
 author:: [[Dickie Bush\|Dickie Bush]]
 [Source](https://writewithai.substack.com/p/mix-your-voice-with-ai-how-to-write)
 

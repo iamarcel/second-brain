@@ -6,7 +6,7 @@
 tags:: #a/moc [[on/creator-economy\|on/creator-economy]]
 
 # Projects
-[[4 Archive/Become a Modern Master\|Become a Modern Master]]
+[[4 Archive/Notes/Become a Modern Master\|Become a Modern Master]]
 
 # Learning
 ## Foundations
@@ -53,12 +53,12 @@ Create brands that are niched down, very quickly, and sell almost the same produ
 | File                                                                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[4 Archive/Notes/10 Rules to get to 100k subscribers in a year - Captain Sinbad\|10 Rules to get to 100k subscribers in a year - Captain Sinbad]]                             |
-| [[4 Archive/7 Days to Genius - Dan Koe\|7 Days to Genius - Dan Koe]]                                                                                                           |
+| [[4 Archive/Notes/7 Days to Genius - Dan Koe\|7 Days to Genius - Dan Koe]]                                                                                                     |
 | [[4 Archive/Notes/A Niche of One - What Is It & How to Do It - Sana A Ahmed\|A Niche of One - What Is It & How to Do It - Sana A Ahmed]]                                       |
 | [[4 Archive/Notes/Ali Abdaal Deep Dive - Sahil Bloom - Grew from 0 to 500k\|Ali Abdaal Deep Dive - Sahil Bloom - Grew from 0 to 500k]]                                         |
 | [[4 Archive/Notes/Backstory Framework - Justin Welsh\|Backstory Framework - Justin Welsh]]                                                                                     |
 | [[4 Archive/Notes/Balance mystery and openness\|Balance mystery and openness]]                                                                                                 |
-| [[4 Archive/Become a Modern Master\|Become a Modern Master]]                                                                                                                   |
+| [[4 Archive/Notes/Become a Modern Master\|Become a Modern Master]]                                                                                                             |
 | [[4 Archive/Notes/Brendon Burchard went from earning nothing to financial freedom in 1.5 years\|Brendon Burchard went from earning nothing to financial freedom in 1.5 years]] |
 | [[0 Inbox/Building an Expert Empire - Brendon Burchard\|Building an Expert Empire - Brendon Burchard]]                                                                         |
 | [[4 Archive/Notes/Chat Ben Van Delm - 20220821\|Chat Ben Van Delm - 20220821]]                                                                                                 |

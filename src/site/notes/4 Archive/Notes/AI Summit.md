@@ -13,7 +13,7 @@ tags:: [[3 Resources/AI\|AI]] [[0 Inbox/ChatGPT\|ChatGPT]] [[0 Inbox/Stable Diff
 - AI attracts people but often they need non-AI things *first*. Though having AI now can accelerate whatever they're doing.
 - Abstract talk doesn't work. People need *specific* things. Vishen's main selling point was saving 1-2 days per week of work. They overwhelmed people with ideas here and then sold them to the more detailed course.
 - This overwhelmed people, they need hand-holding. I don't have to be afraid of filling those 2 hours per week, most people are a lot slower than I am.
-- Let's pick up the people who didn't buy AI Mastery. I'll make a better program that's cheaper: [[4 Archive/AI Accelerator Program\|AI Accelerator Program]]
+- Let's pick up the people who didn't buy AI Mastery. I'll make a better program that's cheaper: [[4 Archive/Notes/AI Accelerator Program\|AI Accelerator Program]]
 
 ---
 

@@ -173,7 +173,6 @@ Here are some links to content that is already published on this site. There's a
 - [[4 Archive/Notes/Slow-Burn System\|Slow-Burn System]]
 - [[4 Archive/Notes/Solutide\|Solutide]]
 - [[4 Archive/Notes/Spaced Repetition\|Spaced Repetition]]
-- [[0 Inbox/The Ceiling\|The Ceiling]]
 - [[4 Archive/Notes/The Ceiling\|The Ceiling]]
 - [[4 Archive/Notes/The Creation Pyramid\|The Creation Pyramid]]
 - [[0 Inbox/The Decision\|The Decision]]

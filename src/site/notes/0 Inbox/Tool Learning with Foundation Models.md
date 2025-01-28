@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-inbox/tool-learning-with-foundation-models/"}
 ---
 
-tags:: #source/article [[4 Archive/Notes/Large Language Models\|Large Language Models]] [[0 Inbox/LLM Agents\|LLM Agents]]
+tags:: #source/article [[4 Archive/Notes/Large Language Models\|Large Language Models]] [[LLM Agents\|LLM Agents]]
 [Source](https://arxiv.org/abs/2304.08354)
 
 Source code and dataset: https://github.com/OpenBMB/BMTools

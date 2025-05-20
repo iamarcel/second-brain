@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/building-a-business-with-ai-public-page/"}
 ---
 
-up:: [[0 Inbox/AI-Powered Business - MVU 2023 Workshop\|AI-Powered Business - MVU 2023 Workshop]] [[0 Inbox/Mindvalley University 2023\|Mindvalley University 2023]]
+up:: [[0 Inbox/AI-Powered Business - MVU 2023 Workshop\|AI-Powered Business - MVU 2023 Workshop]] [[notes/Mindvalley University 2023\|Mindvalley University 2023]]
 tags:: [[3 Resources/AI\|AI]] [[0 Inbox/ChatGPT\|ChatGPT]] [[0 Inbox/Stable Diffusion\|Stable Diffusion]] #output/workshop 
 
 ChatGPT is the cheapest, fastest way to access intelligence on-demand. Think of it like an intern with an infinite amount of time, but they managed to bend spacetime so a day of their work is finished in a few seconds.

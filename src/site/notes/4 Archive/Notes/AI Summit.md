@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/ai-summit/"}
 ---
 
-up:: [[0 Inbox/Mindvalley University 2023\|Mindvalley University 2023]]
+up:: [[notes/Mindvalley University 2023\|Mindvalley University 2023]]
 tags:: [[3 Resources/AI\|AI]] [[0 Inbox/ChatGPT\|ChatGPT]] [[0 Inbox/Stable Diffusion\|Stable Diffusion]]
 
 # Lessons

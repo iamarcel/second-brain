@@ -10,57 +10,57 @@ We know [[4 Archive/Notes/Spaced Repetition\|Spaced Repetition]] works very well
 Jason Capital keeps each of his notes on an index card and reviews them before going to sleep.
 [[4 Archive/Notes/Maps of Content\|Maps of Content]] surface notes so you're exposed to them often.
 
-| File                                                                                                                            | Date modified                |
-| ------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[4 Archive/Notes/Nicotine\|Nicotine]]                                                                                       | 9:48 AM - February 09, 2025  |
-| [[4 Archive/Notes/CreatorsAI 2.0 - Frank Kern\|CreatorsAI 2.0 - Frank Kern]]                                                 | 9:29 AM - February 09, 2025  |
-| [[journals/2025-02-09\|2025-02-09]]                                                                                          | 8:39 AM - February 09, 2025  |
-| [[_FileOrganizer2000/Templates/meeting_note\|meeting_note]]                                                                  | 8:31 AM - February 09, 2025  |
-| [[journals/2025-02-08\|2025-02-08]]                                                                                          | 2:48 PM - February 08, 2025  |
-| [[Discai\|Discai]]                                                                                                           | 11:03 AM - February 07, 2025 |
-| [[3 Resources/Jar of Awesome\|Jar of Awesome]]                                                                               | 9:52 PM - February 06, 2025  |
-| [[Lisa Bolduc - AI Consultation\|Lisa Bolduc - AI Consultation]]                                                             | 4:34 PM - February 06, 2025  |
-| [[4 Archive/Notes/Morning Mindset\|Morning Mindset]]                                                                         | 8:41 AM - February 06, 2025  |
-| [[journals/2025-02-06\|2025-02-06]]                                                                                          | 7:16 AM - February 06, 2025  |
-| [[journals/2025-02-05\|2025-02-05]]                                                                                          | 3:16 PM - February 05, 2025  |
-| [[Funnel Hacking Live 2025\|Funnel Hacking Live 2025]]                                                                       | 11:14 AM - February 05, 2025 |
-| [[Funnel Hacking Live\|Funnel Hacking Live]]                                                                                 | 10:18 AM - February 05, 2025 |
-| [[journals/2025-02-04\|2025-02-04]]                                                                                          | 10:17 AM - February 05, 2025 |
-| [[Bachata\|Bachata]]                                                                                                         | 3:45 PM - February 04, 2025  |
-| [[journals/2025-02-03\|2025-02-03]]                                                                                          | 11:39 AM - February 04, 2025 |
-| [[6-Figure Coaching Club\|6-Figure Coaching Club]]                                                                           | 8:33 PM - February 03, 2025  |
-| [[journals/2025-02-03.sync-conflict-20250203-175258-YXEAOEV\|2025-02-03.sync-conflict-20250203-175258-YXEAOEV]]              | 5:53 PM - February 03, 2025  |
-| [[journals/2025-02-03.sync-conflict-20250203-172706-YXEAOEV\|2025-02-03.sync-conflict-20250203-172706-YXEAOEV]]              | 5:27 PM - February 03, 2025  |
-| [[2 Areas/Output Video MOC\|Output Video MOC]]                                                                               | 4:41 PM - February 03, 2025  |
-| [[0 Inbox/MSP TB - NeuroLeadership Program\|MSP TB - NeuroLeadership Program]]                                               | 2:22 PM - February 03, 2025  |
-| [[AI Assistant Memory System - Short Scripts\|AI Assistant Memory System - Short Scripts]]                                   | 7:57 AM - February 03, 2025  |
-| [[journals/2025-02-02\|2025-02-02]]                                                                                          | 11:39 AM - February 02, 2025 |
-| [[journals/Weekly/2025-W06\|2025-W06]]                                                                                       | 11:14 AM - February 02, 2025 |
-| [[4 Archive/Imported/Supplements\|Supplements]]                                                                              | 10:56 AM - February 02, 2025 |
-| [[4 Archive/Notes/My Identity\|My Identity]]                                                                                 | 12:03 PM - February 01, 2025 |
-| [[journals/2025-02-01\|2025-02-01]]                                                                                          | 8:14 AM - February 01, 2025  |
-| [[journals/2025-01-31\|2025-01-31]]                                                                                          | 8:31 AM - January 31, 2025   |
-| [[journals/2025-01-29\|2025-01-29]]                                                                                          | 6:17 PM - January 29, 2025   |
-| [[journals/2025-01-28\|2025-01-28]]                                                                                          | 10:14 AM - January 29, 2025  |
-| [[0 Inbox/The Calm Company - Main Funnel\|The Calm Company - Main Funnel]]                                                   | 4:25 PM - January 28, 2025   |
-| [[journals/2025-01-27\|2025-01-27]]                                                                                          | 8:47 AM - January 27, 2025   |
-| [[journals/2025-01-26\|2025-01-26]]                                                                                          | 7:38 PM - January 26, 2025   |
-| [[4 Archive/Notes/Post - You matter post-AI\|Post - You matter post-AI]]                                                     | 4:41 PM - January 25, 2025   |
-| [[journals/2025-01-25\|2025-01-25]]                                                                                          | 9:03 AM - January 25, 2025   |
-| [[journals/2025-01-24\|2025-01-24]]                                                                                          | 5:20 PM - January 24, 2025   |
-| [[journals/2025-01-23\|2025-01-23]]                                                                                          | 3:58 PM - January 23, 2025   |
-| [[logseq/bak/4 Archive/Notes/Morning Mindset/2025-01-23T09_24_16.657Z.Desktop\|2025-01-23T09_24_16.657Z.Desktop]]            | 10:24 AM - January 23, 2025  |
-| [[logseq/bak/4 Archive/Notes/Large Language Models/2025-01-23T09_24_16.653Z.Desktop\|2025-01-23T09_24_16.653Z.Desktop]]      | 10:24 AM - January 23, 2025  |
-| [[logseq/bak/0 Inbox/My 300/2025-01-23T09_24_16.439Z.Desktop\|2025-01-23T09_24_16.439Z.Desktop]]                             | 10:24 AM - January 23, 2025  |
-| [[logseq/bak/0 Inbox/MSP TB - NeuroLeadership Program/2025-01-23T09_24_16.438Z.Desktop\|2025-01-23T09_24_16.438Z.Desktop]]   | 10:24 AM - January 23, 2025  |
-| [[logseq/bak/0 Inbox/A Day in 2027/2025-01-23T09_24_16.397Z.Desktop\|2025-01-23T09_24_16.397Z.Desktop]]                      | 10:24 AM - January 23, 2025  |
-| [[logseq/bak/4 Archive/Templates/Daily Journal Template/2025-01-23T09_24_16.669Z.Desktop\|2025-01-23T09_24_16.669Z.Desktop]] | 10:24 AM - January 23, 2025  |
-| [[4 Archive/Templates/Daily Journal Template\|Daily Journal Template]]                                                       | 9:07 AM - January 23, 2025   |
-| [[journals/2025-01-22\|2025-01-22]]                                                                                          | 10:03 PM - January 22, 2025  |
-| [[journals/2025-01-22.sync-conflict-20250122-193042-YXEAOEV\|2025-01-22.sync-conflict-20250122-193042-YXEAOEV]]              | 7:30 PM - January 22, 2025   |
-| [[journals/2025-01-20\|2025-01-20]]                                                                                          | 9:46 AM - January 21, 2025   |
-| [[journals/2025-01-21\|2025-01-21]]                                                                                          | 9:43 AM - January 21, 2025   |
-| [[journals/2025-01-20.sync-conflict-20250120-091751-YXEAOEV\|2025-01-20.sync-conflict-20250120-091751-YXEAOEV]]              | 9:17 AM - January 20, 2025   |
-| [[4 Archive/Notes/Large Language Models\|Large Language Models]]                                                             | 8:33 AM - January 20, 2025   |
+| File                                                                                                                                                                                | Date modified           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[notes/Mindvalley University\|Mindvalley University]]                                                                                                                           | 7:11 AM - May 20, 2025  |
+| [[0 Inbox/Silver Laus - Mushrooms\|Silver Laus - Mushrooms]]                                                                                                                     | 7:10 AM - May 20, 2025  |
+| [[0 Inbox/Vic - Branding\|Vic - Branding]]                                                                                                                                       | 7:10 AM - May 20, 2025  |
+| [[0 Inbox/Productivity MVU24\|Productivity MVU24]]                                                                                                                               | 7:10 AM - May 20, 2025  |
+| [[0 Inbox/liane - Success\|liane - Success]]                                                                                                                                     | 7:10 AM - May 20, 2025  |
+| [[0 Inbox/Dianne Kosto - Brainwaves\|Dianne Kosto - Brainwaves]]                                                                                                                 | 7:10 AM - May 20, 2025  |
+| [[0 Inbox/Moneyfeststion\|Moneyfeststion]]                                                                                                                                       | 7:10 AM - May 20, 2025  |
+| [[0 Inbox/Emily Fletcher - Manifest with sexual energy\|Emily Fletcher - Manifest with sexual energy]]                                                                           | 7:10 AM - May 20, 2025  |
+| [[0 Inbox/Chris Reynolds - Lessons from Billionaires - 2024-07-18\|Chris Reynolds - Lessons from Billionaires - 2024-07-18]]                                                     | 7:09 AM - May 20, 2025  |
+| [[0 Inbox/Yvette - From Pain to Power - My Journey of Healing and Discovery\|Yvette - From Pain to Power - My Journey of Healing and Discovery]]                                 | 7:09 AM - May 20, 2025  |
+| [[0 Inbox/Mindvalley University 2024\|Mindvalley University 2024]]                                                                                                               | 7:09 AM - May 20, 2025  |
+| [[notes/Mindvalley University 2023\|Mindvalley University 2023]]                                                                                                                 | 7:09 AM - May 20, 2025  |
+| [[4 Archive/Notes/Post-MVU2022 Reflection Integration Intention-Setting and Progress-Making\|Post-MVU2022 Reflection Integration Intention-Setting and Progress-Making]]         | 7:09 AM - May 20, 2025  |
+| [[4 Archive/Notes/Lessons from Mindvalley University 2022\|Lessons from Mindvalley University 2022]]                                                                             | 7:09 AM - May 20, 2025  |
+| [[0 Inbox/Mindvalley University Tribe 2.0 Integration Call\|Mindvalley University Tribe 2.0 Integration Call]]                                                                   | 7:09 AM - May 20, 2025  |
+| [[4 Archive/Notes/Mindvalley University 2022 Closing Ceremony\|Mindvalley University 2022 Closing Ceremony]]                                                                     | 7:09 AM - May 20, 2025  |
+| [[4 Archive/Notes/Scaling your business - notes from Valentina\|Scaling your business - notes from Valentina]]                                                                   | 7:09 AM - May 20, 2025  |
+| [[4 Archive/Notes/Subconscious Success - Muneer Al Busaidi\|Subconscious Success - Muneer Al Busaidi]]                                                                           | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Manliness Lunch - Karl\|Manliness Lunch - Karl]]                                                                                                               | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/How to become a TEDx speaker\|How to become a TEDx speaker]]                                                                                                   | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Advanced Mastery of State and Soul - Vishen Lakhiani\|Advanced Mastery of State and Soul - Vishen Lakhiani]]                                                   | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Developing the body you always wanted - Ronan Diego de Oliveira\|Developing the body you always wanted - Ronan Diego de Oliveira]]                             | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Orgasmic Embrace - Bibi Brozozka\|Orgasmic Embrace - Bibi Brozozka]]                                                                                           | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Astral Projection - Jane Shaw\|Astral Projection - Jane Shaw]]                                                                                                 | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Lucid Dreaming - Charlie Morley\|Lucid Dreaming - Charlie Morley]]                                                                                             | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Biohacker’s Way - Teemu Arina\|Biohacker’s Way - Teemu Arina]]                                                                                                 | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Make your first 10K in 10 days\|Make your first 10K in 10 days]]                                                                                               | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/The Essential Eight\|The Essential Eight]]                                                                                                                     | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Daniel Packard - Why you're still not there\|Daniel Packard - Why you're still not there]]                                                                     | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Overcoming Fears - Luca\|Overcoming Fears - Luca]]                                                                                                             | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Spiritual Quest - Srikumar Rao\|Spiritual Quest - Srikumar Rao]]                                                                                               | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Reflection and Intention Session - my Tribe event\|Reflection and Intention Session - my Tribe event]]                                                         | 7:08 AM - May 20, 2025  |
+| [[4 Archive/Notes/Linda Clemons - Can I touch you there\|Linda Clemons - Can I touch you there]]                                                                                 | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Workshop Quantum Man - Juan Pablo Barahona\|Workshop Quantum Man - Juan Pablo Barahona]]                                                                       | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Breathwork session - Mike O'Meara\|Breathwork session - Mike O'Meara]]                                                                                         | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Amplify your intuition to thrive in every area of life - Juan Pablo Barahona\|Amplify your intuition to thrive in every area of life - Juan Pablo Barahona]]   | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/The naked truth - it's about love - Sheila Kelly\|The naked truth - it's about love - Sheila Kelly]]                                                           | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Skip Kelly social\|Skip Kelly social]]                                                                                                                         | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/The billionaire, the artist and the orphan - Nora Tollenaar-Szanto\|The billionaire, the artist and the orphan - Nora Tollenaar-Szanto]]                       | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Designing your ultimate health and life plan - Chief Life Office introduction\|Designing your ultimate health and life plan - Chief Life Office introduction]] | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Life as a game - live with joy - Carlos Acala Marcos\|Life as a game - live with joy - Carlos Acala Marcos]]                                                   | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Leading with the heart of the Buddha - Gautam Khetrapal\|Leading with the heart of the Buddha - Gautam Khetrapal]]                                             | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Guide to going viral - Brendan Kane\|Guide to going viral - Brendan Kane]]                                                                                     | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Sourcing from the future and healing - Katherine Woodward\|Sourcing from the future and healing - Katherine Woodward]]                                         | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Eni Selfo - Meet Your Community\|Eni Selfo - Meet Your Community]]                                                                                             | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Introduction Session\|Introduction Session]]                                                                                                                   | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Paul McKennon - Lecture\|Paul McKennon - Lecture]]                                                                                                             | 7:07 AM - May 20, 2025  |
+| [[4 Archive/Notes/Mindvalley University 2022\|Mindvalley University 2022]]                                                                                                       | 7:07 AM - May 20, 2025  |
+| [[journals/2025-05-19\|2025-05-19]]                                                                                                                                              | 8:32 AM - May 19, 2025  |
+| [[Discai\|Discai]]                                                                                                                                                               | 11:22 AM - May 16, 2025 |
 
 { .block-language-dataview}

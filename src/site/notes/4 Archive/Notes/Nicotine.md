@@ -8,6 +8,8 @@ tags:: [[Nootropics\|Nootropics]] [[4 Archive/Imported/Supplements\|Supplements]
     - Nicotine can offer acute cognitive benefits, primarily in attention, reaction time, and some aspects of memory.
     - Not a super-clear demonstrated positive-only thing but there's more positive research being released.
     - Danger in addiction and overuse—be careful, take low doses that take get processed relatively slowly by your body so the addiction doesn't come up.
+- Resources
+	- [Huberman has a good video](https://www.youtube.com/watch?v=uXs-zPc63kM), just skip over the bits about smoking
 - Primary Demonstrated Benefits (Short-Term & Acute):
     - **Attention:**
         - **Alerting Attention:** Improved ability to maintain an alert state (e.g., sustained attention tasks) [PMC3151730].

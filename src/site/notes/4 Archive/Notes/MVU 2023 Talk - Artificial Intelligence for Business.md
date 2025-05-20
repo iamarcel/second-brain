@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/mvu-2023-talk-artificial-intelligence-for-business/"}
 ---
 
-tags:: #output/lecture [[0 Inbox/Mindvalley University 2023\|Mindvalley University 2023]] [[3 Resources/AI\|AI]] [[0 Inbox/ChatGPT\|ChatGPT]]
+tags:: #output/lecture [[notes/Mindvalley University 2023\|Mindvalley University 2023]] [[3 Resources/AI\|AI]] [[0 Inbox/ChatGPT\|ChatGPT]]
 author:: [[4 Archive/Notes/Marcel Samyn\|Marcel Samyn]]
 
 # Learnings

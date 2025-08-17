@@ -9,7 +9,7 @@ I've always been complimented on my performance in bed—even from my first time
 ## Pleasuring Women
 What do I feel is the most important for giving your girlfriend a "wow" effect? Number one is **pay attention**. Listen to her moaning, feel her, smell her. Notice the effect of everything you do. You can play around with it and learn that way—different women get off from different things.
 
-If you find something that works, just keep going at the same pace. We guys are used to upping intensity when it's good but it doesn't work the same way for women.
+If you find something that works, just keep going at the **same pace**. We guys are used to upping intensity when it's good but it doesn't work the same way for women.
 
 Start slow. Tease a lot. I have a lot of fun going so slowly that she's begging for me to keep going. And the orgasms after that are great.
 
@@ -76,6 +76,8 @@ One more word: don't get *too* stuck up in this. You'll definitely lose some con
 One great idea for going down on her: while you're doing it, she closes her eyes and you whisper in her ears what you love about her and how she makes you feel.
 
 Taking away her vision is in general something super arousing—the anticipation of "where is he going to touch me next" is priceless.
+
+The Countdown: when she's about to cum, back off to make her beg—then go back in action and slowly, confidently count down.
 
 ## Penis Enlargement
 I have an above-average penis but this still interests me—even if just for the lulz. Enlarging your penis, I don't know, it feels like it's a joke so I'd have a good internal laugh if I can pull it off.

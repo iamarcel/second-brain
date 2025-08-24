@@ -46,7 +46,7 @@ Stop expending energy in the constant repair of the bad results that have been p
 
 # Testimonials
 > "_Work the System_ is integral to the Mindvalley operation. Simple and powerful…essential reading for the CEO."
-> – [[Vishen Lakhiani\|Vishen Lakhiani]]
+> – [[0 Inbox/Vishen Lakhiani\|Vishen Lakhiani]]
 
 > One of the most useful business books you’ll ever read.
 > 

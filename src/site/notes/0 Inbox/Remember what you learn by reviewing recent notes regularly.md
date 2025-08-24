@@ -10,57 +10,57 @@ We know [[4 Archive/Notes/Spaced Repetition\|Spaced Repetition]] works very well
 Jason Capital keeps each of his notes on an index card and reviews them before going to sleep.
 [[4 Archive/Notes/Maps of Content\|Maps of Content]] surface notes so you're exposed to them often.
 
-| File                                                                                                                                                                                | Date modified           |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[notes/Mindvalley University\|Mindvalley University]]                                                                                                                           | 7:11 AM - May 20, 2025  |
-| [[0 Inbox/Silver Laus - Mushrooms\|Silver Laus - Mushrooms]]                                                                                                                     | 7:10 AM - May 20, 2025  |
-| [[0 Inbox/Vic - Branding\|Vic - Branding]]                                                                                                                                       | 7:10 AM - May 20, 2025  |
-| [[0 Inbox/Productivity MVU24\|Productivity MVU24]]                                                                                                                               | 7:10 AM - May 20, 2025  |
-| [[0 Inbox/liane - Success\|liane - Success]]                                                                                                                                     | 7:10 AM - May 20, 2025  |
-| [[0 Inbox/Dianne Kosto - Brainwaves\|Dianne Kosto - Brainwaves]]                                                                                                                 | 7:10 AM - May 20, 2025  |
-| [[0 Inbox/Moneyfeststion\|Moneyfeststion]]                                                                                                                                       | 7:10 AM - May 20, 2025  |
-| [[0 Inbox/Emily Fletcher - Manifest with sexual energy\|Emily Fletcher - Manifest with sexual energy]]                                                                           | 7:10 AM - May 20, 2025  |
-| [[0 Inbox/Chris Reynolds - Lessons from Billionaires - 2024-07-18\|Chris Reynolds - Lessons from Billionaires - 2024-07-18]]                                                     | 7:09 AM - May 20, 2025  |
-| [[0 Inbox/Yvette - From Pain to Power - My Journey of Healing and Discovery\|Yvette - From Pain to Power - My Journey of Healing and Discovery]]                                 | 7:09 AM - May 20, 2025  |
-| [[0 Inbox/Mindvalley University 2024\|Mindvalley University 2024]]                                                                                                               | 7:09 AM - May 20, 2025  |
-| [[notes/Mindvalley University 2023\|Mindvalley University 2023]]                                                                                                                 | 7:09 AM - May 20, 2025  |
-| [[4 Archive/Notes/Post-MVU2022 Reflection Integration Intention-Setting and Progress-Making\|Post-MVU2022 Reflection Integration Intention-Setting and Progress-Making]]         | 7:09 AM - May 20, 2025  |
-| [[4 Archive/Notes/Lessons from Mindvalley University 2022\|Lessons from Mindvalley University 2022]]                                                                             | 7:09 AM - May 20, 2025  |
-| [[0 Inbox/Mindvalley University Tribe 2.0 Integration Call\|Mindvalley University Tribe 2.0 Integration Call]]                                                                   | 7:09 AM - May 20, 2025  |
-| [[4 Archive/Notes/Mindvalley University 2022 Closing Ceremony\|Mindvalley University 2022 Closing Ceremony]]                                                                     | 7:09 AM - May 20, 2025  |
-| [[4 Archive/Notes/Scaling your business - notes from Valentina\|Scaling your business - notes from Valentina]]                                                                   | 7:09 AM - May 20, 2025  |
-| [[4 Archive/Notes/Subconscious Success - Muneer Al Busaidi\|Subconscious Success - Muneer Al Busaidi]]                                                                           | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Manliness Lunch - Karl\|Manliness Lunch - Karl]]                                                                                                               | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/How to become a TEDx speaker\|How to become a TEDx speaker]]                                                                                                   | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Advanced Mastery of State and Soul - Vishen Lakhiani\|Advanced Mastery of State and Soul - Vishen Lakhiani]]                                                   | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Developing the body you always wanted - Ronan Diego de Oliveira\|Developing the body you always wanted - Ronan Diego de Oliveira]]                             | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Orgasmic Embrace - Bibi Brozozka\|Orgasmic Embrace - Bibi Brozozka]]                                                                                           | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Astral Projection - Jane Shaw\|Astral Projection - Jane Shaw]]                                                                                                 | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Lucid Dreaming - Charlie Morley\|Lucid Dreaming - Charlie Morley]]                                                                                             | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Biohacker’s Way - Teemu Arina\|Biohacker’s Way - Teemu Arina]]                                                                                                 | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Make your first 10K in 10 days\|Make your first 10K in 10 days]]                                                                                               | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/The Essential Eight\|The Essential Eight]]                                                                                                                     | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Daniel Packard - Why you're still not there\|Daniel Packard - Why you're still not there]]                                                                     | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Overcoming Fears - Luca\|Overcoming Fears - Luca]]                                                                                                             | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Spiritual Quest - Srikumar Rao\|Spiritual Quest - Srikumar Rao]]                                                                                               | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Reflection and Intention Session - my Tribe event\|Reflection and Intention Session - my Tribe event]]                                                         | 7:08 AM - May 20, 2025  |
-| [[4 Archive/Notes/Linda Clemons - Can I touch you there\|Linda Clemons - Can I touch you there]]                                                                                 | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Workshop Quantum Man - Juan Pablo Barahona\|Workshop Quantum Man - Juan Pablo Barahona]]                                                                       | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Breathwork session - Mike O'Meara\|Breathwork session - Mike O'Meara]]                                                                                         | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Amplify your intuition to thrive in every area of life - Juan Pablo Barahona\|Amplify your intuition to thrive in every area of life - Juan Pablo Barahona]]   | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/The naked truth - it's about love - Sheila Kelly\|The naked truth - it's about love - Sheila Kelly]]                                                           | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Skip Kelly social\|Skip Kelly social]]                                                                                                                         | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/The billionaire, the artist and the orphan - Nora Tollenaar-Szanto\|The billionaire, the artist and the orphan - Nora Tollenaar-Szanto]]                       | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Designing your ultimate health and life plan - Chief Life Office introduction\|Designing your ultimate health and life plan - Chief Life Office introduction]] | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Life as a game - live with joy - Carlos Acala Marcos\|Life as a game - live with joy - Carlos Acala Marcos]]                                                   | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Leading with the heart of the Buddha - Gautam Khetrapal\|Leading with the heart of the Buddha - Gautam Khetrapal]]                                             | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Guide to going viral - Brendan Kane\|Guide to going viral - Brendan Kane]]                                                                                     | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Sourcing from the future and healing - Katherine Woodward\|Sourcing from the future and healing - Katherine Woodward]]                                         | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Eni Selfo - Meet Your Community\|Eni Selfo - Meet Your Community]]                                                                                             | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Introduction Session\|Introduction Session]]                                                                                                                   | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Paul McKennon - Lecture\|Paul McKennon - Lecture]]                                                                                                             | 7:07 AM - May 20, 2025  |
-| [[4 Archive/Notes/Mindvalley University 2022\|Mindvalley University 2022]]                                                                                                       | 7:07 AM - May 20, 2025  |
-| [[journals/2025-05-19\|2025-05-19]]                                                                                                                                              | 8:32 AM - May 19, 2025  |
-| [[Discai\|Discai]]                                                                                                                                                               | 11:22 AM - May 16, 2025 |
+| File                                                                                                                                                | Date modified             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[0 Inbox/Practice writing to create better YouTube videos\|Practice writing to create better YouTube videos]]                                   | 7:32 PM - August 24, 2025 |
+| [[0 Inbox/Serendipity Vehicle\|Serendipity Vehicle]]                                                                                             | 7:31 PM - August 24, 2025 |
+| [[0 Inbox/The Curse of Knowledge\|The Curse of Knowledge]]                                                                                       | 7:31 PM - August 24, 2025 |
+| [[4 Archive/Notes/Magically Turn Headlines Into Short-Form Content With ChatGPT\|Magically Turn Headlines Into Short-Form Content With ChatGPT]] | 7:31 PM - August 24, 2025 |
+| [[2 Areas/Writing\|Writing]]                                                                                                                     | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Notes/Iman Gadzhi - Pen to Profit\|Iman Gadzhi - Pen to Profit]]                                                                     | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Notes/How to build a perspective\|How to build a perspective]]                                                                       | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Notes/How Writing Online Made me a Millionaire - Ali Abdaal\|How Writing Online Made me a Millionaire - Ali Abdaal]]                 | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Notes/Evergreen note-writing helps insight accumulate\|Evergreen note-writing helps insight accumulate]]                             | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Notes/Building a Second Brain Course\|Building a Second Brain Course]]                                                               | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Notes/Balance mystery and openness\|Balance mystery and openness]]                                                                   | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Imported/Intermediate Packets\|Intermediate Packets]]                                                                                | 7:30 PM - August 24, 2025 |
+| [[0 Inbox/Writing a good Tweet or Thread\|Writing a good Tweet or Thread]]                                                                       | 7:30 PM - August 24, 2025 |
+| [[0 Inbox/Remind Them\|Remind Them]]                                                                                                             | 7:30 PM - August 24, 2025 |
+| [[0 Inbox/Personal Monopoly\|Personal Monopoly]]                                                                                                 | 7:30 PM - August 24, 2025 |
+| [[4 Archive/Notes/Yuri Minski\|Yuri Minski]]                                                                                                     | 7:28 PM - August 24, 2025 |
+| [[4 Archive/Notes/Alec van Arendonk\|Alec van Arendonk]]                                                                                         | 7:27 PM - August 24, 2025 |
+| [[4 Archive/Notes/Aaron Elsner\|Aaron Elsner]]                                                                                                   | 7:27 PM - August 24, 2025 |
+| [[4 Archive/Notes/Tatyana Fomina\|Tatyana Fomina]]                                                                                               | 7:27 PM - August 24, 2025 |
+| [[4 Archive/Notes/Tales Alves\|Tales Alves]]                                                                                                     | 7:27 PM - August 24, 2025 |
+| [[4 Archive/Templates/Person Template\|Person Template]]                                                                                         | 7:27 PM - August 24, 2025 |
+| [[4 Archive/Notes/Hector Woods\|Hector Woods]]                                                                                                   | 7:27 PM - August 24, 2025 |
+| [[0 Inbox/Chat with Hector\|Chat with Hector]]                                                                                                   | 7:21 PM - August 24, 2025 |
+| [[4 Archive/Notes/My Identity\|My Identity]]                                                                                                     | 2:56 PM - August 24, 2025 |
+| [[1 Projects/AI & Consciousness Book\|AI & Consciousness Book]]                                                                                  | 4:47 PM - August 23, 2025 |
+| [[0 Inbox/Post - Corners of Amsterdam - Photos\|Post - Corners of Amsterdam - Photos]]                                                           | 6:58 PM - August 22, 2025 |
+| [[0 Inbox/DCM Client Management Portal Spec\|DCM Client Management Portal Spec]]                                                                 | 5:43 PM - August 22, 2025 |
+| [[4 Archive/Notes/Morning Mindset\|Morning Mindset]]                                                                                             | 9:11 AM - August 22, 2025 |
+| [[1 Projects/Tech Prophet Vision\|Tech Prophet Vision]]                                                                                          | 9:03 AM - August 22, 2025 |
+| [[journals/2025-08-21\|2025-08-21]]                                                                                                              | 2:11 PM - August 21, 2025 |
+| [[0 Inbox/Jorge Garcia\|Jorge Garcia]]                                                                                                           | 1:59 PM - August 21, 2025 |
+| [[0 Inbox/Weekend with Val Jorge and Lukas - 2022-12-11\|Weekend with Val Jorge and Lukas - 2022-12-11]]                                         | 1:57 PM - August 21, 2025 |
+| [[0 Inbox/Daniel Barahona\|Daniel Barahona]]                                                                                                     | 1:56 PM - August 21, 2025 |
+| [[0 Inbox/Martijn van Hoek\|Martijn van Hoek]]                                                                                                   | 1:53 PM - August 21, 2025 |
+| [[0 Inbox/Mike Israetel\|Mike Israetel]]                                                                                                         | 1:45 PM - August 21, 2025 |
+| [[4 Archive/Notes/Ana Victoria Molina\|Ana Victoria Molina]]                                                                                     | 1:43 PM - August 21, 2025 |
+| [[4 Archive/Notes/Cassidy Chapman\|Cassidy Chapman]]                                                                                             | 1:42 PM - August 21, 2025 |
+| [[0 Inbox/Gali Nuriel\|Gali Nuriel]]                                                                                                             | 1:41 PM - August 21, 2025 |
+| [[0 Inbox/Vishen Lakhiani\|Vishen Lakhiani]]                                                                                                     | 1:36 PM - August 21, 2025 |
+| [[3 Resources/Jar of Awesome\|Jar of Awesome]]                                                                                                   | 1:36 PM - August 21, 2025 |
+| [[0 Inbox/Xenia Bogorad\|Xenia Bogorad]]                                                                                                         | 1:34 PM - August 21, 2025 |
+| [[0 Inbox/Francesca\|Francesca]]                                                                                                                 | 1:25 PM - August 21, 2025 |
+| [[0 Inbox/Vykintas Glodenis\|Vykintas Glodenis]]                                                                                                 | 1:23 PM - August 21, 2025 |
+| [[4 Archive/Notes/David Kips\|David Kips]]                                                                                                       | 1:22 PM - August 21, 2025 |
+| [[4 Archive/Notes/Elena Ozun\|Elena Ozun]]                                                                                                       | 1:22 PM - August 21, 2025 |
+| [[0 Inbox/Veerle Meeussen\|Veerle Meeussen]]                                                                                                     | 1:21 PM - August 21, 2025 |
+| [[0 Inbox/Valentina Garay\|Valentina Garay]]                                                                                                     | 1:21 PM - August 21, 2025 |
+| [[4 Archive/Notes/Taimi Karing\|Taimi Karing]]                                                                                                   | 1:21 PM - August 21, 2025 |
+| [[4 Archive/Notes/Sonia Chopra\|Sonia Chopra]]                                                                                                   | 1:21 PM - August 21, 2025 |
+| [[4 Archive/Notes/Simon Tan\|Simon Tan]]                                                                                                         | 1:21 PM - August 21, 2025 |
 
 { .block-language-dataview}

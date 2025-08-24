@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/imported/intermediate-packets/"}
 ---
 
-tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/note-taking\|on/note-taking]] [[on/writing\|on/writing]] 
+tags:: [[2 Areas/Second Brain\|Second Brain]] [[on/note-taking\|on/note-taking]] [[2 Areas/Writing\|Writing]] 
 up:: [[2 Areas/Second Brain\|Second Brain]]
 author:: [[4 Archive/Imported/Tiago Forte\|Tiago Forte]]
 

@@ -39,7 +39,7 @@ Adapting to corona virus = start of my digital-first thought leadership.
 
 Investing in a job now which isn't consistent with the on-my-own path now. Really entertaining living in a team. Was hard to pull 10y back to 5y or 1y. In 1y Sn be started.
 
-**Every time you get blocked in note taking, write about the blockage.**  [[on/writing\|on/writing]]
+**Every time you get blocked in note taking, write about the blockage.**  [[2 Areas/Writing\|Writing]]
 
 Capstone project? Catches my mind: cursus, start an email newsletter, make a film.
 

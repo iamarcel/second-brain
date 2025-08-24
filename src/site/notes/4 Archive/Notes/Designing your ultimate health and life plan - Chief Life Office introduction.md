@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/4-archive/notes/designing-your-ultimate-health-and-life-plan-chief-life-office-introduction/"}
 ---
 
-author:: [[Vishen Lakhiani\|Vishen Lakhiani]]
+author:: [[0 Inbox/Vishen Lakhiani\|Vishen Lakhiani]]
 up:: [[4 Archive/Notes/Mindvalley University 2022\|Mindvalley University 2022]]
 tags:: #source/mindvalley #source/lecture 
 

@@ -12,6 +12,15 @@ Jason Capital keeps each of his notes on an index card and reviews them before g
 
 | File                                                                                                                                                | Date modified             |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[3 Resources/Copywriting\|Copywriting]]                                                                                                         | 2:33 PM - August 25, 2025 |
+| [[journals/2025-08-25\|2025-08-25]]                                                                                                              | 9:13 AM - August 25, 2025 |
+| [[4 Archive/Notes/2025-06-08-The human-centered technology manifesto\|2025-06-08-The human-centered technology manifesto]]                       | 8:42 PM - August 24, 2025 |
+| [[2025-08-24 - Interaction Email - Gali Ratings Checkin\|2025-08-24 - Interaction Email - Gali Ratings Checkin]]                                 | 8:33 PM - August 24, 2025 |
+| [[4 Archive/Interactions/Untitled\|Untitled]]                                                                                                    | 8:29 PM - August 24, 2025 |
+| [[4 Archive/Templates/Interaction Template\|Interaction Template]]                                                                               | 8:27 PM - August 24, 2025 |
+| [[0 Inbox/Gali Nuriel\|Gali Nuriel]]                                                                                                             | 8:26 PM - August 24, 2025 |
+| [[0 Inbox/Nick Milo - Tweet Reply 20250823\|Nick Milo - Tweet Reply 20250823]]                                                                   | 7:41 PM - August 24, 2025 |
+| [[4 Archive/Notes/Nick Milo\|Nick Milo]]                                                                                                         | 7:40 PM - August 24, 2025 |
 | [[0 Inbox/Practice writing to create better YouTube videos\|Practice writing to create better YouTube videos]]                                   | 7:32 PM - August 24, 2025 |
 | [[0 Inbox/Serendipity Vehicle\|Serendipity Vehicle]]                                                                                             | 7:31 PM - August 24, 2025 |
 | [[0 Inbox/The Curse of Knowledge\|The Curse of Knowledge]]                                                                                       | 7:31 PM - August 24, 2025 |
@@ -49,18 +58,9 @@ Jason Capital keeps each of his notes on an index card and reviews them before g
 | [[0 Inbox/Mike Israetel\|Mike Israetel]]                                                                                                         | 1:45 PM - August 21, 2025 |
 | [[4 Archive/Notes/Ana Victoria Molina\|Ana Victoria Molina]]                                                                                     | 1:43 PM - August 21, 2025 |
 | [[4 Archive/Notes/Cassidy Chapman\|Cassidy Chapman]]                                                                                             | 1:42 PM - August 21, 2025 |
-| [[0 Inbox/Gali Nuriel\|Gali Nuriel]]                                                                                                             | 1:41 PM - August 21, 2025 |
 | [[0 Inbox/Vishen Lakhiani\|Vishen Lakhiani]]                                                                                                     | 1:36 PM - August 21, 2025 |
 | [[3 Resources/Jar of Awesome\|Jar of Awesome]]                                                                                                   | 1:36 PM - August 21, 2025 |
 | [[0 Inbox/Xenia Bogorad\|Xenia Bogorad]]                                                                                                         | 1:34 PM - August 21, 2025 |
 | [[0 Inbox/Francesca\|Francesca]]                                                                                                                 | 1:25 PM - August 21, 2025 |
-| [[0 Inbox/Vykintas Glodenis\|Vykintas Glodenis]]                                                                                                 | 1:23 PM - August 21, 2025 |
-| [[4 Archive/Notes/David Kips\|David Kips]]                                                                                                       | 1:22 PM - August 21, 2025 |
-| [[4 Archive/Notes/Elena Ozun\|Elena Ozun]]                                                                                                       | 1:22 PM - August 21, 2025 |
-| [[0 Inbox/Veerle Meeussen\|Veerle Meeussen]]                                                                                                     | 1:21 PM - August 21, 2025 |
-| [[0 Inbox/Valentina Garay\|Valentina Garay]]                                                                                                     | 1:21 PM - August 21, 2025 |
-| [[4 Archive/Notes/Taimi Karing\|Taimi Karing]]                                                                                                   | 1:21 PM - August 21, 2025 |
-| [[4 Archive/Notes/Sonia Chopra\|Sonia Chopra]]                                                                                                   | 1:21 PM - August 21, 2025 |
-| [[4 Archive/Notes/Simon Tan\|Simon Tan]]                                                                                                         | 1:21 PM - August 21, 2025 |
 
 { .block-language-dataview}

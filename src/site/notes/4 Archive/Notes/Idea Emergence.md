@@ -3,7 +3,7 @@
 ---
 
 tags:: #a/concept [[2 Areas/Second Brain\|Second Brain]] [[on/thinking\|on/thinking]] 
-author:: [[Nick Milo\|Nick Milo]]
+author:: [[4 Archive/Notes/Nick Milo\|Nick Milo]]
 up:: [[4 Archive/Notes/Linking Your Thinking\|Linking Your Thinking]]
 
 **Idea Emergence** is the process of how the ideas you encounter go from the "nothingness" to the "somethingness"—and how those ideas grow in richness, complexity, and personally meaningful value over time.
